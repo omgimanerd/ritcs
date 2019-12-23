@@ -1,0 +1,223 @@
+\documentclass[letterpaper,12pt]{article}
+
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{subcaption}
+
+\title{Intro to Intelligent Security Systems: Project 2}
+\author{Alvin Lin, Nathan Farrell, Peter Doyle}
+
+\begin{document}
+
+\lstset{basicstyle=\ttfamily\footnotesize,breaklines=true}
+\maketitle
+
+\section*{Executive Summary}
+For project 2, we implemented structures for misuse and anomaly based IDS
+systems using neural networks. The neural networks were designed and trained
+to recognize anomalous network connections using the data provided in the 1999
+KDD Cup.
+
+\section*{Specification}
+Our goal here was to train a neural network with the 1999 KDD Cup data to
+detect network anomalies with at least 80\% accuracy. We first need to be able
+to implement a misuse detection system using the neural network that can detect
+a specific attack. This needs to be done for five total attack types and
+requires the neural network to be trained to only identify one attack. Then the
+network must be retrained for each of the next 4 attacks. This step will result
+in us having five different models that can only detect one attack each. \par
+The next step is to use our neural network to detect multiple attacks with the
+same training data. So instead of the first part, where there is a different
+model for each attack, this must detect all five attacks. We are looking for
+five specific types attacks, not just any attack. This means that we should be
+able to identify the type of attack that is happening. \par
+The last part is an anomaly detection system. This will be trained to what a
+normal traffic pattern looks like. Then it will flag the patterns that it does
+not recognize. This should catch all types of attacks, but it will not be able
+to identify the specific attacks, as the only information that it knows is what
+normal traffic looks like.
+
+\section*{Methods and Techniques}
+
+\subsubsection*{Data Preparation}
+In order to use the data from the 1999 KDD Cup, we had to preprocess it and
+vectorize it for efficient handling. We reused a lot of the code from project 1
+to accomplish this. This code handled the vectorization of the input data and
+the mapping of the protocol and service names to numeric identifiers. For
+project 2, we also decided to use the entire KDD Cup data set instead of a
+small subset. Our training data consisted of 3,000,000 records while our
+validation data consisted of 1,898,431 records. We also had to generate an
+expected output set in order to properly train our neural network, which
+involved mapping a specified attack type to ones and all other traffic to
+zeros. This was precomputed and stored for each attack type that we wanted to
+classify.
+
+\subsubsection*{Neural Network}
+For this project, we used a neural network with two hidden layers and 32 nodes
+in each layer. We computed the value of the two hidden layers using rectified
+linear units (ReLU) as the activation function. The 1 dimensional output was
+computed using a sigmoid activation function. For loss, we used mean squared
+error and adjusted the weights to prioritize classification accuracy.
+
+\section*{Implementation}
+This project was implemented in Python 3. We made use of the
+\href{http://www.numpy.org/}{\texttt{numpy}}
+library for fast vector operations and data manipulation. This allowed for
+very easy data manipulation due to the syntactic sugar provided by Python and
+the powerful indexing operations provided by \texttt{numpy}. We did not have to
+compromise much on speed due to the optimized nature of \texttt{numpy} arrays.
+\par
+To design and train our neural networks, we used the \href{https://keras.io/}{
+\texttt{keras}} library on top of a \href{https://www.tensorflow.org/}{
+tensorflow} backend. This allowed for quick experimentation with the data and
+fast GPU-accelerated training.
+
+\subsubsection*{Usage Information}
+The project requires \texttt{keras} and runs off the \texttt{tensorflow}
+backend. Both can be installed via \href{https://pypi.org/}{PyPI}.
+\begin{lstlisting}
+pip install tensorflow
+pip install keras
+\end{lstlisting}
+To train a model on an attack type and run it against our validation set, we
+have prepared a simple command line interface to interact with our neural
+network. A directory named models must first be created in the project
+directory.
+\begin{lstlisting}
+mkdir models
+python nn_idps.py train <attack type> --epochs [num epochs]
+python nn_idps.py validate <attack type>
+\end{lstlisting}
+For a list of valid attack types to train against, please see
+\texttt{ATTACK\_TYPES\_MAP} in \texttt{constants.py}. Example usage:
+\begin{lstlisting}
+python nn_idps.py train normal --epochs 5
+python nn_idps.py validate normal
+python nn_idps.py train smurf
+python nn_idps.py validate normal
+\end{lstlisting}
+
+\section*{Tests}
+We used a separate chunk of the labeled data from the 1999 KDD Cup to perform
+validation and testing on our neural network. We first trained models to
+distinguish a specific attack from all other traffic and computed a confusion
+matrix for that attack.
+
+\subsubsection*{\texttt{neptune}}
+\begin{center}
+  \begin{tabular}{c|c|c}
+    \( n  = 1898431 \) & Predicted Anomalous & Predicted Normal \\
+    \hline
+    Actually Anomalous & 456191 & 204611 \\
+    \hline
+    Actually Normal & 11 & 1237618
+  \end{tabular}
+\end{center}
+Model Accuracy: 89.22\% \\
+Average Training Time: 259 seconds \\
+Memory Footprint: 3.42 GB
+
+\subsubsection*{\texttt{portsweep}}
+\begin{center}
+  \begin{tabular}{c|c|c}
+    \( n  = 1898431 \) & Predicted Anomalous & Predicted Normal \\
+    \hline
+    Actually Anomalous & 0 & 4022 \\
+    \hline
+    Actually Normal & 0 & 1894409
+  \end{tabular}
+\end{center}
+Model Accuracy: 99.79\% \\
+Average Training Time: 230 seconds \\
+Memory Footprint: 3.42 GB
+
+\subsubsection*{\texttt{satan}}
+\begin{center}
+  \begin{tabular}{c|c|c}
+    \( n  = 1898431 \) & Predicted Anomalous & Predicted Normal \\
+    \hline
+    Actually Anomalous & 0 & 14 \\
+    \hline
+    Actually Normal & 0 & 1898417
+  \end{tabular}
+\end{center}
+Model Accuracy: 99.99\% \\
+Average Training Time: 280 seconds \\
+Memory Footprint: 3.55 GB
+
+\subsubsection*{\texttt{smurf}}
+\begin{center}
+  \begin{tabular}{c|c|c}
+    \( n  = 1898431 \) & Predicted Anomalous & Predicted Normal \\
+    \hline
+    Actually Anomalous & 968151 & 177 \\
+    \hline
+    Actually Normal & 340 & 929763
+  \end{tabular}
+\end{center}
+Model Accuracy: 99.97\% \\
+Average Training Time: 244 seconds \\
+Memory Footprint: 3.41 GB
+
+\subsubsection*{\texttt{teardrop}}
+\begin{center}
+  \begin{tabular}{c|c|c}
+    \( n  = 1898431 \) & Predicted Anomalous & Predicted Normal \\
+    \hline
+    Actually Anomalous & 0 & 582 \\
+    \hline
+    Actually Normal & 0 & 1897849
+  \end{tabular}
+\end{center}
+Model Accuracy: 99.97\% \\
+Average Training Time: 253 seconds \\
+Memory Footprint: 3.38 GB
+
+\subsubsection*{General Anomaly Detection (normal vs all attacks)}
+We adjusted the model from distinguishing a single attack to distinguishing
+normal traffic from all anomalous traffic:
+\begin{center}
+  \begin{tabular}{c|c|c}
+    \( n  = 1898431 \) & Predicted Anomalous & Predicted Normal \\
+    \hline
+    Actually Anomalous & 259901 & 613 \\
+    \hline
+    Actually Normal & 4505 & 1633412
+  \end{tabular}
+\end{center}
+Model Accuracy: 99.73\% \\
+Average Training Time: 324 seconds \\
+Memory Footprint: 4.62 GB
+
+\subsubsection*{Analysis}
+Note that due to the unbalanced nature of the data, our neural network simply
+learned to flag all traffic as benign for low occurence anomalies such as
+\texttt{portsweep}, \texttt{satan}, and \texttt{teardrop}. It performed much
+more evenly when classifying anomalies such as \texttt{neptune} and
+\texttt{smurf}, both of which were much more prevalent in the training and
+validation data. It is important to note that a classifier that simply
+acknowledged all traffic as benign would have the same misclassification rate
+as our trained neural network for the low prevalence attacks. \par
+When distinguishing between normal traffic and \textit{any} anomalous traffic,
+our classifier had a 99.73\% accuracy, which was much better than our na\"{i}ve
+models used in project 1, so this was a drastic improvement. In general, the
+best performance indicators were instances where the model was fed balanced
+input data, since it overfit the data when classifying low prevalence attacks
+and simply considered all the traffic as benign.
+
+\section*{Development Process}
+Initially, our plan was to have each of us create our own neural networks and
+tackle a different section of the project. Alvin was going to do the part 3
+and 4, creating the networks that could only detect one type of attack. Nate
+did part 5, creating a network that would detect all five of those attacks.
+eter was supposed to do part 6, the anomaly IDS that would recognize normal
+traffic and flag abnormal messages. He was unable to get his network working,
+so Alvin retrained his to get the data. Each of us was responsible for the
+report sections that related to their sections, but Peter and Nate ended up
+filling in the rest of it to make up for their inability to help with the
+networks. The neural networks took 1-2 days to write, while training and
+tuning took a few hours.
+
+\end{document}
