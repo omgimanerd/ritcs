@@ -1,0 +1,3033 @@
+vin,color,brand,model,engine,transmission,mileage,price,sale,dealer,owner
+0,Pearl,Jaguar,Sovereign,V6,Standard,7893,149730,438,28,322
+1,Beige,Renault,RX4,Diesel,Standard,43908,142015,980,9,204
+2,Purple,Volkswagen,Jetta Wagon,W,Standard,3442,147752,810,7,376
+3,Grey,Kia,Carens II,W,Automatic,56042,28609,868,3,347
+4,Black,Lexus,RX 400h,Electric,Automatic,16937,54790,335,8,210
+5,Red,Nissan,Versa,V6,Standard,24996,143405,398,24,459
+6,Black,Lexus,Harrier 4x4,Petrol,Standard,1732,13373,648,2,348
+7,Beige,Suzuki,Sidekick,Diesel,Standard,55009,27633,443,4,256
+8,Red,Alfa Romeo,155,Inine,Automatic,33121,43298,,15,
+9,Grey,Ford,Fusion,W,Standard,60527,33598,,24,
+10,Orange,Jaguar,XR8,V8,Standard,65813,78949,611,5,319
+11,Red,Honda,Civic Hybrid,Petrol,Standard,14322,101550,83,27,382
+12,Dark Green,Mazda,Demio,V6,Standard,48175,127696,78,17,142
+13,Blue,Ford,Club Wagon,Petrol,Automatic,58306,41642,363,14,87
+14,Light Grey,Hyundai,Grandeur XG,V6,Automatic,24468,17025,908,22,67
+15,Red,Alfa Romeo,GT,V8,Standard,10323,148118,252,21,25
+16,Orange,BMW,330,V6,Automatic,27186,29447,731,20,118
+17,Grey,Peugeot,807,Diesel,Standard,28557,98675,829,5,340
+18,Red,Jaguar,XJR,V8,Automatic,54507,55564,553,12,217
+19,Black,Mazda,Miata,V8,Standard,30449,2774,992,20,88
+20,Dark Grey,Kia,Sephia Sedan,V8,Automatic,14342,100301,921,16,190
+21,Light Grey,Lexus,RX 400h,Inine,Standard,24521,146111,608,5,84
+22,Beige,Audi,100 C4 Series,Petrol,Standard,55957,55559,631,19,401
+23,Grey,BMW,8 Series,Inine,Automatic,72466,90285,721,23,72
+24,Red,Pontiac,Trans Sport,Petrol,Standard,53763,114331,998,11,264
+25,Dark Green,Jaguar,XJ8,W,Automatic,16777,136290,166,12,55
+26,Orange,Pontiac,Montana SV6,Electric,Automatic,53953,13039,700,13,259
+27,Orange,Hyundai,Stellar,Petrol,Standard,72123,31714,372,21,105
+28,Yellow,Toyota,T100,Diesel,Standard,25493,26917,635,22,435
+29,Light Grey,Pontiac,Trans Am,Electric,Standard,69254,141828,314,24,401
+30,Grey,Honda,Civic,Electric,Standard,15875,89346,541,19,333
+31,Dark Blue,Jaguar,XJ-SC,Inine,Automatic,13062,31285,220,14,386
+32,Purple,BMW,M3,Electric,Standard,35835,35781,,23,
+33,Pearl,Ferrari,512,Petrol,Standard,34903,111729,956,10,201
+34,Grey,Subaru,GL,Electric,Standard,72175,121272,331,22,44
+35,Black,Audi,4000,Diesel,Standard,10573,145797,978,5,78
+36,Dark Blue,Peugeot,107,Electric,Standard,17176,140587,,1,
+37,Yellow,Subaru,SVX,V8,Standard,64643,16355,60,7,452
+38,Pearl,Lexus,SC 300,Petrol,Standard,74435,75477,,0,
+39,Purple,Renault,Magnum,W,Standard,29100,73956,870,12,271
+40,Dark Blue,Hyundai,Starex,V6,Standard,15243,21560,775,17,81
+41,Green,Honda,Insight,Electric,Automatic,51433,40857,943,11,238
+42,Dark Blue,Kia,Cerato,Diesel,Automatic,5652,84178,228,10,127
+43,Orange,Volkswagen,Caddy Pickup,V6,Automatic,64437,88459,894,21,301
+44,Blue,Lexus,ES 300,W,Automatic,26518,46332,74,8,375
+45,Grey,Subaru,Loyale,V8,Automatic,15189,146741,239,22,272
+46,Dark Blue,Kia,Carstar,V6,Automatic,74820,109851,321,18,208
+47,Black,Peugeot,505,W,Automatic,7769,118153,243,21,451
+48,Orange,BMW,Bavaria,Electric,Automatic,16317,47698,965,14,189
+49,White,Kia,Sephia,Electric,Standard,3967,34923,720,18,353
+50,Beige,Maserati,GranSport Spyder,Inine,Standard,27260,42481,579,5,206
+51,Purple,Pontiac,G6,Inine,Automatic,4794,22967,554,6,417
+52,Yellow,Mazda,Metro,V8,Automatic,18536,138797,345,16,83
+53,Light Grey,Nissan,Titan,V8,Automatic,44055,102789,874,28,110
+54,Dark Grey,Maserati,Spyder,Diesel,Automatic,68679,135063,289,2,206
+55,Red,Ford,Elite,Inine,Standard,22898,116473,625,16,103
+56,Black,Subaru,B9 Tribeca,Inine,Standard,66944,104454,155,25,127
+57,Purple,Volkswagen,Combi,V8,Automatic,3588,11645,383,17,499
+58,Light Grey,Toyota,Prius,Diesel,Automatic,71559,91871,,17,
+59,Orange,Hyundai,Amica,Inine,Automatic,1551,31283,849,24,306
+60,Grey,Lexus,ES 350,Inine,Automatic,74421,18398,110,14,329
+61,Purple,Hyundai,Atos,Inine,Automatic,37769,82594,622,4,320
+62,Grey,Fiat,Ducato,Petrol,Standard,53578,101674,334,4,126
+63,Black,Renault,Medaillon,Inine,Standard,6464,79880,390,11,274
+64,Red,Jaguar,X300,V6,Automatic,17772,16340,608,5,84
+65,Grey,Hyundai,Grandeur XG,Diesel,Automatic,40877,50985,265,11,372
+66,Grey,Hyundai,Stellar,V8,Standard,59408,77054,860,3,389
+67,Light Grey,Renault,Premium,Petrol,Automatic,29060,122170,902,4,6
+68,Blue,Jaguar,Vanden Plas,V6,Automatic,69540,20581,921,16,190
+69,Green,Peugeot,406,Diesel,Standard,18870,133202,932,4,484
+70,Dark Grey,BMW,540,Electric,Standard,2987,8519,564,1,217
+71,Purple,Nissan,X-Trail,Electric,Standard,30134,43861,,16,
+72,White,Subaru,B9 Tribeca,V8,Automatic,30584,104682,455,24,202
+73,Beige,Alfa Romeo,147,V6,Automatic,20879,42601,496,1,367
+74,Dark Blue,Renault,Alliance,V6,Standard,46017,112853,162,11,453
+75,Orange,Mazda,B2300,V8,Automatic,5135,56402,983,20,56
+76,Dark Blue,Porsche,Carrera 911S,W,Standard,24165,29949,275,5,328
+77,Pearl,Mazda,Cosmo,W,Standard,60184,124167,853,19,342
+78,Orange,Renault,17,Inine,Automatic,41657,2197,,17,
+79,Beige,Alfa Romeo,GT,Inine,Standard,31895,9310,640,27,339
+80,Dark Grey,Porsche,Speedster,Diesel,Automatic,19369,132184,525,8,311
+81,Green,Audi,V8,Electric,Automatic,2918,48615,,12,
+82,White,Fiat,Seicento,Inine,Automatic,42613,105646,842,2,64
+83,White,Suzuki,Swift+,Petrol,Automatic,52381,105006,185,11,278
+84,White,Fiat,Uno,W,Automatic,31893,25732,291,19,384
+85,Light Grey,Volkswagen,Truck Bus,Inine,Standard,54328,49963,,14,
+86,Dark Grey,Porsche,Boxster,W,Automatic,4178,28235,375,18,131
+87,Orange,Volkswagen,Truck Bus,Petrol,Automatic,38474,74529,65,17,443
+88,Blue,Volkswagen,Jetta,W,Standard,18860,52251,21,4,110
+89,Dark Green,Chevrolet,Venture,V8,Automatic,34891,74805,486,13,338
+90,Dark Green,GMC,Suburban,V8,Automatic,61460,17398,298,4,372
+91,White,Honda,Accord Coupé,W,Standard,30072,107403,698,5,255
+92,Grey,GMC,Pickup,Diesel,Standard,11852,80202,292,27,257
+93,Green,Volkswagen,Golf IV,V6,Automatic,63163,59984,,14,
+94,Orange,Audi,4000,Petrol,Standard,25752,54732,333,18,423
+95,Blue,Jaguar,XJ6 Serie 2,Diesel,Standard,51122,96953,,24,
+96,Yellow,Ferrari,246,Diesel,Automatic,31463,136576,402,20,355
+97,Grey,Fiat,Scudo,V6,Standard,58201,41781,715,22,5
+98,Dark Grey,Kia,Amanti,W,Standard,66350,24617,196,16,426
+99,Yellow,BMW,330,W,Standard,10849,17249,364,13,458
+100,Pearl,Renault,Encore,W,Automatic,16448,33378,935,14,433
+101,White,Subaru,WRX STi,Electric,Automatic,68777,7988,942,12,400
+102,Dark Blue,Suzuki,Swift,Diesel,Standard,34386,80066,,14,
+103,Red,BMW,750,Electric,Standard,7435,10148,763,25,219
+104,Pearl,Suzuki,Vitara,W,Standard,5748,73393,769,2,7
+105,Grey,Pontiac,Fleetleader,V8,Automatic,1672,103682,870,12,271
+106,Beige,Ferrari,365,W,Automatic,58073,75733,949,26,381
+107,Yellow,Toyota,Pickup,Inine,Standard,3292,137785,41,18,208
+108,Dark Green,Hyundai,Amica,V8,Standard,53269,37000,,1,
+109,Dark Blue,Maserati,430,Petrol,Automatic,41529,141829,72,1,110
+110,Pearl,Maserati,GranSport Spyder,V6,Automatic,62923,120323,603,25,95
+111,Light Grey,Ferrari,GTS,V6,Standard,5462,84362,14,19,210
+112,Black,Kia,Spectra 5,V8,Automatic,38223,21620,536,27,140
+113,White,Toyota,LandCruiser 90,Inine,Standard,68510,59478,12,13,67
+114,Grey,Porsche,Cayenne,V8,Standard,34169,40008,,2,
+115,Light Grey,Jaguar,XJ Series,Petrol,Automatic,58368,140468,,7,
+116,Black,Hyundai,XG300,V8,Automatic,7250,78263,999,23,172
+117,Dark Green,Peugeot,504,Petrol,Standard,65428,65773,,29,
+118,Black,Volkswagen,Fox,Petrol,Automatic,26008,21218,116,28,16
+119,Red,Volkswagen,Golf Plus,W,Automatic,57288,146115,475,24,373
+120,Dark Green,Audi,V8,W,Standard,24703,146226,745,26,403
+121,White,Fiat,500,Diesel,Standard,68372,70156,725,1,205
+122,Yellow,GMC,Canyon,Inine,Standard,436,104070,581,5,202
+123,Light Grey,GMC,Yukon XL,W,Automatic,74687,130684,361,1,397
+124,Red,Volkswagen,Golf Cabriolet,Diesel,Automatic,985,137631,216,24,456
+125,Beige,Peugeot,1007,V6,Standard,6141,143294,,7,
+126,Red,Maserati,Quattroporte,W,Automatic,67595,74678,650,23,467
+127,Dark Green,Renault,5,W,Standard,32542,35438,,12,
+128,Dark Green,Jaguar,XJ12,V8,Automatic,53055,133399,,9,
+129,Red,Lexus,SC 430,Diesel,Standard,25274,89186,316,1,407
+130,Dark Grey,GMC,Jimmy,W,Automatic,19585,24971,834,16,467
+131,Dark Blue,Nissan,King Cab,Electric,Standard,8512,4671,553,12,217
+132,Pearl,Audi,A3,V6,Standard,44228,62440,17,0,398
+133,Dark Green,Chevrolet,Beretta,W,Standard,44685,88784,,25,
+134,Dark Green,Ferrari,196,W,Automatic,36605,51418,588,3,441
+135,Yellow,Fiat,Idea,Electric,Automatic,29820,59806,675,2,486
+136,Red,GMC,Sprint,Petrol,Automatic,30562,67398,172,9,43
+137,Black,Chevrolet,Chevette,V6,Automatic,66040,147207,588,3,441
+138,Orange,Alfa Romeo,GTV-6,V8,Automatic,44397,71560,132,27,375
+139,Purple,BMW,525,Inine,Automatic,39924,102318,,6,
+140,Purple,BMW,5 Series,Inine,Standard,53072,74878,14,19,210
+141,Purple,Nissan,Sunny Combi,V6,Automatic,14172,136522,541,19,333
+142,Pearl,Volkswagen,Taro,V6,Automatic,19936,44862,,12,
+143,Orange,Jaguar,XJ Series,W,Automatic,58483,13433,921,16,190
+144,Red,Volkswagen,Polo,Diesel,Standard,5361,107737,585,11,147
+145,Green,Alfa Romeo,GT,V6,Automatic,73402,76081,961,23,62
+146,Black,Ferrari,286,V8,Standard,22228,43267,483,27,125
+147,Dark Blue,Alfa Romeo,Spider,Petrol,Automatic,69490,102552,697,18,171
+148,Purple,BMW,320,V6,Standard,58869,10355,641,19,443
+149,Beige,Suzuki,Forsa,V8,Standard,45375,49391,,15,
+150,Green,Suzuki,SX4,Diesel,Standard,23931,101026,849,24,306
+151,Dark Grey,GMC,Suburban,V6,Standard,51311,19576,18,10,409
+152,Green,Renault,21,Petrol,Automatic,3114,43649,267,3,369
+153,Orange,Porsche,924,Electric,Automatic,14621,26571,794,10,165
+154,White,Mazda,6 Sport,Petrol,Standard,74083,112508,577,9,121
+155,Purple,Renault,Espace,Electric,Automatic,38633,137866,852,4,330
+156,Pearl,Alfa Romeo,145,Diesel,Standard,4795,82759,,19,
+157,Purple,Honda,Accord Coupé,V6,Automatic,38697,84788,,9,
+158,Dark Grey,Alfa Romeo,146,Electric,Standard,6835,99215,841,12,197
+159,Grey,Volkswagen,Corrado,Diesel,Automatic,73932,53710,857,4,23
+160,Dark Grey,Volkswagen,GTI,Inine,Standard,18837,111841,,12,
+161,Dark Grey,Fiat,131,W,Standard,54812,128166,666,21,48
+162,Dark Blue,Volkswagen,Eos,Electric,Automatic,8589,65221,235,22,436
+163,Dark Green,Alfa Romeo,155,W,Automatic,62409,142533,781,4,27
+164,Black,Mazda,B-series,Petrol,Standard,58374,108497,225,2,309
+165,Dark Blue,Suzuki,Jimny,Electric,Standard,60566,90787,163,18,177
+166,White,Suzuki,Esteem,Electric,Automatic,71161,77213,977,5,34
+167,Red,Volkswagen,T5 Pickup,Electric,Standard,38362,18400,737,0,134
+168,Yellow,Mazda,323 F (BJ),Electric,Automatic,56059,49129,460,15,489
+169,Black,Maserati,Spyder,V8,Automatic,21901,63963,,29,
+170,Dark Grey,Ferrari,412,V8,Standard,20885,92402,241,4,211
+171,Yellow,Alfa Romeo,145,Petrol,Standard,55367,98506,348,22,57
+172,Dark Blue,Pontiac,Trans Sport,V8,Automatic,38386,69153,673,4,43
+173,Orange,Toyota,Cressida,Petrol,Standard,13699,104316,146,24,210
+174,Dark Blue,Nissan,Patrol,Inine,Automatic,29898,63876,329,14,133
+175,Red,Ford,Probe,Inine,Standard,57,87805,768,12,234
+176,Light Grey,Ford,F-250,Petrol,Standard,11056,83689,,5,
+177,White,Lexus,LS 400,V6,Standard,29726,101075,708,22,312
+178,Yellow,Nissan,Titan,V6,Automatic,35239,5675,428,18,490
+179,Red,Hyundai,Terracan,V8,Standard,63206,144960,655,23,33
+180,Purple,Mazda,MX 3,W,Automatic,60923,38036,833,18,482
+181,Beige,Honda,Civic,V8,Standard,40506,49179,893,11,323
+182,Blue,Alfa Romeo,75,Petrol,Standard,49857,92915,522,0,385
+183,Pearl,Alfa Romeo,GTV,Petrol,Automatic,16370,86554,506,23,125
+184,Purple,Audi,Q7,Diesel,Automatic,67264,13102,490,21,444
+185,Light Grey,Fiat,Ulysse,Inine,Standard,72799,28489,683,17,125
+186,Black,Maserati,Merak,Inine,Automatic,4784,32918,803,0,237
+187,Beige,Jaguar,XJ12,V6,Standard,25697,81840,185,11,278
+188,Green,Pontiac,Ventura,V6,Automatic,28888,81536,630,14,122
+189,Light Grey,Renault,Modus,Electric,Standard,28162,141065,351,8,340
+190,White,Porsche,924,Inine,Automatic,43044,94908,,2,
+191,Dark Green,Volkswagen,Polo,Petrol,Automatic,45692,9727,953,29,478
+192,Blue,Mazda,Xedos 9,W,Standard,1605,116453,278,7,362
+193,Dark Grey,Ford,Custom,Petrol,Automatic,28137,102370,89,14,405
+194,Black,BMW,M3,Petrol,Automatic,56758,99059,726,7,493
+195,Grey,Suzuki,Vitara,Diesel,Standard,57233,42007,645,8,93
+196,Purple,Chevrolet,Z24,Electric,Standard,59120,18557,,19,
+197,Dark Green,Fiat,Doblò,Petrol,Automatic,57477,121518,20,8,28
+198,Pearl,Maserati,Ghibli,V6,Automatic,72678,128024,471,10,196
+199,Blue,Ferrari,GTS,Electric,Automatic,39048,47365,212,8,450
+200,Grey,Fiat,Palio,V8,Automatic,40870,129899,168,9,106
+201,Green,Pontiac,Fiero,W,Standard,36356,43850,504,15,126
+202,Grey,Toyota,Yaris,Electric,Standard,21402,61051,440,7,487
+203,Light Grey,Subaru,Leone,W,Automatic,44893,12759,890,5,274
+204,Pearl,Kia,Carens,V8,Standard,46867,80223,866,4,183
+205,Beige,Peugeot,605,V6,Standard,40097,102913,231,28,497
+206,Pearl,Kia,Sorento,W,Automatic,19499,38261,875,0,489
+207,Yellow,Alfa Romeo,GT,V6,Standard,33076,72242,,5,
+208,Dark Grey,BMW,635,V6,Standard,43682,45883,644,19,145
+209,Orange,Mazda,B2600,W,Automatic,70944,140160,748,20,431
+210,Grey,Honda,Integra,Electric,Standard,1710,52364,903,11,159
+211,White,Nissan,Sentra,Petrol,Standard,30784,30731,,19,
+212,Dark Blue,Suzuki,Esteem,Petrol,Automatic,44999,116615,,25,
+213,Purple,GMC,Tracker,Diesel,Standard,46964,110747,402,20,355
+214,Dark Grey,Ford,Puma,Diesel,Standard,68934,48101,783,1,60
+215,Beige,Chevrolet,K1500,V6,Automatic,72388,91281,328,5,433
+216,Orange,Mercedes Benz,SLK350,V8,Standard,28094,127834,831,15,155
+217,White,Chevrolet,C2500,Inine,Standard,25404,43928,153,2,50
+218,Light Grey,Nissan,Sentra,Inine,Standard,26478,28662,704,16,75
+219,Red,Porsche,Cayman,Petrol,Standard,13122,123406,270,19,154
+220,Light Grey,Toyota,MR2 Spyder,Inine,Standard,36928,106794,689,25,5
+221,Pearl,Fiat,Panda,Inine,Automatic,39683,37377,234,8,80
+222,Green,Jaguar,XJ8 Vanden Plas,Electric,Standard,51467,125378,78,17,142
+223,Pearl,GMC,Envoy XUV,Electric,Automatic,12539,6177,,19,
+224,Purple,Ferrari,500,Electric,Standard,8653,34650,886,1,404
+225,Grey,Alfa Romeo,Alfetta,W,Automatic,27229,117515,,22,
+226,Yellow,Kia,Mentor,W,Standard,34438,86945,243,21,451
+227,Dark Blue,GMC,Sonoma,V8,Standard,25705,108555,726,7,493
+228,Yellow,Porsche,Carrera 911S,Inine,Automatic,4993,19862,38,7,114
+229,Grey,Audi,A3,Inine,Automatic,15267,94864,,25,
+230,Purple,Pontiac,Formula,Petrol,Standard,74840,129155,782,17,180
+231,Red,Renault,Encore,V8,Automatic,2352,86247,627,6,304
+232,White,Porsche,Carrera,Inine,Automatic,13588,78157,504,15,126
+233,Light Grey,Renault,Modus,Diesel,Automatic,3968,33550,,8,
+234,Yellow,BMW,6 Series,Diesel,Automatic,69052,8788,473,5,233
+235,Red,Ferrari,550,Inine,Automatic,37518,124018,,9,
+236,Grey,Porsche,Speedster,W,Standard,16866,2595,987,4,261
+237,Grey,Toyota,Cressida,V6,Standard,35047,141889,,17,
+238,Grey,Alfa Romeo,GT,W,Automatic,49004,76206,810,7,376
+239,Beige,Ford,E-150,Diesel,Standard,15621,65542,,20,
+240,Light Grey,Honda,Civic Hybrid,V6,Standard,53058,125530,485,24,216
+241,Green,Mercedes Benz,C320,Inine,Standard,45004,11432,620,12,476
+242,Orange,Jaguar,XJ Series,Petrol,Automatic,48053,146598,769,2,7
+243,Purple,Nissan,Almera Tino,W,Standard,15016,79372,0,25,478
+244,Dark Grey,BMW,Z8,V8,Automatic,20214,56401,887,29,343
+245,Blue,Renault,Magnum,V8,Standard,46970,47969,402,20,355
+246,Blue,Maserati,3500 GT,Inine,Standard,65444,5245,897,7,65
+247,Yellow,Fiat,Seicento,Petrol,Standard,53779,75198,,0,
+248,Pearl,Fiat,Croma,Petrol,Automatic,47191,59319,66,4,351
+249,Dark Green,Ferrari,196,W,Automatic,64962,48986,723,10,136
+250,Blue,Nissan,Pathfinder Armada,V6,Standard,50697,2604,769,2,7
+251,White,Lexus,LS 430,Electric,Automatic,33646,123383,637,14,158
+252,Light Grey,Audi,R8,V8,Automatic,53353,93141,413,13,35
+253,Yellow,Maserati,Shamal,Petrol,Automatic,14791,110641,,12,
+254,Beige,Chevrolet,G1500,Petrol,Automatic,26043,8710,499,2,355
+255,Light Grey,Alfa Romeo,Milano,V8,Automatic,36398,142202,313,1,126
+256,Orange,Kia,Picanto,Electric,Automatic,2408,80582,299,13,294
+257,Light Grey,BMW,Isetta,Petrol,Standard,49141,112948,,27,
+258,Red,GMC,Van,Electric,Automatic,74640,84269,272,4,3
+259,Orange,Porsche,928,W,Automatic,42088,102032,893,11,323
+260,Dark Blue,Maserati,GranSport,Diesel,Standard,16589,102344,153,2,50
+261,Orange,Pontiac,Fleetleader,V6,Standard,56371,84956,235,22,436
+262,Grey,Honda,Concerto,W,Automatic,842,122760,480,6,339
+263,Beige,Maserati,Biturbo,V8,Standard,5366,91503,879,0,205
+264,Green,Subaru,SVX,W,Standard,71259,107396,827,25,114
+265,Dark Grey,Subaru,Outback Sport,Petrol,Automatic,69694,35042,817,24,247
+266,Blue,Suzuki,Aerio,Inine,Standard,227,52655,18,10,409
+267,Blue,Mazda,Bravo 2600,Electric,Standard,70434,57068,874,28,110
+268,Green,Mercedes Benz,C350,Petrol,Automatic,6046,130652,831,15,155
+269,Orange,Fiat,Dino,Diesel,Standard,5243,106478,16,26,107
+270,Beige,GMC,Yukon XL,W,Automatic,26371,59224,974,25,89
+271,Green,Audi,100 C4 Series,Petrol,Automatic,20972,60626,954,2,464
+272,Green,Ferrari,268,Electric,Automatic,63395,71144,792,21,284
+273,Orange,Ford,Custom,Petrol,Standard,66917,68075,464,11,202
+274,Pearl,Ford,Sierra,V8,Standard,51873,67254,960,9,164
+275,Blue,Porsche,911 Turbo,V6,Automatic,51801,105857,860,3,389
+276,Green,Peugeot,1007,V6,Automatic,45836,102952,294,0,305
+277,Dark Grey,Audi,100 V6,Inine,Automatic,6887,15003,,23,
+278,Dark Blue,Subaru,4x4 Turbo,Electric,Standard,961,101611,395,26,168
+279,Black,Fiat,Ulysse II,V8,Automatic,34317,113187,,11,
+280,Grey,Chevrolet,Trailblazer,Electric,Automatic,13248,59324,254,12,478
+281,Beige,Jaguar,XK,Petrol,Standard,52196,51299,932,4,484
+282,Yellow,Chevrolet,K2500,V8,Standard,10210,55509,378,19,288
+283,Dark Green,Audi,RS 6,Diesel,Standard,45861,3413,63,23,216
+284,Grey,Mazda,MX-5,W,Automatic,29218,133933,24,8,88
+285,Dark Green,Maserati,Khamsin,Electric,Standard,49683,12783,209,23,418
+286,Blue,Nissan,200SX,Petrol,Automatic,48579,19178,602,29,447
+287,Yellow,Chevrolet,Envoy,Inine,Standard,48674,22887,709,14,177
+288,White,Chevrolet,Corsica,Diesel,Standard,30015,67716,,0,
+289,Grey,Pontiac,Ventura,Diesel,Standard,60570,94022,399,5,101
+290,Green,Porsche,996,W,Standard,56592,122664,534,29,399
+291,Blue,Jaguar,XKR,Petrol,Standard,16798,82167,275,5,328
+292,Black,Ford,E-150,V8,Standard,50200,149861,,24,
+293,Light Grey,Audi,100 C4 Series,V8,Standard,53859,124533,342,6,221
+294,Black,Volkswagen,Truck Bus,V6,Automatic,16617,43237,,25,
+295,Green,Ferrari,599,Petrol,Automatic,8541,26584,968,21,127
+296,Dark Blue,GMC,Pickup,Diesel,Automatic,16066,97193,,23,
+297,Purple,Chevrolet,Pick-up,W,Standard,6155,10990,328,5,433
+298,Beige,Kia,Credos,Diesel,Standard,22494,149738,912,16,230
+299,White,Fiat,Spider,Inine,Standard,64564,20194,324,11,275
+300,Blue,Kia,Sedona,V8,Standard,67469,66056,934,7,21
+301,Black,Alfa Romeo,GTV-6,W,Standard,62875,19035,,29,
+302,Light Grey,Lexus,Harrier 4x4,Inine,Automatic,9360,85199,880,12,160
+303,Light Grey,Porsche,Carrera,V8,Automatic,3213,115031,,14,
+304,Dark Grey,Suzuki,Forsa,Petrol,Standard,67644,128152,,15,
+305,Dark Green,Fiat,X1/9,V6,Standard,58144,19651,,1,
+306,Orange,Fiat,Palio,W,Automatic,23074,24971,511,17,427
+307,Dark Grey,Porsche,911,V6,Standard,68531,147363,271,9,175
+308,Light Grey,Subaru,STi,Inine,Automatic,9383,23531,,6,
+309,Red,Fiat,130,Petrol,Automatic,13481,142991,846,9,463
+310,Blue,Audi,100 V6,V6,Automatic,8817,31341,173,21,10
+311,Black,Mercedes Benz,S420,Petrol,Automatic,60974,129276,466,28,323
+312,Yellow,Suzuki,Liana,Inine,Standard,24661,76681,878,6,38
+313,Light Grey,Chevrolet,Beauville,Diesel,Standard,57167,13043,,19,
+314,Yellow,Chevrolet,C2500,V6,Standard,67531,93382,757,3,47
+315,Grey,Kia,Mentor,Inine,Automatic,30541,121259,899,22,237
+316,Grey,Jaguar,XK8,Petrol,Standard,45476,9518,154,24,365
+317,Dark Grey,Suzuki,Liana,V8,Automatic,29764,69213,883,16,35
+318,White,Alfa Romeo,Spider,Diesel,Automatic,53324,146820,,6,
+319,Pearl,Jaguar,X300,W,Automatic,74721,141423,605,26,386
+320,White,Audi,Q7,Petrol,Standard,48043,24255,,16,
+321,Yellow,Lexus,SC 300,Petrol,Automatic,16398,149096,394,10,148
+322,Light Grey,Suzuki,Jimny,Diesel,Standard,68434,52621,857,4,23
+323,Pearl,Jaguar,XJ12,Petrol,Automatic,22317,8805,44,11,91
+324,Red,Volkswagen,Golf I,Electric,Automatic,66774,9918,726,7,493
+325,Blue,Kia,Sephia Sedan,V6,Automatic,14212,102774,416,23,165
+326,Black,Porsche,Boxster,Diesel,Automatic,45044,41925,,21,
+327,Yellow,Renault,19,Electric,Automatic,67561,49700,605,26,386
+328,Dark Green,Audi,Fox,Petrol,Automatic,16221,29588,560,18,82
+329,Black,Pontiac,Sunfire,V8,Automatic,63154,139980,38,7,114
+330,Green,Maserati,Coupé,W,Standard,46550,27333,860,3,389
+331,Beige,Subaru,Leone,W,Automatic,10964,136217,652,25,51
+332,Blue,Hyundai,Atos,V6,Automatic,47506,124707,31,19,420
+333,Dark Grey,Subaru,Forester,Petrol,Standard,71839,30275,,17,
+334,Red,Volkswagen,Polo Classic,Petrol,Automatic,56761,43128,418,26,152
+335,Dark Blue,Hyundai,Amica,Inine,Standard,64642,34199,202,5,128
+336,Red,Lexus,RX 330,Electric,Standard,14049,112507,,22,
+337,Pearl,Mazda,Cosmo,Petrol,Standard,58472,110306,332,9,428
+338,Blue,Jaguar,E-type,Inine,Automatic,63634,43001,669,10,383
+339,Beige,Pontiac,Formula,Diesel,Standard,33596,139099,838,8,193
+340,Dark Blue,Honda,Pilot,Diesel,Standard,22455,103684,,5,
+341,Grey,Honda,Civic Sedan,V8,Standard,47039,137106,55,25,150
+342,Orange,Peugeot,605,W,Standard,22278,4198,,29,
+343,Light Grey,Audi,RS 6,W,Standard,24459,109926,546,24,452
+344,Orange,BMW,3 Series,Diesel,Standard,49814,16262,296,6,278
+345,Yellow,Pontiac,Sunbird,V6,Automatic,65392,17488,741,19,471
+346,Green,Fiat,Strada,W,Automatic,18608,125958,798,0,402
+347,Light Grey,BMW,550,Diesel,Standard,54270,52097,982,17,433
+348,Green,Lexus,ES 250,Diesel,Automatic,675,6693,587,29,365
+349,Dark Grey,Volkswagen,T4 Pickup,Diesel,Standard,65986,138482,193,16,88
+350,Red,Renault,Avantime,Inine,Automatic,40491,46874,913,20,447
+351,Pearl,Pontiac,J2000,Petrol,Automatic,61347,5941,836,10,466
+352,Dark Grey,Mercedes Benz,SL500,Inine,Automatic,5726,6867,958,16,215
+353,Green,Suzuki,Verona,Electric,Standard,39072,44102,,5,
+354,Yellow,Mercedes Benz,C36,Electric,Standard,71452,16011,719,26,137
+355,White,Lexus,RX 350,V6,Automatic,36413,119585,404,0,444
+356,Light Grey,Audi,100,Petrol,Standard,31784,88014,392,16,343
+357,Orange,Audi,A6,W,Automatic,62183,121347,245,15,264
+358,Beige,Lexus,IS 250,Inine,Automatic,13249,101556,119,10,2
+359,Green,Maserati,430,V6,Automatic,17751,20597,572,18,307
+360,White,Maserati,GranSport,Electric,Automatic,24947,118586,568,11,287
+361,Orange,Renault,Kangoo,Electric,Standard,46369,143521,,13,
+362,Black,Renault,Magnum,Petrol,Automatic,64446,132610,105,3,453
+363,Black,Renault,Clio,V8,Automatic,74858,29803,584,1,135
+364,Grey,Volkswagen,Corrado,W,Standard,64246,123499,551,10,276
+365,Pearl,Jaguar,XJ,V6,Standard,11735,19910,984,24,52
+366,Light Grey,Porsche,Speedster,Petrol,Standard,40799,13054,483,27,125
+367,Orange,Ford,Escort,W,Standard,5479,121350,658,5,248
+368,Purple,Mercedes Benz,100 Van,Inine,Standard,25945,120636,321,18,208
+369,Orange,Chevrolet,Z28,V6,Automatic,28161,25607,755,17,409
+370,Blue,Renault,Midlum,V6,Automatic,30747,98513,352,3,30
+371,Black,Pontiac,6000,V8,Automatic,7356,130251,538,6,185
+372,Green,Mercedes Benz,560,V8,Automatic,9328,42435,570,22,34
+373,Dark Grey,Audi,R8,Petrol,Standard,42341,85159,,10,
+374,Black,Suzuki,Vitara,V6,Standard,46777,100308,67,19,363
+375,Black,Toyota,Avensis,Inine,Automatic,33212,148990,630,14,122
+376,Grey,Fiat,Dino,Electric,Standard,40149,73543,975,16,25
+377,Dark Green,Mazda,323 F (BA),Petrol,Standard,57562,68585,692,3,236
+378,Grey,Subaru,Forester,Inine,Automatic,9578,68860,235,22,436
+379,Dark Grey,Lexus,ES 330,Petrol,Standard,27673,81972,115,24,300
+380,Dark Blue,Suzuki,X-90,Diesel,Automatic,14637,75281,,2,
+381,Red,Kia,Spectra EX,Electric,Automatic,7853,45760,316,1,407
+382,Green,Fiat,Croma,W,Automatic,5083,58302,717,8,347
+383,Orange,Volkswagen,T4 Pickup,Electric,Standard,18429,34816,352,3,30
+384,Green,Suzuki,Jimny,Electric,Automatic,62894,30403,740,18,225
+385,Red,Fiat,131,Petrol,Standard,47226,89924,179,1,22
+386,Dark Green,Ford,F-100,V8,Standard,31057,140353,82,9,305
+387,Blue,GMC,Safari,Petrol,Standard,52058,69889,963,12,269
+388,Pearl,Mercedes Benz,Vaneo,Diesel,Standard,69473,102983,240,20,348
+389,Red,Mazda,Xedos 9,V8,Automatic,57624,2420,855,19,290
+390,Black,Toyota,Amazon,Inine,Standard,72639,132458,663,13,7
+391,Yellow,Kia,Shuma,W,Automatic,70379,50501,,18,
+392,Dark Blue,Honda,Shuttle,Petrol,Automatic,51489,106064,208,22,368
+393,Blue,Audi,100 C4 Series,Inine,Standard,53373,110863,252,21,25
+394,Dark Blue,Honda,Civic Si,W,Standard,28044,146142,,4,
+395,Purple,Honda,Accord,Inine,Automatic,65058,137600,554,6,417
+396,Blue,BMW,318,W,Automatic,5944,28667,886,1,404
+397,Dark Green,Subaru,Legacy,Inine,Standard,2933,64650,385,0,252
+398,Pearl,Pontiac,Sunburst,V8,Standard,22325,25037,980,9,204
+399,Yellow,GMC,Typhoon,V8,Automatic,54894,24367,267,3,369
+400,Orange,Lexus,LS 460,Diesel,Standard,23125,20634,231,28,497
+401,White,Mazda,626 Avant,W,Automatic,13463,19295,,26,
+402,Green,Kia,Carnival,Diesel,Standard,6856,122358,,29,
+403,Pearl,Alfa Romeo,146,V6,Automatic,67777,128808,,11,
+404,Pearl,Ford,Cortina,Petrol,Automatic,8867,100660,124,1,481
+405,Dark Grey,Nissan,Camionnette,Petrol,Automatic,67735,49142,253,10,310
+406,Dark Grey,Kia,Joice,W,Standard,1874,4031,,28,
+407,Beige,Lexus,SC 400,V6,Automatic,58114,106486,722,5,139
+408,Red,Kia,Cerato,V6,Automatic,50747,55189,661,6,241
+409,Orange,Subaru,XT,Electric,Automatic,20928,7050,,11,
+410,Purple,Chevrolet,G2500,V8,Standard,65713,141472,659,8,294
+411,Pearl,Mazda,B2200,Diesel,Automatic,20684,77460,576,14,223
+412,Yellow,Hyundai,Amica,V6,Automatic,49432,148076,993,9,157
+413,Yellow,Lexus,GS 400,W,Standard,52177,7276,879,0,205
+414,Dark Green,Peugeot,106,V6,Standard,18031,20854,89,14,405
+415,Light Grey,Nissan,L60,W,Automatic,40005,5305,818,28,455
+416,Green,Renault,LeCar,Petrol,Automatic,27263,101917,,11,
+417,Orange,Peugeot,306,V6,Automatic,35874,44813,566,11,369
+418,Yellow,Suzuki,Wagon,Petrol,Automatic,69489,19691,10,10,172
+419,Grey,Chevrolet,Lacetti,V8,Automatic,36303,105604,128,27,149
+420,Pearl,BMW,Z1,Electric,Standard,71338,144654,117,2,470
+421,Red,Volkswagen,Caddy,V6,Standard,43374,47946,302,15,164
+422,Light Grey,Ford,E-450,Diesel,Standard,62748,36196,60,7,452
+423,Green,Pontiac,6000,Petrol,Standard,68238,1272,,5,
+424,Dark Grey,Nissan,Patrol,V8,Standard,17642,39579,771,9,355
+425,Light Grey,Lexus,LX 470,V6,Standard,20913,29664,376,21,450
+426,Red,Alfa Romeo,155,Diesel,Standard,15783,5284,398,24,459
+427,Orange,Maserati,Quattroporte,Petrol,Standard,32415,18555,73,2,123
+428,Dark Green,Ford,Bronco II,Diesel,Standard,50210,126280,781,4,27
+429,White,Mazda,121,W,Standard,13582,132162,238,10,397
+430,Grey,Lexus,RX 350,Petrol,Automatic,1939,96360,811,25,362
+431,Grey,Kia,Optima,Inine,Automatic,4208,25277,323,0,290
+432,Black,Volkswagen,Golf Plus,Diesel,Automatic,2600,74938,106,19,21
+433,Red,GMC,Savana,V8,Standard,72130,130917,354,29,174
+434,Blue,Toyota,Traveler,Diesel,Automatic,4181,104566,203,6,81
+435,Red,BMW,Z3,V6,Standard,56647,124312,536,27,140
+436,Orange,Audi,4000,Inine,Automatic,5571,26053,737,0,134
+437,White,Maserati,Shamal,Petrol,Standard,66859,142891,158,21,390
+438,Grey,Porsche,Cayenne,Diesel,Standard,41737,102618,,11,
+439,Grey,Chevrolet,Corsica,Inine,Automatic,26309,25586,230,13,56
+440,Orange,Jaguar,E-type,Inine,Standard,51526,71043,187,7,15
+441,Yellow,Mercedes Benz,CL65,V8,Automatic,69632,61842,901,24,117
+442,Grey,Chevrolet,Stylemaster,Inine,Standard,52776,113489,216,24,456
+443,Dark Green,Chevrolet,Trailblazer,V8,Automatic,73118,55907,50,28,323
+444,Dark Blue,Renault,17,Diesel,Standard,6110,20145,556,25,43
+445,Black,Mercedes Benz,V-Class,Petrol,Standard,2102,21302,491,20,450
+446,Blue,Maserati,Ghibli,V6,Automatic,53658,12266,70,1,265
+447,Beige,Ford,Freestar,Electric,Standard,58009,39989,490,21,444
+448,Yellow,Mazda,B2000,Electric,Automatic,68165,70015,700,13,259
+449,Dark Blue,BMW,740,W,Automatic,74395,63293,371,9,368
+450,Light Grey,Subaru,4x4 Turbo,Inine,Standard,69280,46210,,26,
+451,Yellow,Audi,100,Inine,Standard,68589,46441,739,13,408
+452,Beige,Kia,Magentis,Inine,Automatic,6232,92920,,13,
+453,White,BMW,320,Inine,Standard,511,49619,135,19,91
+454,Red,Mercedes Benz,ML320,Inine,Automatic,4806,37209,984,24,52
+455,Light Grey,Toyota,Paseo,W,Automatic,22688,134405,232,26,435
+456,Light Grey,Fiat,Barchetta,Petrol,Automatic,34765,70373,75,28,307
+457,Dark Blue,Hyundai,Pony,Inine,Automatic,69775,46257,568,11,287
+458,Light Grey,Maserati,Coupé,Electric,Automatic,48527,114281,732,17,116
+459,Pearl,Kia,Rio,Inine,Automatic,53707,115479,263,5,123
+460,Purple,Porsche,911,W,Standard,68972,3533,730,8,62
+461,Light Grey,Subaru,GL,W,Automatic,71940,118285,352,3,30
+462,White,Suzuki,Samurai,V6,Automatic,25604,106881,,12,
+463,Orange,Fiat,125,Inine,Standard,63832,118949,421,14,125
+464,Blue,BMW,X3,Inine,Automatic,68100,49485,385,0,252
+465,Orange,Kia,Sedona,V8,Automatic,51741,13466,297,11,438
+466,Beige,Subaru,Forester,Inine,Automatic,14697,21074,909,29,218
+467,Dark Blue,Subaru,XT,W,Standard,22062,13650,828,27,454
+468,Pearl,Ford,Festiva,Inine,Automatic,24095,64897,375,18,131
+469,Dark Blue,Toyota,Supra,Petrol,Automatic,59868,133099,812,27,66
+470,Light Grey,Renault,Avantime,Diesel,Automatic,17211,105930,868,3,347
+471,Light Grey,Kia,Rio 5,Inine,Standard,73338,45952,733,1,22
+472,Orange,Audi,100 V6,Diesel,Automatic,31579,59830,243,21,451
+473,White,Suzuki,Liana,Inine,Standard,73762,96811,760,5,385
+474,Green,Toyota,Avensis,W,Standard,48393,138310,,1,
+475,Light Grey,Alfa Romeo,147,Petrol,Automatic,65056,44326,265,11,372
+476,Red,Maserati,Shamal,Electric,Standard,49532,124499,152,27,351
+477,Purple,Alfa Romeo,33,Petrol,Automatic,62656,126465,595,10,397
+478,Dark Green,Porsche,911 Turbo,V8,Standard,13115,3554,532,17,271
+479,Dark Green,Honda,Element,Diesel,Automatic,46253,66626,302,15,164
+480,Orange,Honda,Shuttle,Inine,Automatic,46178,19470,964,0,301
+481,Purple,Chevrolet,Cavalier,V6,Standard,19201,7328,872,22,25
+482,Orange,Fiat,Punto Grande,W,Standard,51106,137889,84,24,363
+483,Orange,GMC,Acadia,W,Standard,34608,113314,651,24,70
+484,Yellow,Hyundai,Matrix,V8,Automatic,53318,13043,,7,
+485,Green,Volkswagen,Vento,V6,Standard,9660,11908,407,7,117
+486,Red,Audi,RS 4,V8,Automatic,6052,104747,574,22,338
+487,Grey,Audi,100,Diesel,Standard,61056,50657,459,18,267
+488,Green,Renault,Clio,Inine,Standard,66312,124004,487,4,143
+489,Green,Pontiac,Torrent,W,Standard,61770,61153,316,1,407
+490,Dark Green,Mazda,3 Sport,Electric,Automatic,68196,40622,129,5,157
+491,Yellow,Hyundai,XG300,V8,Standard,26510,30297,232,26,435
+492,Red,Ford,Elite,Diesel,Standard,19885,70673,532,17,271
+493,Yellow,Mazda,Cosmo,Petrol,Standard,49008,62783,,10,
+494,Orange,Subaru,SVX,Petrol,Standard,6575,21948,724,23,484
+495,Red,Suzuki,Aerio,Inine,Standard,27571,81640,690,15,472
+496,Pearl,Hyundai,XG350,V6,Standard,28898,91465,889,12,43
+497,White,Nissan,Sunny Combi,Electric,Automatic,11440,138448,963,12,269
+498,Beige,Nissan,Bluebird Sedan,Inine,Automatic,51028,8772,233,2,225
+499,White,Mercedes Benz,S-Class,Electric,Standard,52963,140751,458,5,498
+500,Beige,Ford,Lightning,Electric,Standard,40794,46947,,23,
+501,Light Grey,Maserati,GranSport,V8,Standard,20891,92600,816,25,15
+502,White,Pontiac,Parisienne,Diesel,Automatic,59525,103145,582,17,411
+503,Orange,Suzuki,Esteem,V8,Standard,51436,85223,19,2,414
+504,Beige,Volkswagen,Sharan,V8,Automatic,34617,11619,32,23,304
+505,Dark Blue,Subaru,XT,Diesel,Automatic,57129,109948,88,27,377
+506,Blue,Ferrari,166,Inine,Standard,62561,28748,816,25,15
+507,Dark Grey,Audi,TT Roadster,Electric,Automatic,35602,138009,467,6,153
+508,White,Alfa Romeo,33,W,Standard,51319,91334,24,8,88
+509,Pearl,Jaguar,XKR,Petrol,Automatic,44580,92183,,4,
+510,Green,Suzuki,Esteem,W,Standard,43487,53368,407,7,117
+511,Dark Grey,Peugeot,807,Inine,Standard,60365,23489,9,19,210
+512,Orange,Kia,Rio,W,Standard,21144,23545,,25,
+513,White,Alfa Romeo,166,W,Automatic,37876,108442,91,29,72
+514,Grey,Kia,Shuma,Petrol,Automatic,33755,74698,721,23,72
+515,Grey,Mercedes Benz,CLK-Class,Diesel,Automatic,12075,65502,337,17,344
+516,Blue,Ferrari,308,W,Standard,1168,77647,41,18,208
+517,Green,Ferrari,225,V8,Standard,41199,120934,,4,
+518,Yellow,Maserati,430,W,Automatic,40554,67689,246,26,78
+519,Grey,Ferrari,612,V6,Standard,41536,24453,56,26,487
+520,Blue,Subaru,GL,W,Automatic,22078,95002,,5,
+521,Black,Volkswagen,Thing,V8,Standard,59254,78324,51,22,427
+522,Green,Ford,Pinto,Diesel,Standard,6732,120924,971,15,80
+523,Orange,Peugeot,807,W,Automatic,23020,91711,750,5,481
+524,Purple,Mazda,Truck (B-series),Inine,Automatic,50215,109576,144,23,490
+525,Light Grey,Fiat,Tempra,V8,Standard,35983,130943,275,5,328
+526,Light Grey,Volkswagen,Transporter,Inine,Standard,28018,40455,578,5,248
+527,Blue,Mercedes Benz,G55,W,Automatic,11132,69537,598,25,208
+528,Black,Hyundai,Accent,V6,Standard,8841,70967,,22,
+529,Yellow,Toyota,Camionnette,Diesel,Automatic,1055,118864,514,12,329
+530,Beige,Subaru,XT,V6,Standard,48182,87582,,11,
+531,Grey,Jaguar,E-type,Inine,Automatic,54924,103623,230,13,56
+532,Red,Nissan,Primera,V6,Automatic,10980,48029,52,8,398
+533,Pearl,Alfa Romeo,145,W,Automatic,31724,63479,,11,
+534,Red,Lexus,LS 600h L,Inine,Automatic,61388,145040,318,13,490
+535,Light Grey,Hyundai,Stellar,W,Standard,37567,145435,888,21,113
+536,Blue,Peugeot,307 SW,V6,Automatic,74399,32683,217,10,180
+537,Beige,Porsche,968,V8,Standard,27361,146002,180,3,76
+538,Yellow,Audi,R8,V6,Standard,6556,53431,819,7,364
+539,Blue,Porsche,Carrera,Diesel,Automatic,33827,11722,868,3,347
+540,Purple,Hyundai,H1,W,Standard,66578,43351,463,2,347
+541,Orange,Subaru,Loyale,W,Standard,73177,70649,301,25,196
+542,Black,Nissan,Almera Tino,Electric,Standard,53657,65334,267,3,369
+543,Blue,Chevrolet,Colorado,Petrol,Automatic,31905,9665,895,8,140
+544,Dark Green,Suzuki,Esteem,V6,Standard,44699,126616,939,7,250
+545,Blue,GMC,Yukon,V6,Standard,62146,71482,764,8,476
+546,Black,GMC,Savana,Inine,Automatic,36547,103794,717,8,347
+547,Dark Blue,Maserati,MC12,Electric,Automatic,14526,74263,275,5,328
+548,Light Grey,Chevrolet,Chevy II,Petrol,Standard,51347,117982,560,18,82
+549,Pearl,Jaguar,MK,Inine,Automatic,8745,54701,614,14,26
+550,Green,GMC,Savana,Petrol,Automatic,10887,47810,476,3,208
+551,Red,Audi,S8,Electric,Automatic,45820,87004,448,17,198
+552,Red,GMC,Envoy,Inine,Standard,15685,125470,,7,
+553,White,Renault,Midlum,V6,Standard,67010,26860,,7,
+554,Yellow,Ford,Torino,Electric,Automatic,69002,10373,9,19,210
+555,Yellow,Lexus,ES 350,Electric,Standard,6305,17935,297,11,438
+556,Dark Green,Alfa Romeo,156,Petrol,Standard,45722,98636,947,22,373
+557,Pearl,Renault,Encore,Electric,Automatic,4666,136762,835,9,56
+558,Light Grey,Maserati,GranSport Spyder,V6,Automatic,5735,106352,,14,
+559,Dark Green,Pontiac,Solstice,V8,Automatic,13758,81051,105,3,453
+560,Orange,GMC,Sprint,V6,Automatic,63484,129798,393,23,250
+561,Dark Blue,Audi,A4,Petrol,Standard,53144,47631,,27,
+562,White,Suzuki,Aerio,Petrol,Automatic,34146,125013,482,4,275
+563,Black,Alfa Romeo,GTV,Inine,Standard,14908,101167,714,7,304
+564,Dark Green,Mazda,Premacy,V8,Automatic,48044,19900,,16,
+565,Purple,Ford,Skyliner,Inine,Standard,68791,98138,430,29,251
+566,Beige,Porsche,550,Diesel,Automatic,62245,75622,525,8,311
+567,Blue,GMC,Caballero,Diesel,Standard,36351,35380,570,22,34
+568,Grey,Hyundai,Entourage,V8,Automatic,42042,68690,648,2,348
+569,Yellow,Audi,100 C4 Series,W,Standard,7487,18529,743,7,350
+570,Blue,Toyota,Avensis Verso,V6,Standard,66609,127075,629,5,36
+571,Red,Mercedes Benz,G500,Diesel,Standard,63819,110438,913,20,447
+572,Orange,Subaru,Liberty,V6,Standard,30764,15504,289,2,206
+573,White,GMC,Envoy XUV,Diesel,Automatic,72825,34363,984,24,52
+574,Green,Jaguar,XJS,Petrol,Standard,38151,67416,824,6,441
+575,Dark Grey,Lexus,SC 430,Electric,Automatic,60280,1379,707,12,178
+576,Orange,Renault,Mascot,W,Standard,64269,9469,,0,
+577,Dark Blue,Lexus,LS 600h L,Petrol,Standard,20168,5091,194,2,167
+578,Blue,Toyota,Echo,V6,Standard,68881,72875,,13,
+579,White,Honda,S2000,Diesel,Standard,12997,144411,592,19,174
+580,Light Grey,BMW,Z3,V8,Automatic,38946,142708,963,12,269
+581,Orange,Jaguar,XJ6 Serie 3,V8,Standard,62793,1363,508,9,368
+582,Pearl,Maserati,Shamal,Inine,Standard,3605,113170,560,18,82
+583,Grey,Nissan,Stanza,V6,Standard,64007,67097,280,7,80
+584,Blue,Peugeot,504,V6,Standard,15357,74873,146,24,210
+585,Purple,Subaru,DL,V8,Automatic,3099,69199,410,5,204
+586,Beige,Renault,Premium,Inine,Standard,7247,107577,238,10,397
+587,Light Grey,Hyundai,Trajet,Petrol,Standard,9149,21880,,6,
+588,Purple,Fiat,Seicento,W,Automatic,47231,38741,371,9,368
+589,Beige,Peugeot,607,W,Automatic,57377,75665,556,25,43
+590,Orange,Suzuki,Esteem,Diesel,Standard,599,71201,79,29,302
+591,Light Grey,BMW,528,Petrol,Standard,60673,2036,938,7,31
+592,Grey,Honda,FR-V,Petrol,Automatic,32744,23967,948,23,261
+593,Dark Green,Kia,Spectra EX,V6,Standard,37292,50805,647,29,62
+594,Black,Kia,Carnival,W,Automatic,69433,65415,382,23,243
+595,Red,Jaguar,XJ40,V6,Standard,30481,124387,13,13,422
+596,Dark Blue,GMC,Yukon XL,V6,Standard,65010,118170,900,6,499
+597,Blue,Volkswagen,Golf II,Diesel,Standard,24219,86734,607,10,8
+598,Purple,Hyundai,Entourage,V8,Automatic,42633,69076,162,11,453
+599,Green,Toyota,Tundra,Electric,Automatic,59876,49443,369,6,18
+600,Yellow,Ferrari,360,V6,Automatic,9033,80763,774,15,327
+601,Purple,Peugeot,206,Electric,Automatic,66593,134196,31,19,420
+602,Pearl,Honda,Passport,V6,Standard,70303,108594,851,18,431
+603,Light Grey,Porsche,Carrera 911S,Petrol,Automatic,46333,93207,,15,
+604,Purple,Maserati,Biturbo,Diesel,Automatic,25587,149458,654,1,203
+605,Yellow,Hyundai,H1,Inine,Automatic,72680,25686,136,29,424
+606,Yellow,Toyota,Tercel,V8,Automatic,74963,55785,436,4,334
+607,Red,Chevrolet,Corvette,Inine,Automatic,45283,142698,711,11,459
+608,Yellow,Nissan,L35,V6,Automatic,40625,133340,,24,
+609,White,Jaguar,XJ40,Petrol,Standard,12163,82481,27,18,198
+610,Dark Green,Maserati,MC12,W,Standard,7538,42587,43,10,219
+611,Grey,Maserati,Bora,V8,Automatic,38581,25530,923,10,322
+612,White,Audi,A3,V8,Automatic,53109,108236,919,26,108
+613,White,Mazda,6 Sport Wagon,Inine,Automatic,65186,8672,287,22,361
+614,Black,Chevrolet,Nova,V8,Automatic,57346,135245,789,5,145
+615,Red,Mercedes Benz,C230 Coupe,Petrol,Automatic,3768,57116,953,29,478
+616,Green,Mercedes Benz,G55,Inine,Standard,37125,136433,234,8,80
+617,Beige,Porsche,Carrera GT,Diesel,Standard,7638,21177,406,16,278
+618,White,Fiat,Ducato,W,Standard,13465,63404,555,28,341
+619,Dark Green,Kia,Cerato,V8,Standard,15134,97727,865,23,161
+620,Purple,Pontiac,Ventura,Inine,Standard,70075,99014,86,8,417
+621,Black,GMC,Rally,V8,Standard,72346,51380,628,16,138
+622,Purple,Alfa Romeo,145,Inine,Automatic,54702,146069,268,4,320
+623,Pearl,BMW,533,Diesel,Standard,594,104646,893,11,323
+624,Yellow,Ford,Cortina,V6,Standard,22030,12331,709,14,177
+625,Black,Toyota,Corolla,Petrol,Automatic,13481,41108,421,14,125
+626,Black,Kia,Carens II,W,Standard,53665,144211,667,12,478
+627,Purple,Volkswagen,Karmann Ghia,V6,Automatic,55467,94310,502,12,113
+628,Blue,Mercedes Benz,S-Class,Petrol,Automatic,31253,81055,357,28,72
+629,Dark Grey,Subaru,SVX,W,Automatic,25585,44674,673,4,43
+630,Dark Green,Alfa Romeo,145,Electric,Automatic,58052,76699,,8,
+631,Blue,Volkswagen,Bora,V6,Standard,9749,133516,878,6,38
+632,Yellow,Jaguar,XJ12,V6,Standard,10349,11104,,14,
+633,Yellow,Mazda,Van,Petrol,Automatic,18664,39815,181,20,95
+634,Dark Grey,Peugeot,504,Petrol,Automatic,74866,15512,680,5,297
+635,Light Grey,Subaru,Loyale,V8,Standard,20918,92126,239,22,272
+636,Red,Mazda,RX-3,Diesel,Automatic,7520,141707,873,3,186
+637,Green,Volkswagen,Caddy Van,V8,Standard,6411,35981,962,9,143
+638,Green,Pontiac,Phoenix,Electric,Standard,66512,116127,836,10,466
+639,White,Nissan,260Z,Diesel,Automatic,34860,10802,773,22,150
+640,Grey,Pontiac,Torrent,V6,Standard,15164,58789,,10,
+641,Black,Jaguar,XJS,Petrol,Automatic,70422,46844,39,2,116
+642,Red,Toyota,RAV4,Inine,Automatic,39373,119843,592,19,174
+643,Dark Green,Ferrari,348,V8,Standard,29769,131760,620,12,476
+644,Orange,Jaguar,X300,Electric,Standard,12698,30959,695,18,447
+645,Yellow,Volkswagen,T5 Pickup,W,Automatic,25429,5461,659,8,294
+646,Dark Grey,Suzuki,Swift,W,Standard,64821,37860,171,25,4
+647,Grey,Mazda,Mizer,V8,Automatic,32840,51791,574,22,338
+648,Beige,Ferrari,F50,V6,Automatic,62749,30860,,18,
+649,White,Volkswagen,New Beetle Cabrio,Diesel,Standard,52479,100049,378,19,288
+650,Light Grey,Alfa Romeo,33,Diesel,Standard,61203,34616,783,1,60
+651,Light Grey,Ford,E-250,V6,Standard,43212,80870,565,16,162
+652,Dark Grey,Suzuki,Grand Vitara,W,Automatic,34320,2418,74,8,375
+653,Green,Maserati,420,Petrol,Standard,7763,37281,186,2,333
+654,Orange,Subaru,GL,W,Standard,64031,115443,,27,
+655,Beige,Renault,Traffic,W,Standard,97,70761,78,17,142
+656,White,Renault,25,V6,Standard,4092,114815,111,29,329
+657,Red,Maserati,GranSport Spyder,V6,Standard,14712,31856,,20,
+658,Dark Green,Audi,Coupé,W,Automatic,38538,133209,704,16,75
+659,Beige,Kia,Spectra 5,Inine,Automatic,73139,81925,131,4,333
+660,Dark Blue,Ferrari,360,Petrol,Standard,15108,145807,,10,
+661,Purple,Lexus,IS 300,Diesel,Standard,35158,3434,49,8,59
+662,Dark Green,Hyundai,Entourage,Diesel,Standard,11748,43454,699,14,272
+663,Light Grey,Ferrari,125,V6,Standard,31324,118480,775,17,81
+664,Orange,Ford,Bronco,Diesel,Standard,50925,51661,950,29,381
+665,Red,Chevrolet,Blazer,Inine,Standard,72341,57816,581,5,202
+666,Red,Ferrari,GTO,V6,Standard,59513,65226,201,1,331
+667,Blue,Subaru,XT,W,Automatic,21905,89997,,0,
+668,Dark Blue,Hyundai,Santa Fe,W,Standard,22180,105297,,2,
+669,Dark Green,Pontiac,G5,Inine,Automatic,52400,146244,,14,
+670,Dark Blue,Honda,FR-V,Electric,Standard,30859,72811,382,23,243
+671,White,Alfa Romeo,146,Electric,Automatic,39849,72861,784,22,482
+672,Blue,Mercedes Benz,107,V8,Standard,63734,70745,242,2,471
+673,Grey,Subaru,Liberty,Electric,Automatic,24680,94143,184,17,361
+674,Black,Ferrari,Superamerica,Petrol,Standard,28021,99803,544,2,199
+675,White,Peugeot,607,V8,Automatic,61269,9804,303,6,422
+676,Dark Green,Honda,Civic,Diesel,Automatic,24166,72613,10,10,172
+677,Purple,Audi,Q7,Petrol,Automatic,5275,47424,287,22,361
+678,Blue,Kia,Rio RX-V,Inine,Automatic,72320,62700,173,21,10
+679,Orange,Maserati,Merak,Diesel,Automatic,38051,55183,9,19,210
+680,Yellow,Kia,Rondo,Electric,Standard,25278,27636,783,1,60
+681,Black,Nissan,Multi,Electric,Standard,52803,57965,12,13,67
+682,Yellow,Ford,Falcon,Electric,Standard,52037,129341,606,20,169
+683,Red,Pontiac,Wave,V6,Standard,74776,77545,893,11,323
+684,Pearl,BMW,318,Petrol,Automatic,37345,65119,,4,
+685,Dark Green,Lexus,ES 350,Inine,Automatic,57757,107677,115,24,300
+686,Dark Grey,Hyundai,Santa Fe,Petrol,Standard,7282,14163,854,29,50
+687,Dark Blue,Hyundai,Elantra,Inine,Standard,43350,140365,214,12,400
+688,Dark Grey,GMC,Envoy,Electric,Automatic,39564,3232,,25,
+689,Pearl,Volkswagen,Golf II,Diesel,Automatic,3044,137240,976,24,184
+690,Green,Honda,CRX,Petrol,Automatic,74349,3102,176,10,258
+691,Dark Blue,Jaguar,Super V8,V8,Standard,74088,23641,658,5,248
+692,Dark Blue,Lexus,GS 350,Inine,Standard,17191,133632,,0,
+693,White,Lexus,Harrier 4x4,W,Standard,15351,89541,693,11,366
+694,Dark Green,Volkswagen,Caddy,Diesel,Standard,70938,105741,,29,
+695,Beige,Hyundai,Pony,Petrol,Standard,28651,87904,601,9,328
+696,Beige,Volkswagen,Multivan,Inine,Standard,9053,118281,735,29,153
+697,White,Nissan,Maxima,V8,Standard,59625,1246,423,18,256
+698,Dark Blue,Honda,MDX,Petrol,Automatic,70650,149532,26,0,78
+699,Red,Subaru,4x4 Turbo,W,Automatic,33545,126638,340,25,5
+700,Pearl,Jaguar,Super V8,V6,Automatic,27897,130468,109,6,149
+701,Dark Blue,Honda,Civic Si,V8,Standard,64901,24998,6,5,423
+702,Black,Suzuki,SX4,V6,Automatic,53676,10530,629,5,36
+703,Pearl,Suzuki,SX4,Inine,Standard,6568,84800,,29,
+704,Yellow,Jaguar,XJR,Electric,Standard,45432,145165,77,5,204
+705,Dark Green,Chevrolet,Tacuma,Inine,Automatic,59949,60230,,26,
+706,Purple,Honda,S2000,Petrol,Automatic,1633,8884,77,5,204
+707,Green,Maserati,Bora,V8,Standard,40103,42663,507,5,331
+708,White,Alfa Romeo,Spider,V6,Automatic,15838,132043,456,11,435
+709,Blue,Nissan,Pathfinder,Petrol,Automatic,21904,12730,933,17,233
+710,Purple,Kia,Spectra EX,V8,Standard,748,24925,657,16,155
+711,White,Renault,Encore,W,Standard,44135,45614,197,19,497
+712,Dark Grey,Porsche,Speedster,W,Automatic,29970,52348,114,27,85
+713,Beige,Mazda,929 Serenia,W,Standard,4854,21294,220,14,386
+714,Yellow,GMC,Yukon XL,W,Automatic,70233,103137,625,16,103
+715,Yellow,Mercedes Benz,ML430,Petrol,Automatic,12657,74774,998,11,264
+716,Dark Blue,Suzuki,X-90,W,Standard,3736,87861,386,20,166
+717,Orange,Kia,Sportage,W,Standard,64684,32873,176,10,258
+718,Red,GMC,Topkick,V6,Automatic,40410,8701,72,1,110
+719,Dark Green,Mercedes Benz,SLK280,Petrol,Automatic,22936,70930,398,24,459
+720,Pearl,Kia,Rio,Petrol,Automatic,74927,78755,715,22,5
+721,Grey,Alfa Romeo,159,V6,Automatic,16883,85016,689,25,5
+722,Light Grey,Honda,Passport,Electric,Automatic,24328,34570,913,20,447
+723,Black,GMC,Sprint,Diesel,Standard,23617,63570,901,24,117
+724,Light Grey,Alfa Romeo,147,W,Standard,55567,93306,858,22,111
+725,Orange,Hyundai,Coupé,Petrol,Automatic,19732,70196,520,25,368
+726,Blue,Honda,Odyssey,Electric,Standard,16434,19572,678,24,427
+727,Pearl,Mazda,6 Sport,V8,Automatic,3417,119565,635,22,435
+728,Black,Fiat,Idea,V8,Automatic,6019,72556,274,5,301
+729,Pearl,Lexus,GS 350,V6,Standard,30748,42387,201,1,331
+730,Green,Renault,25,Electric,Standard,4494,34042,864,13,149
+731,Grey,GMC,Blazer Fullsize,Petrol,Automatic,61482,55807,624,2,394
+732,Blue,Jaguar,XKR,Electric,Automatic,25298,17606,214,12,400
+733,Beige,BMW,8 Series,Petrol,Automatic,10547,60019,472,29,352
+734,Dark Blue,Mercedes Benz,CL500,Electric,Automatic,68080,112056,957,3,442
+735,Dark Grey,Hyundai,Santa Fe,W,Automatic,71909,51202,701,18,182
+736,Pearl,Ford,Ute,Diesel,Standard,67552,99975,,24,
+737,Blue,Pontiac,1000,Electric,Automatic,48296,92933,366,25,102
+738,Dark Green,Ford,Escort,V8,Automatic,22555,99576,716,13,105
+739,White,Peugeot,806,V6,Standard,57815,106977,965,14,189
+740,Grey,Jaguar,XJS,W,Automatic,57494,64311,324,11,275
+741,Black,Peugeot,307 SW,Petrol,Automatic,42390,92696,727,4,383
+742,Dark Grey,Maserati,Khamsin,W,Automatic,12422,23978,,21,
+743,Green,Jaguar,XJ12,Electric,Standard,56682,73097,785,20,372
+744,Purple,Ford,SVT,V6,Standard,6959,117488,,12,
+745,Purple,Mercedes Benz,E55,V8,Automatic,3307,11492,245,15,264
+746,Pearl,Lexus,SC 400,W,Automatic,44414,56518,405,23,338
+747,Beige,Audi,V8,Diesel,Automatic,2447,116927,994,4,167
+748,Light Grey,Suzuki,X-90,V6,Standard,36849,78773,,27,
+749,Dark Grey,Hyundai,Getz,Petrol,Automatic,47068,55409,743,7,350
+750,Dark Grey,GMC,Sierra,W,Standard,5144,7347,734,20,306
+751,Light Grey,Mercedes Benz,G-Class,V6,Standard,19673,145297,23,10,205
+752,Grey,Pontiac,Grand Prix,Inine,Automatic,32098,125486,673,4,43
+753,Green,Alfa Romeo,155,Petrol,Automatic,24301,132754,848,8,115
+754,Yellow,Peugeot,307 SW,W,Automatic,21610,112889,657,16,155
+755,Grey,Pontiac,Grand Am,V8,Standard,39047,129585,257,0,60
+756,Dark Green,Mercedes Benz,C320,V6,Standard,23356,26012,244,21,203
+757,Orange,Pontiac,1000,Diesel,Automatic,68520,105955,62,24,326
+758,Black,Hyundai,Tucson,Inine,Standard,31870,41173,684,23,215
+759,Yellow,Volkswagen,Caravelle,Electric,Standard,4795,118492,,11,
+760,Grey,Pontiac,Formula,W,Automatic,60499,94172,225,2,309
+761,Red,Mazda,Van,V8,Standard,58744,65052,535,2,493
+762,Dark Blue,Lexus,GS 400,V6,Standard,5653,4538,930,26,364
+763,Yellow,Suzuki,Jimny,V8,Standard,4454,72366,346,7,208
+764,Beige,Ford,Econoline,Diesel,Automatic,20002,148111,964,0,301
+765,Beige,Lexus,Harrier 4x4,Petrol,Automatic,40635,24490,493,26,499
+766,Beige,Subaru,XT,Electric,Standard,37238,147180,329,14,133
+767,Yellow,Jaguar,Super V8,Diesel,Automatic,53269,54625,776,10,54
+768,Black,Renault,Traffic,Petrol,Automatic,61128,32707,,23,
+769,Grey,Toyota,LandCruiser 70,V8,Automatic,5303,113787,288,5,249
+770,Beige,Hyundai,H 100,W,Standard,20369,69410,109,6,149
+771,Black,Hyundai,Elantra,V6,Standard,23522,86552,195,4,430
+772,Beige,Honda,Stream,Petrol,Automatic,9642,137469,191,17,280
+773,Purple,Alfa Romeo,GTV,Electric,Automatic,67320,78093,,9,
+774,Green,Toyota,LandCruiser Hg 80,Electric,Standard,17028,148326,99,19,71
+775,Dark Blue,Chevrolet,Express,V8,Automatic,11317,111609,516,20,373
+776,Light Grey,Audi,A4 Cabriolet,Petrol,Standard,947,58007,96,12,303
+777,Beige,Chevrolet,C2500,V8,Standard,53832,10964,176,10,258
+778,Dark Green,GMC,Van,V6,Automatic,8416,127081,948,23,261
+779,Yellow,Suzuki,Esteem,Electric,Automatic,32470,79843,700,13,259
+780,Green,Maserati,Coupé,V8,Automatic,11017,140176,106,19,21
+781,Blue,Mazda,Mazdaspeed,V8,Standard,46103,92834,601,9,328
+782,Dark Grey,Chevrolet,Chevette,Petrol,Standard,395,63695,236,20,153
+783,White,Porsche,Cayman,Petrol,Standard,68742,143433,142,3,161
+784,White,Fiat,Spider,Electric,Standard,49214,117460,537,27,139
+785,Dark Blue,Porsche,914,W,Automatic,6413,68669,,1,
+786,Pearl,Nissan,Vanette,Inine,Automatic,46140,108704,178,25,159
+787,Pearl,Ferrari,400,Electric,Standard,12125,75523,778,25,331
+788,Dark Grey,Mazda,323 F (BJ),W,Automatic,26191,101728,699,14,272
+789,Green,Subaru,XT,Diesel,Standard,53175,2428,158,21,390
+790,Green,Renault,Clio,V6,Standard,33388,149506,651,24,70
+791,Orange,Audi,Quattro,Electric,Automatic,67976,100376,572,18,307
+792,Red,Porsche,550,V8,Automatic,34770,135189,,3,
+793,Light Grey,Lexus,GS 300,W,Automatic,11575,147747,562,2,396
+794,Black,Audi,A8,V6,Standard,59027,9834,349,14,351
+795,Yellow,Hyundai,Grandeur XG,W,Standard,74174,27210,671,27,58
+796,Red,Kia,Shuma,Diesel,Standard,66030,48554,87,29,107
+797,Pearl,Honda,S600,V8,Automatic,65022,45122,354,29,174
+798,Purple,Mercedes Benz,C32,V8,Standard,47202,119147,804,22,29
+799,Black,Maserati,3200 GT,Diesel,Standard,41639,84477,420,14,240
+800,Purple,Alfa Romeo,146,Diesel,Standard,58953,61130,280,7,80
+801,Light Grey,Nissan,Roadster,V8,Automatic,70794,141178,564,1,217
+802,Blue,Honda,S600,Inine,Standard,64790,100251,,0,
+803,Purple,BMW,M3,Electric,Automatic,31238,97537,514,12,329
+804,Orange,Mazda,626,Petrol,Automatic,72089,78159,684,23,215
+805,Pearl,Mazda,3 Sport,Electric,Standard,62071,47098,597,27,498
+806,Purple,Volkswagen,Touareg,Inine,Automatic,59041,137764,762,10,239
+807,Light Grey,Suzuki,SX4,Inine,Standard,59171,123601,795,2,381
+808,Black,Subaru,Forester,Petrol,Standard,35588,68817,631,19,401
+809,Light Grey,Peugeot,205,Petrol,Standard,46186,125242,345,16,83
+810,White,Ford,Escort,Electric,Standard,10705,121567,459,18,267
+811,Beige,Hyundai,Pony,W,Automatic,1374,21280,130,2,164
+812,Beige,Maserati,5000 GT,V8,Automatic,40044,53474,111,29,329
+813,Dark Grey,Porsche,Carrera GT,Petrol,Standard,74393,84114,195,4,430
+814,Red,Hyundai,Veracruz,W,Automatic,44284,53886,977,5,34
+815,Yellow,Subaru,Liberty,Petrol,Automatic,72271,11342,653,13,16
+816,Orange,Jaguar,XJ Series,Electric,Standard,66535,143235,,12,
+817,Dark Blue,Renault,Safrane,W,Automatic,26883,22223,628,16,138
+818,Yellow,Mazda,Miata,V8,Standard,9772,147741,197,19,497
+819,Dark Green,Volkswagen,Scirocco,V8,Automatic,29314,121808,436,4,334
+820,Yellow,Fiat,Dino,V8,Standard,59591,83592,781,4,27
+821,Purple,Maserati,Spyder,Diesel,Standard,20840,50303,,11,
+822,Beige,Fiat,Doblò,V8,Standard,50853,144937,126,26,59
+823,Orange,Maserati,420,Inine,Standard,37636,120103,167,8,400
+824,Beige,Ford,Territory,Electric,Automatic,41150,26574,732,17,116
+825,Dark Green,Subaru,Pic-Up,Petrol,Automatic,3364,104116,852,4,330
+826,Yellow,GMC,Jimmy,W,Automatic,49263,110881,45,13,403
+827,Blue,Pontiac,G5,V6,Automatic,33128,8474,834,16,467
+828,Beige,Audi,100 V6,Petrol,Automatic,33876,127676,266,7,303
+829,Grey,Mazda,6 Sport Wagon,V8,Standard,7269,104124,842,2,64
+830,Black,GMC,Acadia,Petrol,Automatic,21293,38584,,22,
+831,Yellow,Toyota,Echo,V6,Standard,21550,51071,,26,
+832,Blue,Fiat,Cinquecento,Electric,Standard,49295,117914,903,11,159
+833,Light Grey,GMC,Topkick,Diesel,Automatic,73927,122402,117,2,470
+834,Light Grey,Ford,F-750,Inine,Automatic,535,78610,791,17,72
+835,Yellow,GMC,Jimmy,Diesel,Standard,45948,123799,,29,
+836,White,GMC,Canyon,V6,Automatic,47880,122460,,27,
+837,Yellow,Toyota,Tercel,W,Standard,49120,42527,306,19,120
+838,Blue,Porsche,Speedster,Diesel,Automatic,24078,66140,881,2,173
+839,Green,Fiat,131,Petrol,Standard,15052,51297,124,1,481
+840,Purple,Suzuki,Esteem,W,Standard,16596,16077,368,8,322
+841,Dark Blue,Toyota,Pickup,V6,Standard,42691,139489,116,28,16
+842,Blue,Audi,A8,Diesel,Standard,58775,37929,367,4,150
+843,Dark Grey,Chevrolet,K2500,V8,Automatic,53369,46223,58,15,175
+844,Light Grey,Mercedes Benz,B200 Turbo,V6,Automatic,69099,51597,657,16,155
+845,Pearl,Honda,Concerto,V6,Automatic,73329,56870,273,18,128
+846,Beige,Jaguar,XJ12,Inine,Automatic,22596,91044,813,17,23
+847,Pearl,Chevrolet,Deluxe,W,Automatic,33069,116580,,10,
+848,Dark Blue,Hyundai,H 100,Electric,Standard,14985,18069,,10,
+849,Green,Renault,Laguna,V6,Automatic,28177,88936,612,5,151
+850,Red,Ferrari,196,Inine,Standard,70169,44466,172,9,43
+851,Pearl,Nissan,Stanza,Electric,Automatic,19314,56093,843,20,425
+852,Red,Ford,Forte,Diesel,Standard,73377,63885,144,23,490
+853,Dark Green,Alfa Romeo,Spider,Electric,Automatic,16241,28198,789,5,145
+854,Dark Green,Toyota,LandCruiser,Inine,Automatic,4748,58746,703,25,159
+855,Grey,Maserati,Biturbo,V6,Standard,65981,36583,,3,
+856,Light Grey,GMC,Topkick,Diesel,Standard,3083,97307,,9,
+857,Dark Grey,Hyundai,Grandeur XG,V8,Automatic,43293,40750,504,15,126
+858,White,Nissan,Navara,Inine,Automatic,74385,122547,540,29,133
+859,Light Grey,Alfa Romeo,GTV-6,Inine,Standard,15900,23854,523,11,194
+860,Yellow,Fiat,Punto Grande,Inine,Automatic,2850,21821,947,22,373
+861,Blue,Porsche,550,W,Standard,3622,4027,,11,
+862,Beige,Mercedes Benz,A-Class,W,Standard,14200,87119,515,2,353
+863,Yellow,Pontiac,Montana,Inine,Automatic,37133,144420,586,24,364
+864,Pearl,Jaguar,XJ Series,Inine,Standard,3481,17891,323,0,290
+865,Red,Audi,TT,V8,Automatic,53007,125691,273,18,128
+866,Dark Green,Alfa Romeo,147,V8,Automatic,45208,32623,199,14,22
+867,Orange,Porsche,Boxster,Petrol,Standard,44138,26545,,2,
+868,Blue,Lexus,RX 330,Electric,Standard,29077,96634,470,10,301
+869,Yellow,Jaguar,XJ40,V8,Automatic,72251,117445,992,20,88
+870,Purple,Mazda,GLC,Petrol,Automatic,18222,52850,,3,
+871,Yellow,Fiat,Croma,Electric,Standard,338,67049,905,3,146
+872,Purple,Chevrolet,Prizm,Petrol,Automatic,69829,93293,,8,
+873,Grey,Kia,Carnival,Electric,Standard,15152,135966,791,17,72
+874,Pearl,Fiat,Stilo,Inine,Automatic,61308,130203,,5,
+875,Orange,Nissan,Almera Tino,Petrol,Automatic,20529,149849,137,24,428
+876,Dark Blue,Subaru,WRX STi,Diesel,Standard,25680,42615,961,23,62
+877,Dark Grey,Alfa Romeo,159,V6,Standard,51274,72620,,27,
+878,Pearl,Audi,R8,V8,Standard,19132,148370,220,14,386
+879,Green,Renault,Espace,Diesel,Automatic,67897,55836,347,1,283
+880,Red,Lexus,ES 300,V8,Automatic,53875,91195,445,24,436
+881,Green,Volkswagen,T5 Transporter,W,Standard,10851,142578,614,14,26
+882,Yellow,Alfa Romeo,Spider,W,Automatic,60720,148149,550,14,429
+883,Dark Blue,Renault,Scénic,V8,Automatic,48190,72461,,19,
+884,Orange,GMC,Canyon,V8,Automatic,39099,58314,497,20,51
+885,Orange,GMC,Rally,W,Standard,42224,88261,,26,
+886,Red,Pontiac,Torrent,Diesel,Standard,33658,142733,,14,
+887,Black,Lexus,GS 430,Diesel,Automatic,63531,74443,,13,
+888,Purple,Peugeot,307,Diesel,Standard,36883,61278,730,8,62
+889,White,Alfa Romeo,GTV-6,Inine,Standard,69704,122131,824,6,441
+890,Yellow,Audi,Fox,V6,Standard,6283,43742,776,10,54
+891,Dark Grey,Pontiac,Grand LeMans,V6,Standard,32227,105431,167,8,400
+892,Light Grey,GMC,Envoy XL,V6,Automatic,37712,131174,853,19,342
+893,Dark Green,Jaguar,X300,V6,Automatic,903,24398,74,8,375
+894,Black,Volkswagen,Shuttle,Diesel,Standard,469,54357,164,29,456
+895,Dark Green,Kia,Sephia,V6,Standard,38626,122310,806,4,34
+896,Orange,GMC,Van,Inine,Automatic,71538,125999,540,29,133
+897,Beige,Chevrolet,Caprice,Petrol,Standard,70429,116393,959,26,172
+898,Purple,Kia,Picanto,Inine,Standard,34111,115675,,11,
+899,Dark Grey,Jaguar,X-Type,V6,Standard,52864,30787,723,10,136
+900,Red,Chevrolet,K3500,V8,Automatic,1302,113250,822,16,174
+901,Grey,Pontiac,Bonneville,Electric,Standard,36115,21912,632,5,276
+902,Black,Renault,Magnum,Diesel,Standard,61253,47980,455,24,202
+903,Light Grey,BMW,L7,W,Standard,38044,148330,630,14,122
+904,Black,Mazda,MPV,W,Standard,70373,21968,996,11,319
+905,Black,Kia,Clarus,V8,Standard,66240,101752,,22,
+906,Dark Green,Jaguar,XJR,W,Automatic,43689,85648,605,26,386
+907,Grey,Audi,A4 Cabriolet,V8,Automatic,54414,131311,138,1,63
+908,Dark Green,Pontiac,Acadian,W,Standard,47803,59131,,28,
+909,Black,GMC,Suburban,V8,Automatic,74483,74276,691,7,26
+910,Light Grey,Maserati,GranSport,Diesel,Automatic,72774,44169,674,15,484
+911,Pearl,Porsche,959,Petrol,Automatic,18737,117184,41,18,208
+912,Light Grey,Peugeot,806,Petrol,Standard,56748,45486,542,12,369
+913,White,GMC,Envoy XUV,Petrol,Automatic,60672,65576,327,0,207
+914,Blue,Hyundai,XG300,W,Automatic,52192,98357,,28,
+915,Yellow,Porsche,996,V6,Automatic,32514,35182,916,1,102
+916,Yellow,Peugeot,306,W,Automatic,66355,50229,441,24,275
+917,Dark Grey,Fiat,Ulysse II,V6,Automatic,20647,37085,,1,
+918,Grey,GMC,Topkick,W,Automatic,8623,114669,433,17,415
+919,Purple,Subaru,Justy,V6,Standard,8136,39233,,19,
+920,Green,Audi,S8,W,Automatic,30142,18780,164,29,456
+921,White,Ford,Sport Track,Diesel,Standard,10993,141019,654,1,203
+922,Beige,Ford,Mondeo,V8,Standard,38356,80041,,13,
+923,Red,Porsche,911,W,Automatic,33349,46664,462,17,401
+924,Beige,Jaguar,Super V8,Diesel,Automatic,49329,87807,,4,
+925,Black,Kia,Opirus,V8,Automatic,65652,84702,895,8,140
+926,Orange,Nissan,Costaud,V6,Automatic,71911,1325,695,18,447
+927,Dark Blue,GMC,Van,Petrol,Automatic,65735,149629,511,17,427
+928,Light Grey,Nissan,Roadster,Inine,Standard,1611,30346,400,2,243
+929,Grey,Nissan,Sentra Classic,Petrol,Automatic,41625,119113,947,22,373
+930,Dark Green,Volkswagen,Transporter,W,Standard,4794,105054,405,23,338
+931,Grey,Honda,Pilot,W,Standard,5048,125172,875,0,489
+932,Dark Blue,Subaru,Forester,V8,Automatic,47544,73471,,29,
+933,Dark Grey,Audi,R8,W,Standard,20931,65215,956,10,201
+934,Blue,BMW,Z3,Electric,Standard,26842,131817,157,29,327
+935,Yellow,Mazda,RX-4,Petrol,Automatic,52309,35860,787,20,478
+936,Orange,Hyundai,Grandeur XG,W,Automatic,66698,89195,97,21,163
+937,Red,Mazda,3 Sport,Electric,Standard,22338,141651,432,18,137
+938,Light Grey,Ford,Skyliner,Petrol,Standard,51486,33650,970,6,310
+939,Pearl,Kia,Mentor,W,Automatic,60815,97742,528,23,36
+940,Light Grey,Ford,Forte,Diesel,Standard,8833,110147,539,0,241
+941,Light Grey,Pontiac,Parisienne,W,Standard,62463,32673,840,17,494
+942,Yellow,Jaguar,XK,Petrol,Automatic,1163,112693,,9,
+943,Grey,Subaru,Impreza,V6,Automatic,15198,44222,768,12,234
+944,Orange,Hyundai,Santa Fe,Diesel,Automatic,47781,148114,276,26,22
+945,Purple,Mercedes Benz,CLS-Class,Petrol,Automatic,2113,142588,841,12,197
+946,Yellow,Nissan,Skyline,V8,Standard,50035,41928,661,6,241
+947,Dark Grey,Lexus,RX 400h,Electric,Standard,45310,44892,995,5,355
+948,Grey,Peugeot,605,V6,Standard,34036,124322,957,3,442
+949,Blue,Subaru,Outback Sport,W,Automatic,26272,23220,,18,
+950,Pearl,Ferrari,328,Petrol,Standard,35621,70473,435,1,128
+951,Blue,Porsche,356,V6,Standard,14795,78059,973,14,263
+952,Dark Green,Maserati,Bora,V6,Automatic,31810,83686,342,6,221
+953,Grey,GMC,Vandura,W,Standard,57003,102947,95,2,48
+954,Orange,Lexus,IS 220,V6,Automatic,34091,98961,,10,
+955,Light Grey,Maserati,3200 GT,V6,Standard,9985,16845,802,10,364
+956,Red,Mazda,323,Diesel,Automatic,65298,74563,702,9,242
+957,Green,Porsche,Carrera 911S,Inine,Automatic,18632,19184,331,22,44
+958,Orange,Ferrari,166,Petrol,Automatic,59417,90805,638,16,69
+959,Blue,Honda,Fit,Inine,Automatic,41317,22917,820,7,94
+960,Dark Green,Nissan,Interstar,Inine,Automatic,61955,55625,501,2,214
+961,Grey,Volkswagen,Shuttle,W,Standard,8074,68982,894,21,301
+962,White,GMC,Suburban,Electric,Automatic,20352,106936,482,4,275
+963,Orange,Peugeot,307,Electric,Standard,71350,87308,999,23,172
+964,Dark Green,Hyundai,Stellar,Diesel,Standard,58657,97888,,3,
+965,Orange,Fiat,Strada,V8,Standard,36548,26558,926,18,205
+966,Yellow,Renault,Encore,Petrol,Automatic,7315,114226,949,26,381
+967,Orange,Fiat,Spider,Petrol,Standard,30627,121161,467,6,153
+968,Beige,Volkswagen,Jetta,Petrol,Standard,57240,27741,173,21,10
+969,Blue,Chevrolet,Envoy,Diesel,Standard,3788,55007,356,7,47
+970,Light Grey,Volkswagen,Golf III,W,Standard,46757,94374,590,16,143
+971,Red,Porsche,Speedster,Inine,Standard,707,76241,,10,
+972,Yellow,Mazda,B4000,V6,Automatic,15547,14998,403,18,139
+973,Blue,Mercedes Benz,SLK-Class,Petrol,Automatic,48290,10214,501,2,214
+974,Orange,Alfa Romeo,Milano,Inine,Automatic,43695,105001,718,14,258
+975,Red,Chevrolet,G1500,Electric,Automatic,16239,37813,658,5,248
+976,Dark Green,Ford,Tudor,Inine,Automatic,37204,65488,470,10,301
+977,Dark Grey,Ford,Puma,Diesel,Automatic,57837,52001,842,2,64
+978,Dark Grey,Toyota,T100,W,Automatic,26515,65042,418,26,152
+979,Black,Pontiac,Tempest,Inine,Automatic,20243,9934,874,28,110
+980,Blue,Audi,Q7,V8,Standard,70935,66045,,28,
+981,Yellow,Fiat,Punto Grande,Electric,Standard,57043,20183,471,10,196
+982,Grey,Alfa Romeo,Alfetta,Electric,Automatic,50827,61123,198,2,481
+983,Green,Mazda,626 Cronos,Diesel,Automatic,57034,130004,203,6,81
+984,Yellow,Volkswagen,Type II,Diesel,Standard,13738,40424,465,14,389
+985,Blue,Fiat,Uno,Inine,Automatic,65773,143430,389,15,312
+986,Green,GMC,Yukon XL,V8,Standard,63591,9084,454,24,202
+987,Green,BMW,Isetta,V8,Standard,8087,42220,339,4,153
+988,Grey,Maserati,Ghibli,Petrol,Standard,4545,121232,313,1,126
+989,Orange,Chevrolet,Venture,Inine,Automatic,42338,34782,561,22,302
+990,Light Grey,Pontiac,G5,Petrol,Standard,6620,148012,469,5,298
+991,Light Grey,Mercedes Benz,124,V6,Standard,57145,110382,151,7,321
+992,Pearl,Jaguar,XKR,Inine,Standard,40970,130249,832,4,372
+993,White,Jaguar,XK8,Inine,Automatic,66479,131819,307,13,377
+994,Black,Jaguar,XJ6 Serie 3,V8,Standard,3963,125669,,27,
+995,Blue,Porsche,Carrera,Electric,Standard,1458,7636,,17,
+996,Green,BMW,Z4,Inine,Standard,42562,112195,935,14,433
+997,Dark Grey,Alfa Romeo,Milano,V6,Standard,37690,112303,826,26,173
+998,Yellow,BMW,Z1,W,Standard,2248,122789,627,6,304
+999,Pearl,Peugeot,407,Petrol,Automatic,35989,43449,701,18,182
+1000,Blue,Chevrolet,Deluxe,V8,Automatic,36626,95395,,0,
+1001,Dark Green,Toyota,Lite Ace,Inine,Automatic,5014,107012,946,23,388
+1002,Beige,Kia,Opirus,W,Automatic,21195,9480,931,20,428
+1003,Dark Blue,Alfa Romeo,Spider,Inine,Automatic,46345,9317,830,3,498
+1004,White,BMW,320,W,Standard,65447,13621,966,4,373
+1005,Light Grey,Porsche,Carrera 911S,W,Standard,61889,113678,618,1,258
+1006,Beige,Nissan,Sunny Sedan,Petrol,Standard,61875,52003,624,2,394
+1007,Light Grey,Toyota,Prado,V6,Standard,8705,17792,696,28,85
+1008,White,Chevrolet,Trailblazer EXT,Petrol,Standard,63235,113181,377,25,207
+1009,Pearl,Toyota,HiLux,W,Automatic,52611,67792,,26,
+1010,Orange,Peugeot,406,Inine,Standard,31293,149476,310,14,126
+1011,Orange,Chevrolet,Impala,Diesel,Automatic,61663,113477,804,22,29
+1012,Orange,Kia,Joice,Diesel,Automatic,6240,142528,483,27,125
+1013,Dark Blue,Kia,Spectra EX,V8,Standard,20624,32165,807,5,294
+1014,Beige,Volkswagen,City Jetta,Petrol,Standard,18997,77219,338,8,442
+1015,Beige,Mercedes Benz,560,Electric,Automatic,66582,9280,241,4,211
+1016,Light Grey,GMC,Savana,Electric,Standard,8797,124435,265,11,372
+1017,Light Grey,Kia,Spectra,V6,Standard,23724,127449,16,26,107
+1018,Light Grey,Ford,Excursion,W,Standard,19428,79498,952,4,366
+1019,Pearl,Fiat,Stilo,Inine,Automatic,6706,30497,522,0,385
+1020,Orange,Honda,S600,Electric,Automatic,30492,16639,234,8,80
+1021,Red,Mercedes Benz,B200,Petrol,Automatic,3202,102116,921,16,190
+1022,Yellow,Jaguar,E-type,Petrol,Automatic,26339,14452,628,16,138
+1023,Red,Fiat,Stilo,Inine,Automatic,46550,116768,325,16,387
+1024,Purple,Suzuki,Aerio,Petrol,Automatic,6916,7572,417,26,277
+1025,White,Hyundai,Pony,Diesel,Standard,23417,5522,115,24,300
+1026,Beige,Maserati,Coupé,Petrol,Automatic,19571,130283,189,5,496
+1027,Dark Blue,Volkswagen,Transporter,Electric,Standard,24766,104376,,5,
+1028,Blue,Honda,Civic DelSol,Diesel,Automatic,10454,63355,912,16,230
+1029,Dark Blue,Suzuki,Alto,Inine,Automatic,53686,47007,257,0,60
+1030,Dark Grey,Renault,30,Petrol,Automatic,18551,103151,33,19,173
+1031,White,Subaru,SVX,V8,Standard,41581,25041,497,20,51
+1032,White,Porsche,Spyder,V8,Standard,49625,120619,356,7,47
+1033,Light Grey,Peugeot,309,V6,Standard,43647,143552,,24,
+1034,Yellow,Alfa Romeo,75,V6,Automatic,44660,66806,,21,
+1035,Orange,Peugeot,306,Diesel,Standard,69348,65371,655,23,33
+1036,Dark Blue,Peugeot,807,W,Standard,20942,69738,35,22,66
+1037,Dark Blue,Fiat,131,W,Automatic,50707,107362,568,11,287
+1038,Light Grey,Peugeot,607,V6,Standard,60130,99535,643,26,330
+1039,Beige,Alfa Romeo,Guiletta,Diesel,Standard,47986,80884,309,3,436
+1040,Blue,BMW,X3,V8,Automatic,10096,124642,,0,
+1041,Pearl,Subaru,Outback,Diesel,Automatic,25694,102686,618,1,258
+1042,Purple,Pontiac,G6,Electric,Automatic,27674,144592,883,16,35
+1043,White,Renault,Modus,Inine,Automatic,33475,4347,101,8,270
+1044,Grey,Suzuki,X-90,Petrol,Standard,27780,18800,410,5,204
+1045,Orange,Maserati,GranSport Spyder,V6,Automatic,14113,146178,131,4,333
+1046,Red,Honda,Prelude,Inine,Standard,21959,128865,295,25,153
+1047,White,Mazda,Miata,V6,Standard,40879,147048,,24,
+1048,Yellow,Peugeot,Boxer,V8,Automatic,16784,119440,,21,
+1049,Black,GMC,Pickup,Inine,Standard,63321,123267,292,27,257
+1050,Red,BMW,8 Series,Electric,Standard,61992,133701,373,27,176
+1051,Blue,GMC,Sprint,Electric,Automatic,43423,50754,551,10,276
+1052,Yellow,Audi,Fox,V6,Automatic,28898,18759,133,11,330
+1053,Yellow,Ford,Capri,Diesel,Standard,46041,119489,898,8,94
+1054,Dark Grey,Chevrolet,G2500,Electric,Standard,62782,97974,478,15,272
+1055,Pearl,Ferrari,550,Diesel,Standard,57564,81306,,20,
+1056,Pearl,GMC,Yukon,W,Automatic,52963,26678,606,20,169
+1057,Light Grey,Chevrolet,Tahoe,Electric,Automatic,2438,84311,76,28,401
+1058,Green,Pontiac,G5,Inine,Automatic,12260,105086,,21,
+1059,Grey,Peugeot,406,V6,Automatic,64120,52568,23,10,205
+1060,Dark Grey,GMC,Envoy XUV,V6,Standard,3001,96983,39,2,116
+1061,Dark Blue,BMW,Mini Cooper,Inine,Automatic,56892,33201,785,20,372
+1062,Purple,Nissan,Micra,Diesel,Automatic,54930,1186,,12,
+1063,Dark Grey,Volkswagen,Polo Sedan,W,Standard,13385,24699,851,18,431
+1064,Beige,Renault,Kangoo,Diesel,Standard,69662,126605,402,20,355
+1065,Red,Chevrolet,Lacetti,Diesel,Standard,37422,78845,626,15,50
+1066,Blue,Fiat,Tipo,V6,Automatic,42723,70643,230,13,56
+1067,Dark Blue,Toyota,Camry Solara,V6,Automatic,60543,101433,,0,
+1068,Dark Blue,Maserati,GranSport,V6,Standard,29195,134628,309,3,436
+1069,Black,Lexus,ES 300,V8,Standard,65514,71903,898,8,94
+1070,Green,Suzuki,Esteem,W,Standard,32936,12892,297,11,438
+1071,Beige,Jaguar,Sovereign,Electric,Standard,19433,140107,600,10,493
+1072,Yellow,Peugeot,1007,Electric,Standard,12397,12716,163,18,177
+1073,Grey,Alfa Romeo,GTV-6,V6,Automatic,20220,20605,986,24,143
+1074,Light Grey,Audi,100 C4 Series,Diesel,Automatic,566,24841,559,27,237
+1075,Dark Green,Maserati,Khamsin,V6,Standard,22454,74055,143,16,91
+1076,Dark Grey,BMW,545,Petrol,Standard,37916,21388,700,13,259
+1077,Orange,Volkswagen,Golf III,Electric,Automatic,46803,71208,735,29,153
+1078,Light Grey,Honda,FR-V,Inine,Automatic,8730,33562,,26,
+1079,Yellow,Ford,SVT,W,Automatic,12953,51352,50,28,323
+1080,Yellow,Suzuki,Verona,V6,Standard,34476,3347,856,1,437
+1081,Black,Chevrolet,C3500,W,Standard,18658,73076,,0,
+1082,Dark Green,Alfa Romeo,Milano,V8,Automatic,6087,82968,,5,
+1083,Dark Grey,GMC,Envoy XL,V6,Automatic,41938,138998,725,1,205
+1084,Dark Grey,Pontiac,Phoenix,V8,Automatic,44623,115535,767,26,123
+1085,Red,Audi,Quattro,W,Standard,25902,111301,830,3,498
+1086,Dark Blue,GMC,Envoy XL,Diesel,Automatic,40554,56015,759,17,73
+1087,Blue,Ferrari,Mondial,Petrol,Automatic,26784,60409,391,25,76
+1088,Grey,Audi,5000,V8,Standard,41608,104551,96,12,303
+1089,Black,Mercedes Benz,C32,Inine,Automatic,46186,122848,503,9,481
+1090,Red,Renault,30,V6,Automatic,64302,87259,517,28,167
+1091,White,Jaguar,XJ8,W,Standard,22919,9524,742,19,295
+1092,Purple,Toyota,Prado,Inine,Automatic,52045,138504,35,22,66
+1093,Pearl,Maserati,Khamsin,Diesel,Automatic,64325,147149,428,18,490
+1094,Dark Blue,Nissan,Pathfinder,V6,Standard,23262,97728,645,8,93
+1095,Grey,Ford,GT,Diesel,Standard,63533,62786,570,22,34
+1096,Blue,Toyota,Corolla Verso,Petrol,Standard,4599,88173,,5,
+1097,Light Grey,Hyundai,Sonata,Diesel,Automatic,47195,99604,697,18,171
+1098,Red,Volkswagen,Sharan,V8,Standard,6248,47331,624,2,394
+1099,Light Grey,Peugeot,405,Electric,Automatic,2900,70127,225,2,309
+1100,Dark Green,Renault,Medaillon,V6,Automatic,54168,76405,143,16,91
+1101,Pearl,Toyota,Amazon,V6,Automatic,72709,7099,147,7,1
+1102,Dark Green,Subaru,Loyale,Diesel,Automatic,22385,30070,670,16,381
+1103,Dark Blue,Chevrolet,Express,Electric,Automatic,24067,7522,757,3,47
+1104,Green,Maserati,Shamal,V8,Automatic,12440,74086,977,5,34
+1105,Red,Jaguar,XJ6 Serie 3,Inine,Automatic,62270,143227,,11,
+1106,Purple,Subaru,4x4 Turbo,Diesel,Automatic,10021,12798,,19,
+1107,Yellow,Suzuki,Baleno,Petrol,Standard,72784,92723,,17,
+1108,Red,Nissan,Cargo,W,Automatic,68417,135082,606,20,169
+1109,Dark Blue,Lexus,LS 400,Electric,Automatic,48900,124525,125,18,360
+1110,White,Lexus,SC 400,W,Automatic,60690,68342,927,21,476
+1111,Yellow,Jaguar,XK,Diesel,Standard,68066,130740,136,29,424
+1112,Dark Green,Subaru,SVX,Electric,Standard,36059,34967,779,22,326
+1113,Green,Ferrari,208,Electric,Automatic,5725,138182,235,22,436
+1114,Beige,Kia,Carstar,V6,Standard,60523,62050,472,29,352
+1115,Black,Hyundai,XG,V8,Standard,66264,125887,326,25,40
+1116,Pearl,Nissan,200SX,Inine,Automatic,55920,11363,38,7,114
+1117,Black,Mercedes Benz,S420,Inine,Automatic,43651,109459,289,2,206
+1118,Dark Blue,Pontiac,Vibe,Diesel,Automatic,73108,18007,509,17,0
+1119,Light Grey,Mazda,B3000,V8,Standard,40185,13888,827,25,114
+1120,Pearl,BMW,3 Series,V8,Automatic,12160,130417,259,7,242
+1121,Dark Green,Toyota,Matrix,Electric,Automatic,12395,13881,,17,
+1122,Orange,Volkswagen,Polo,Electric,Automatic,475,54621,334,4,126
+1123,Dark Blue,Porsche,Carrera GT,Diesel,Standard,7448,72570,300,8,204
+1124,Pearl,BMW,Z4,V8,Standard,70280,140119,290,12,58
+1125,Dark Green,Subaru,SVX,V6,Automatic,41992,36858,36,19,377
+1126,Blue,Hyundai,Amica,V6,Automatic,35914,73126,591,2,129
+1127,Black,Peugeot,607,V8,Standard,28570,50778,624,2,394
+1128,Dark Blue,Suzuki,Verona,Inine,Automatic,20644,54111,676,3,194
+1129,Black,Mazda,Xedos 9,V8,Standard,49279,108584,284,8,26
+1130,Dark Green,Renault,Fuego,Diesel,Automatic,33961,4762,892,1,209
+1131,Blue,Porsche,Speedster,W,Automatic,6053,69917,917,29,133
+1132,Green,Lexus,ES 300,Diesel,Standard,23398,110781,346,7,208
+1133,Green,Peugeot,Expert,Diesel,Automatic,25124,16063,79,29,302
+1134,Light Grey,Maserati,Khamsin,Electric,Standard,331,148040,822,16,174
+1135,Dark Blue,Mazda,MX-5,W,Standard,73998,120823,,28,
+1136,Green,Audi,80 Cabriolet,Inine,Automatic,24873,97269,484,16,369
+1137,Dark Green,Kia,Rio RX-V,Electric,Standard,44367,59716,916,1,102
+1138,Dark Blue,Maserati,5000 GT,Inine,Standard,71181,90480,58,15,175
+1139,Beige,Suzuki,Aerio,Petrol,Standard,30297,57130,533,1,301
+1140,Light Grey,Audi,100 C4 Series,Petrol,Automatic,37325,50378,,17,
+1141,Grey,Peugeot,106,Inine,Standard,55553,134291,222,23,194
+1142,Grey,Lexus,RX 330,Petrol,Standard,47898,25917,677,11,56
+1143,White,Ford,Focus,W,Standard,51835,128128,694,29,267
+1144,Yellow,Volkswagen,Caddy Van,Electric,Automatic,49417,33097,107,7,486
+1145,Green,Ford,Ka,W,Standard,67701,99031,,1,
+1146,Orange,Toyota,MR2,Diesel,Standard,13055,19548,688,16,174
+1147,Purple,Renault,Safrane,Diesel,Standard,61332,44152,639,6,296
+1148,Beige,Lexus,LS 460,V6,Automatic,20839,22915,629,5,36
+1149,Orange,BMW,318,Petrol,Automatic,8587,57440,,25,
+1150,Black,GMC,Acadia,Inine,Standard,30997,134917,,16,
+1151,Red,Volkswagen,Rabbit,V6,Standard,24374,94631,793,0,29
+1152,Orange,Lexus,IS 300,V8,Standard,23332,41743,661,6,241
+1153,Dark Grey,Lexus,IS 350,Diesel,Standard,69030,2385,43,10,219
+1154,Black,Alfa Romeo,145,Electric,Automatic,51825,26007,,10,
+1155,Orange,Mercedes Benz,Sprinter,W,Standard,45499,29607,24,8,88
+1156,Beige,Alfa Romeo,166,Inine,Standard,42697,18011,899,22,237
+1157,Orange,Honda,Prelude,Electric,Automatic,6902,35413,705,22,95
+1158,Pearl,Renault,Fuego,V8,Standard,12072,7908,545,3,408
+1159,Yellow,Renault,18,Petrol,Automatic,48394,78618,319,19,167
+1160,Purple,Mazda,Navajo,Diesel,Standard,8149,8032,804,22,29
+1161,Dark Grey,Alfa Romeo,147,V8,Automatic,55149,37464,,4,
+1162,White,Suzuki,Alto,W,Standard,25076,109002,842,2,64
+1163,Yellow,Toyota,Lite Ace,Diesel,Standard,45853,86011,171,25,4
+1164,Light Grey,Suzuki,Grand Vitara,Petrol,Standard,13056,115700,258,2,103
+1165,Blue,Mazda,Mizer,Electric,Standard,45666,110894,,6,
+1166,Purple,Porsche,959,V6,Automatic,12216,124114,,1,
+1167,Dark Green,Nissan,Note,V8,Automatic,49395,5674,826,26,173
+1168,Beige,Chevrolet,Epica,Petrol,Automatic,16872,11986,46,15,336
+1169,Blue,Honda,Stream,W,Automatic,6190,105512,776,10,54
+1170,Pearl,Jaguar,XJ8 Vanden Plas,V8,Automatic,27027,56075,267,3,369
+1171,Purple,Ferrari,860,Inine,Standard,26063,39235,955,1,60
+1172,Beige,Kia,Visto,Inine,Standard,6807,94783,594,12,228
+1173,Black,Fiat,Tempra,W,Automatic,63107,38966,664,12,448
+1174,Pearl,Lexus,ES 330,V6,Standard,29246,140534,200,21,145
+1175,White,BMW,630,W,Automatic,6100,105895,599,17,4
+1176,Grey,Subaru,Loyale,W,Standard,53180,73919,635,22,435
+1177,White,Hyundai,Stellar,Electric,Automatic,22702,110638,226,14,281
+1178,Dark Blue,Renault,Modus,V6,Automatic,72334,94690,967,24,36
+1179,Dark Blue,Kia,Spectra EX,V8,Standard,54092,62716,,4,
+1180,Dark Grey,Suzuki,Vitara,V8,Automatic,59314,128169,777,14,424
+1181,Light Grey,Nissan,Skyline,Inine,Standard,43531,138522,808,20,284
+1182,Yellow,Peugeot,505,V8,Automatic,35456,10282,433,17,415
+1183,Pearl,Peugeot,1007,V8,Standard,44426,139450,538,6,185
+1184,Yellow,Ferrari,Mondial,W,Automatic,26612,13515,650,23,467
+1185,Pearl,Kia,Joice,W,Automatic,68219,81433,833,18,482
+1186,White,Honda,Legend,V8,Automatic,23497,61272,88,27,377
+1187,Blue,Alfa Romeo,Guiletta,Inine,Automatic,74006,39523,764,8,476
+1188,Dark Green,Pontiac,Phoenix,Inine,Standard,47326,99769,133,11,330
+1189,Dark Grey,Pontiac,Firefly,W,Standard,35206,18131,505,1,324
+1190,Dark Green,Alfa Romeo,GTV,Diesel,Standard,47485,30105,642,20,36
+1191,White,Chevrolet,Impala SS,V6,Standard,14068,131967,101,8,270
+1192,Orange,Honda,Ridgeline,Electric,Standard,52855,92384,729,5,435
+1193,Black,Ford,Grand Marquis,V6,Standard,19566,8511,,10,
+1194,Green,Mazda,RX-3,Electric,Automatic,69038,29442,36,19,377
+1195,Orange,Jaguar,XJ6,Electric,Standard,11042,34059,939,7,250
+1196,Dark Grey,Volkswagen,T5 Transporter,V8,Automatic,35868,108959,693,11,366
+1197,Dark Green,Alfa Romeo,147,V6,Automatic,2865,112652,870,12,271
+1198,Black,BMW,1 Series,Petrol,Automatic,50782,101872,763,25,219
+1199,Dark Grey,Lexus,GS 400,W,Standard,29802,44240,684,23,215
+1200,Pearl,Audi,TT Roadster,V6,Automatic,14084,24926,358,7,445
+1201,Blue,Ferrari,Testa Rossa,Inine,Standard,69935,7969,,7,
+1202,Yellow,Mazda,Van,Petrol,Standard,11492,146907,,4,
+1203,Green,Alfa Romeo,166,V8,Automatic,37413,98749,549,2,204
+1204,Yellow,Ford,Villager,V6,Automatic,44105,83619,544,2,199
+1205,Pearl,GMC,Blazer Fullsize,Inine,Automatic,24755,5502,96,12,303
+1206,Red,Ferrari,F 333 SP,V6,Standard,53221,108352,90,14,458
+1207,Green,Fiat,Coupé,W,Automatic,6634,83520,17,0,398
+1208,Red,Kia,Sephia II,Inine,Standard,47846,2371,,14,
+1209,Red,Hyundai,Getz,W,Standard,44671,134097,25,27,277
+1210,Light Grey,Suzuki,Grand Vitara,Inine,Automatic,29440,104572,,3,
+1211,Light Grey,Subaru,WRX STi,W,Automatic,42479,140454,302,15,164
+1212,Dark Blue,Ferrari,550,V8,Standard,32626,40901,739,13,408
+1213,Dark Grey,Honda,Passport,V6,Automatic,34039,17302,898,8,94
+1214,Beige,Volkswagen,Passat,Electric,Standard,41191,85243,321,18,208
+1215,Orange,Subaru,WRX STi,Petrol,Automatic,63889,33529,,16,
+1216,White,Peugeot,107,Petrol,Standard,46167,43948,380,3,167
+1217,Pearl,Chevrolet,K2500,Inine,Standard,66075,92069,,12,
+1218,Grey,BMW,540,Petrol,Standard,56197,62232,706,12,343
+1219,Pearl,Hyundai,Terracan,V8,Standard,33409,45265,295,25,153
+1220,Orange,Suzuki,Jimny,V8,Automatic,61475,106312,706,12,343
+1221,Red,Audi,Allroad,Electric,Standard,45033,101935,,11,
+1222,White,Mazda,6 Sport,W,Automatic,82,115226,343,18,490
+1223,Black,Volkswagen,New Beetle,Electric,Automatic,71823,19513,939,7,250
+1224,Green,Kia,Carens II,V8,Standard,34416,100324,279,29,311
+1225,Dark Grey,Audi,Coupé 20V,V8,Standard,18267,132057,,5,
+1226,Pearl,Lexus,LX 450,Inine,Standard,52995,149787,847,21,383
+1227,Light Grey,Peugeot,Expert,Inine,Standard,18006,88322,600,10,493
+1228,Green,Mercedes Benz,SK-Serie (Truck),W,Automatic,14491,98149,518,0,74
+1229,White,BMW,735,V8,Standard,9673,131360,,7,
+1230,Grey,Mercedes Benz,Vaneo,Electric,Standard,22248,101918,84,24,363
+1231,White,Ferrari,208,Electric,Automatic,73926,124560,269,10,298
+1232,Purple,Suzuki,Reno,Electric,Automatic,30726,106816,,12,
+1233,Green,Lexus,IS 300,Petrol,Automatic,68114,135929,811,25,362
+1234,Pearl,Peugeot,807,Electric,Standard,39273,3097,97,21,163
+1235,Dark Green,Hyundai,Entourage,W,Standard,25967,85165,,2,
+1236,Grey,Chevrolet,Z28,V6,Automatic,64740,130012,750,5,481
+1237,Red,Honda,S800,W,Automatic,51163,106885,57,27,345
+1238,Grey,Mercedes Benz,CL55,Diesel,Standard,50429,146428,791,17,72
+1239,Orange,Mazda,B3000,Petrol,Standard,22680,32768,969,22,450
+1240,Purple,Pontiac,Grand Am,V8,Automatic,7730,62766,586,24,364
+1241,Beige,Renault,Master,W,Standard,34812,10167,720,18,353
+1242,Green,Kia,Magentis,Inine,Standard,14300,37077,,12,
+1243,Light Grey,Kia,Rondo,W,Standard,5390,43690,,12,
+1244,Beige,GMC,Suburban,Diesel,Standard,23849,21740,798,0,402
+1245,Beige,Porsche,968,V8,Standard,43815,58453,,3,
+1246,Grey,Peugeot,Partner,V6,Standard,39669,95178,646,15,215
+1247,Orange,Porsche,Cayenne,Petrol,Automatic,40510,54502,720,18,353
+1248,Pearl,Renault,Safrane,V6,Standard,15319,22048,378,19,288
+1249,Pearl,Mazda,626 Break,W,Standard,52264,4778,940,5,105
+1250,Dark Blue,Honda,FR-V,V6,Standard,52610,65589,586,24,364
+1251,Beige,Maserati,Biturbo,V6,Standard,14156,13993,274,5,301
+1252,Grey,Honda,Insight,V8,Automatic,43664,114432,,9,
+1253,Pearl,Nissan,Vanette,V6,Automatic,57123,2072,974,25,89
+1254,Dark Green,Mercedes Benz,Unimog,W,Automatic,482,1868,68,13,225
+1255,Dark Green,Fiat,Seicento,V6,Standard,49884,44194,630,14,122
+1256,Dark Green,Peugeot,405,V6,Standard,72851,112460,343,18,490
+1257,Dark Green,Ford,EXP,Petrol,Automatic,17386,142969,672,8,14
+1258,Dark Grey,Peugeot,406,V6,Standard,54038,86381,800,2,265
+1259,Light Grey,Jaguar,XR8,Electric,Automatic,31187,19544,29,21,480
+1260,Purple,Ferrari,288,Electric,Standard,36007,21699,29,21,480
+1261,Pearl,Maserati,3200 GT,Inine,Standard,43745,1607,513,6,364
+1262,Black,Jaguar,E-type,Inine,Automatic,39790,112763,,11,
+1263,Yellow,Lexus,GS 300,W,Automatic,40363,103462,,9,
+1264,Orange,Subaru,G3X Justy,Petrol,Automatic,71347,67617,298,4,372
+1265,Red,Nissan,Pathfinder Armada,V8,Automatic,1052,137595,,19,
+1266,Black,Ferrari,195,Petrol,Standard,13058,45995,970,6,310
+1267,Orange,Ferrari,330,Electric,Standard,28489,57322,801,15,9
+1268,Orange,BMW,8 Series,V8,Automatic,63477,126665,117,2,470
+1269,Blue,GMC,Suburban,V6,Automatic,42435,56162,609,12,64
+1270,White,Renault,25,Diesel,Automatic,41619,80933,,10,
+1271,White,Pontiac,Catalina,Petrol,Standard,42678,117628,580,3,28
+1272,Pearl,Pontiac,Parisienne,Diesel,Standard,66715,105409,821,26,37
+1273,Blue,Mercedes Benz,SL320,Electric,Standard,3470,9689,967,24,36
+1274,Grey,Jaguar,XKE,W,Standard,72049,123232,260,24,323
+1275,Beige,Chevrolet,Chevelle,Petrol,Automatic,5762,111445,359,20,156
+1276,Blue,GMC,Jimmy,Diesel,Standard,5303,118153,875,0,489
+1277,Purple,Hyundai,Santa Fe,Diesel,Automatic,68842,61484,,0,
+1278,Light Grey,Alfa Romeo,147,W,Automatic,5220,90704,440,7,487
+1279,Light Grey,Hyundai,Pony,Electric,Automatic,68687,32558,63,23,216
+1280,Grey,Subaru,XT,W,Standard,48321,129471,747,19,352
+1281,Purple,Subaru,Loyale,W,Standard,52583,69545,292,27,257
+1282,Yellow,Nissan,Vanette,W,Automatic,3671,145195,861,12,423
+1283,Orange,Mazda,3,V8,Automatic,71132,38774,391,25,76
+1284,Green,Fiat,Scudo,Diesel,Standard,44644,69003,20,8,28
+1285,Yellow,Subaru,B9 Tribeca,Inine,Automatic,55152,36474,745,26,403
+1286,Dark Blue,Alfa Romeo,Alfetta,Inine,Standard,55371,140225,702,9,242
+1287,Black,Alfa Romeo,159,W,Automatic,64694,29480,568,11,287
+1288,Blue,Pontiac,Torrent,Electric,Standard,56627,149080,53,5,272
+1289,Black,Peugeot,J5,V6,Automatic,34885,114661,,24,
+1290,Beige,Peugeot,Partner,Inine,Automatic,4678,145906,434,9,191
+1291,Light Grey,Hyundai,Starex,Petrol,Automatic,24321,97737,137,24,428
+1292,Black,BMW,2002,Electric,Standard,41276,137540,24,8,88
+1293,Red,BMW,525,Diesel,Automatic,50421,11508,,19,
+1294,Dark Grey,Chevrolet,Nomad,Diesel,Automatic,61506,85865,40,0,92
+1295,Purple,Maserati,Khamsin,Electric,Standard,64663,62636,765,9,271
+1296,Pearl,Honda,Ridgeline,Diesel,Automatic,36578,62800,746,26,378
+1297,Orange,Maserati,430,V6,Standard,13465,75928,,16,
+1298,Grey,Kia,Spectra SX,Electric,Automatic,61935,76907,297,11,438
+1299,Red,Audi,200,V6,Standard,22834,51636,28,2,172
+1300,Pearl,Toyota,LandCruiser 90,Petrol,Automatic,20253,18837,744,20,154
+1301,Orange,Toyota,Avensis Verso,Petrol,Automatic,73382,127608,32,23,304
+1302,Dark Grey,BMW,M6,Electric,Automatic,18646,109998,208,22,368
+1303,Light Grey,Peugeot,107,Diesel,Automatic,44320,8618,,0,
+1304,Grey,Porsche,Cayman,Petrol,Automatic,5521,51820,723,10,136
+1305,Pearl,Honda,MDX,V8,Standard,46963,52241,632,5,276
+1306,Blue,Volkswagen,Golf Plus,V6,Automatic,74737,116247,253,10,310
+1307,Dark Green,Nissan,200SX,V8,Standard,6780,69059,445,24,436
+1308,Purple,Pontiac,Firebird,W,Standard,72987,81028,,20,
+1309,White,Renault,Espace,Petrol,Standard,53862,115778,,19,
+1310,Yellow,GMC,Rally,V6,Automatic,20625,64776,0,25,478
+1311,Pearl,Mazda,Navajo,Inine,Automatic,30727,85006,794,10,165
+1312,White,Ford,Scorpio,Petrol,Standard,23706,99956,115,24,300
+1313,Orange,Pontiac,Trans Am,W,Automatic,58388,118257,665,12,427
+1314,Beige,Fiat,Scudo,V8,Automatic,20135,87807,826,26,173
+1315,Dark Blue,Subaru,Outback,Electric,Standard,28814,25159,643,26,330
+1316,Pearl,Hyundai,Azera,Inine,Automatic,57023,19355,512,24,441
+1317,Dark Blue,Lexus,RX 400h,Electric,Standard,512,20587,136,29,424
+1318,Orange,Volkswagen,Golf Cabriolet,V8,Automatic,72813,142369,777,14,424
+1319,Dark Blue,Honda,Accord,V8,Automatic,57363,138346,795,2,381
+1320,Red,GMC,Sonoma,V6,Standard,55605,22729,972,8,59
+1321,Purple,Honda,HR-V,Electric,Automatic,40437,118488,,23,
+1322,Black,Ferrari,365,Electric,Automatic,68627,113226,166,12,55
+1323,Light Grey,Hyundai,Veracruz,Petrol,Standard,26743,110978,394,10,148
+1324,Pearl,Fiat,Doblò,V6,Automatic,25839,97393,852,4,330
+1325,Green,Volkswagen,Golf III Cabrio,V8,Standard,28373,75246,583,2,387
+1326,Green,Hyundai,Elantra,Petrol,Standard,28031,20557,770,10,30
+1327,Black,Lexus,IS 350,Petrol,Standard,55671,146513,406,16,278
+1328,Purple,Maserati,Biturbo,Electric,Standard,60500,27182,35,22,66
+1329,Green,Subaru,Outback Sport,Petrol,Standard,56145,77608,586,24,364
+1330,Dark Blue,Peugeot,807,W,Automatic,72032,33326,933,17,233
+1331,Yellow,Porsche,Spyder,Petrol,Automatic,42538,88312,249,25,258
+1332,Green,Volkswagen,Carrier,V8,Automatic,36291,36485,914,7,461
+1333,Green,Pontiac,Sunfire,Petrol,Standard,15055,140905,234,8,80
+1334,Purple,Ferrari,GTO,Inine,Standard,31660,117340,432,18,137
+1335,Orange,GMC,Acadia,V6,Automatic,40004,77321,190,25,202
+1336,White,Mazda,626 Cronos,Electric,Automatic,27591,31995,298,4,372
+1337,Beige,GMC,Sprint,V6,Standard,44611,115932,,25,
+1338,Dark Grey,Honda,Odyssey,V8,Automatic,65859,17046,218,4,187
+1339,Pearl,Hyundai,Pony,Petrol,Automatic,69579,26019,738,0,73
+1340,Blue,Honda,Odyssey,V8,Automatic,52444,21978,689,25,5
+1341,Dark Blue,Honda,Pilot,Petrol,Standard,13969,131476,,15,
+1342,Dark Green,Nissan,Pulsar,Inine,Standard,50449,143966,62,24,326
+1343,Light Grey,Nissan,Titan,V8,Automatic,66126,32971,533,1,301
+1344,Orange,Fiat,Dino,Electric,Automatic,69491,110386,926,18,205
+1345,Black,Peugeot,504,V6,Automatic,61376,6496,278,7,362
+1346,Orange,Chevrolet,Suburban,Diesel,Standard,28687,63488,773,22,150
+1347,Red,Renault,RX4,V6,Automatic,40132,64407,948,23,261
+1348,Green,Ferrari,360,V8,Automatic,35777,96590,239,22,272
+1349,Purple,Peugeot,806,Electric,Standard,43571,142484,860,3,389
+1350,Grey,Ford,Lightning,Petrol,Standard,50340,103609,663,13,7
+1351,Black,Toyota,LandCruiser 90,V6,Standard,59771,48703,346,7,208
+1352,Red,Maserati,Quattroporte,Electric,Standard,55622,63766,109,6,149
+1353,Purple,Subaru,Liberty,V6,Standard,16182,145858,889,12,43
+1354,Beige,Nissan,240Z,Petrol,Automatic,39011,68432,798,0,402
+1355,Green,Mazda,GLC,V8,Standard,43820,115328,671,27,58
+1356,Blue,Hyundai,Grandeur XG,Diesel,Standard,70220,118752,,9,
+1357,Dark Blue,Audi,100,Electric,Standard,24956,22304,,10,
+1358,Dark Green,Subaru,4x4 Turbo,Petrol,Standard,31531,135947,41,18,208
+1359,Grey,Fiat,Ulysse,W,Automatic,27038,11865,259,7,242
+1360,Light Grey,Porsche,Speedster,Inine,Standard,22056,98702,317,23,144
+1361,Black,Mercedes Benz,SLR McLaren,W,Automatic,54928,36543,103,0,13
+1362,White,Ferrari,250,Electric,Standard,10559,2266,892,1,209
+1363,White,Pontiac,Vibe,Petrol,Standard,41936,9662,924,26,405
+1364,Dark Green,Mazda,CX-7,W,Automatic,19268,16371,348,22,57
+1365,Blue,Hyundai,Amica,V8,Automatic,29073,59497,158,21,390
+1366,Grey,Nissan,Cefiro 2000/3000,W,Automatic,2931,147052,491,20,450
+1367,Yellow,Audi,RS 6,V8,Standard,42303,36180,668,9,418
+1368,Orange,Ford,Econovan,V8,Automatic,34994,55885,,23,
+1369,Blue,GMC,S-15,Electric,Automatic,13455,43905,284,8,26
+1370,Dark Green,Subaru,G3X Justy,Inine,Standard,14034,72871,246,26,78
+1371,Light Grey,Chevrolet,Tacuma,Inine,Standard,33558,56772,25,27,277
+1372,White,Ferrari,712,Electric,Standard,10725,46279,737,0,134
+1373,Black,Porsche,Spyder,V6,Automatic,66133,74984,450,20,122
+1374,Dark Blue,Nissan,Costaud,Diesel,Standard,8138,80712,,0,
+1375,Beige,Maserati,Spyder,Inine,Automatic,7700,104379,911,2,342
+1376,White,Suzuki,Aerio,V8,Automatic,51015,125469,844,27,393
+1377,Blue,Hyundai,Atos,V8,Automatic,32544,42449,,20,
+1378,Red,Pontiac,Firefly,V8,Automatic,3994,91683,,27,
+1379,Orange,Audi,S4,V6,Automatic,73710,97312,224,3,482
+1380,Black,Kia,Joice,V8,Standard,64575,62901,780,9,415
+1381,Black,Mazda,Van,V6,Automatic,19531,61509,,25,
+1382,Black,Kia,Rio 5,Electric,Standard,22552,1173,858,22,111
+1383,Blue,Audi,5000,Inine,Standard,31459,88955,314,24,401
+1384,Dark Green,Renault,Premium,Electric,Automatic,5584,33080,406,16,278
+1385,Yellow,Mazda,GLC,V8,Standard,20542,127437,951,1,65
+1386,Dark Blue,Maserati,Biturbo,Inine,Automatic,63981,47962,936,28,263
+1387,Light Grey,Maserati,GranSport,W,Automatic,33132,12805,881,2,173
+1388,Black,GMC,Rally,V6,Automatic,39652,106553,513,6,364
+1389,Dark Blue,Alfa Romeo,33,Inine,Automatic,31905,106693,959,26,172
+1390,Dark Grey,Renault,Express,Diesel,Standard,56568,120406,448,17,198
+1391,Green,GMC,Yukon,Petrol,Automatic,3534,12468,,16,
+1392,Orange,Toyota,HiLux Tundra,W,Standard,4928,40753,816,25,15
+1393,Blue,Honda,Integra,Electric,Standard,44652,149831,935,14,433
+1394,Pearl,Kia,Carens,W,Automatic,4819,55115,,25,
+1395,Pearl,Toyota,Echo,Petrol,Standard,45850,36119,100,28,172
+1396,Pearl,Peugeot,Boxer,Petrol,Standard,19801,99904,401,18,409
+1397,Black,Maserati,GranSport,W,Standard,3684,17836,217,10,180
+1398,Dark Blue,Hyundai,H 100,Petrol,Automatic,7986,121783,834,16,467
+1399,Beige,Renault,Master,Diesel,Standard,25336,88208,732,17,116
+1400,Dark Green,Mercedes Benz,500,V8,Automatic,52809,139633,480,6,339
+1401,Dark Grey,Audi,V8,W,Automatic,412,61952,299,13,294
+1402,Orange,Porsche,944,Electric,Standard,58295,75070,662,11,339
+1403,Red,Subaru,WRX,Diesel,Automatic,68182,123867,376,21,450
+1404,Beige,Hyundai,Grandeur XG,V8,Automatic,49518,67280,798,0,402
+1405,Blue,Renault,5,Electric,Standard,52074,133147,540,29,133
+1406,Pearl,Lexus,ES 250,Electric,Automatic,71371,113750,646,15,215
+1407,Dark Blue,Alfa Romeo,155,Diesel,Standard,7164,144723,847,21,383
+1408,Green,Hyundai,Atos,W,Automatic,51767,141691,,8,
+1409,Red,Jaguar,X-Type,Inine,Standard,42502,102300,62,24,326
+1410,Yellow,Toyota,Solara,Electric,Standard,25444,86129,488,6,333
+1411,Pearl,Alfa Romeo,155,Inine,Standard,4715,55658,45,13,403
+1412,Yellow,Renault,Mascot,V8,Automatic,35718,83423,803,0,237
+1413,Green,GMC,Sonoma,Diesel,Automatic,41762,111573,,3,
+1414,Red,Ford,E-350,Inine,Standard,19429,106256,685,26,35
+1415,Blue,Renault,Express,Inine,Automatic,12297,55733,280,7,80
+1416,Dark Blue,Renault,21,Inine,Automatic,13015,118686,,26,
+1417,Grey,Honda,Legend,Inine,Standard,6296,36701,599,17,4
+1418,Green,Renault,Traffic,Electric,Standard,72423,49178,49,8,59
+1419,Pearl,BMW,1 Series,Diesel,Automatic,9706,128170,485,24,216
+1420,Orange,Alfa Romeo,166,V8,Automatic,72394,68306,679,11,281
+1421,Dark Green,Audi,200,W,Standard,64827,46704,155,25,127
+1422,White,Toyota,Camionnette,Inine,Standard,1385,11009,810,7,376
+1423,Pearl,Mercedes Benz,G-Class,Electric,Automatic,2941,71270,,1,
+1424,Blue,Suzuki,Aerio,Diesel,Automatic,21257,5633,477,22,79
+1425,Green,BMW,L6,Diesel,Standard,2822,137124,965,14,189
+1426,Black,Maserati,Spyder,W,Standard,74859,47812,747,19,352
+1427,Beige,Alfa Romeo,155,Electric,Standard,33419,83402,,9,
+1428,Blue,Mazda,CX-9,W,Standard,5636,123604,,25,
+1429,Dark Grey,Jaguar,XJ Series,V6,Automatic,44466,25786,674,15,484
+1430,Red,Maserati,Quattroporte,Diesel,Automatic,23881,22009,634,16,468
+1431,Blue,Ford,Ranchero,W,Standard,32012,49620,20,8,28
+1432,Light Grey,BMW,325,Electric,Standard,46755,45828,256,0,44
+1433,Green,Toyota,Solara,V8,Automatic,37693,65450,50,28,323
+1434,Light Grey,Ferrari,410,W,Automatic,70468,59595,656,27,341
+1435,Pearl,Mercedes Benz,CL500,V6,Standard,51478,124783,0,25,478
+1436,Green,Mazda,Bravo 2600,Inine,Standard,337,46473,885,28,386
+1437,White,Mazda,Millenia,Electric,Automatic,31126,79581,858,22,111
+1438,Red,Nissan,King Van,Electric,Standard,8017,139254,490,21,444
+1439,Pearl,Porsche,Carrera 911S,V8,Automatic,65813,35964,113,21,373
+1440,Blue,Renault,Fuego,V6,Standard,11213,115951,742,19,295
+1441,White,Ferrari,860,Electric,Standard,18112,82198,,4,
+1442,Dark Green,Chevrolet,C1500,V6,Automatic,15111,93064,238,10,397
+1443,Dark Grey,Hyundai,Scoupe,V8,Automatic,35141,109544,156,18,224
+1444,Yellow,Toyota,Matrix,W,Automatic,6839,98233,,0,
+1445,Dark Grey,Ford,Territory,Inine,Standard,14405,24744,,3,
+1446,Blue,Lexus,GS 450h,V6,Automatic,61659,115788,475,24,373
+1447,Red,Honda,S2000,Diesel,Automatic,66540,15898,255,0,128
+1448,Black,Audi,TT,Electric,Standard,61156,44068,122,22,255
+1449,Dark Green,Mazda,626 Cronos,W,Automatic,70492,75558,,8,
+1450,Dark Blue,Subaru,Loyale,V8,Standard,63333,105775,,16,
+1451,Green,Renault,Sportwagon,Petrol,Automatic,36379,59236,174,28,363
+1452,Orange,Toyota,Matrix,V6,Standard,41422,16005,636,25,151
+1453,Purple,Volkswagen,T4 Transporter,Electric,Automatic,611,2630,864,13,149
+1454,Pearl,BMW,528,Inine,Automatic,43036,14452,979,1,420
+1455,Blue,Maserati,Khamsin,V6,Standard,21270,111579,626,15,50
+1456,White,Hyundai,XG,Electric,Standard,49184,29560,97,21,163
+1457,Light Grey,Mercedes Benz,190,Diesel,Automatic,58554,95895,554,6,417
+1458,Dark Grey,Alfa Romeo,Guiletta,V6,Standard,216,56915,660,11,147
+1459,Light Grey,Ferrari,335,V8,Standard,61712,81391,,16,
+1460,Dark Grey,Hyundai,Tiburon,V6,Automatic,24525,128046,34,16,144
+1461,Yellow,Toyota,Solara,W,Standard,12844,39125,156,18,224
+1462,Light Grey,Ferrari,360,Inine,Automatic,48632,88844,261,10,169
+1463,Black,Ford,Cobra,Diesel,Standard,52858,92393,20,8,28
+1464,Dark Grey,Pontiac,Grand Prix,V6,Automatic,40780,45729,152,27,351
+1465,Beige,Subaru,4x4 Turbo,Petrol,Automatic,54992,58165,932,4,484
+1466,Dark Grey,Chevrolet,Beretta,Electric,Standard,63834,120680,886,1,404
+1467,Pearl,Kia,Credos,V8,Standard,11848,55785,941,28,350
+1468,Pearl,Lexus,LS 460,Electric,Standard,7696,58793,73,2,123
+1469,Orange,Pontiac,Phoenix,V8,Standard,22898,32741,818,28,455
+1470,Dark Green,GMC,Tracker,Electric,Automatic,24092,5340,336,26,56
+1471,White,Alfa Romeo,Milano,Diesel,Standard,36696,22967,315,9,70
+1472,White,Toyota,SportsVan,W,Standard,52821,79370,801,15,9
+1473,Purple,Subaru,G3X Justy,Electric,Automatic,27293,63563,640,27,339
+1474,Grey,Nissan,NX,Electric,Automatic,55278,80581,379,17,55
+1475,Beige,Renault,Twingo,V8,Automatic,56579,71219,44,11,91
+1476,Dark Grey,Peugeot,206,V6,Automatic,11159,23080,557,23,64
+1477,Purple,Ford,Bronco II,Petrol,Standard,49891,76762,358,7,445
+1478,Purple,Suzuki,Forsa,V6,Automatic,39811,105625,394,10,148
+1479,Green,BMW,633,V6,Automatic,51836,98533,,25,
+1480,Purple,Pontiac,Catalina,Diesel,Standard,10116,142330,65,17,443
+1481,Beige,Renault,LeCar,W,Automatic,49053,63538,14,19,210
+1482,Blue,Chevrolet,SSR,Inine,Standard,27736,118262,991,16,250
+1483,Red,Mazda,B2300,Petrol,Automatic,48249,2734,598,25,208
+1484,Dark Green,Kia,Shuma,Diesel,Automatic,14862,27649,552,0,24
+1485,Blue,Honda,S800,W,Standard,42245,56085,301,25,196
+1486,Dark Blue,Ferrari,355,V8,Automatic,51967,114809,682,13,479
+1487,Pearl,Alfa Romeo,164,Diesel,Standard,21556,5632,351,8,340
+1488,Yellow,Nissan,Pathfinder,V8,Standard,25826,91626,191,17,280
+1489,Dark Green,Suzuki,Swift,W,Standard,24479,13515,758,9,354
+1490,Purple,Ford,Fairmont,Inine,Standard,18535,44542,494,16,56
+1491,Dark Grey,Hyundai,Sonata,W,Standard,25268,111677,,2,
+1492,Yellow,Fiat,Scudo,V6,Standard,70004,120449,303,6,422
+1493,Red,Mazda,MX 3,W,Standard,51923,77758,133,11,330
+1494,Purple,Chevrolet,Epica,W,Automatic,63948,55702,713,22,493
+1495,Dark Blue,BMW,528,V6,Standard,57448,36221,463,2,347
+1496,Dark Blue,Kia,Credos,Diesel,Automatic,49390,118222,,22,
+1497,Orange,Mercedes Benz,SL65,V8,Automatic,839,28105,565,16,162
+1498,Grey,Fiat,Strada,Inine,Standard,58212,64345,987,4,261
+1499,Red,Maserati,GranSport,V8,Standard,65407,115791,682,13,479
+1500,Blue,Ford,Cortina,Petrol,Standard,46070,143845,315,9,70
+1501,Grey,Chevrolet,Monte Carlo,Electric,Standard,5656,73847,685,26,35
+1502,Black,Honda,Logo,V8,Automatic,67442,6062,796,13,299
+1503,Pearl,Ford,F-350,W,Automatic,6321,43625,451,24,376
+1504,Dark Grey,Audi,TT,Inine,Standard,67760,100456,233,2,225
+1505,Dark Green,Alfa Romeo,75,Diesel,Automatic,20954,109409,908,22,67
+1506,Light Grey,Ferrari,286,W,Automatic,44158,44923,,12,
+1507,Dark Grey,GMC,Sprint,W,Automatic,32939,75398,79,29,302
+1508,White,Peugeot,806,W,Standard,10722,136126,198,2,481
+1509,Orange,Porsche,944,Electric,Automatic,71755,62625,484,16,369
+1510,Beige,Toyota,Yaris Verso,V6,Automatic,36694,121001,853,19,342
+1511,Dark Blue,Ferrari,360,Electric,Automatic,40757,68133,694,29,267
+1512,Beige,Toyota,Corona,Electric,Standard,32156,34593,957,3,442
+1513,Dark Grey,Porsche,901,Diesel,Standard,61981,18716,128,27,149
+1514,Yellow,Fiat,Tipo (Digital),Inine,Standard,1119,17379,981,24,281
+1515,Black,Kia,Spectra EX,Petrol,Automatic,23196,110800,520,25,368
+1516,Purple,Suzuki,Reno,V6,Automatic,9118,46571,887,29,343
+1517,Pearl,GMC,Yukon XL,Inine,Automatic,71166,136934,758,9,354
+1518,Pearl,Nissan,Hustler,W,Standard,63256,149174,,16,
+1519,Green,Ford,Aspire,Inine,Standard,56721,89114,690,15,472
+1520,Orange,Peugeot,Partner,Diesel,Automatic,5795,46353,982,17,433
+1521,Yellow,Volkswagen,New Beetle,W,Standard,15482,9109,827,25,114
+1522,Orange,Nissan,Vanette,Inine,Standard,50493,49786,,23,
+1523,Pearl,Maserati,Spyder,Inine,Standard,57285,6090,51,22,427
+1524,Orange,Nissan,Sunny,Electric,Standard,45659,111516,635,22,435
+1525,Purple,Ford,Maverick,Diesel,Automatic,66071,136649,386,20,166
+1526,White,Porsche,Boxster,Electric,Automatic,10101,132056,,27,
+1527,Dark Green,Mercedes Benz,CLS-Class,Electric,Standard,5620,74342,991,16,250
+1528,White,Mazda,616,V8,Standard,15657,98777,564,1,217
+1529,Orange,Ford,Skyliner,W,Automatic,50181,148080,,9,
+1530,Black,BMW,533,Inine,Automatic,36410,74882,64,20,253
+1531,Black,Porsche,924,Inine,Standard,1234,149741,374,7,277
+1532,Black,Mercedes Benz,300,Inine,Standard,37927,125236,2,17,282
+1533,Red,GMC,Rally,Electric,Standard,179,52372,595,10,397
+1534,Red,Volkswagen,New Beetle,W,Standard,61344,44922,452,18,380
+1535,Red,Audi,Fox,Electric,Automatic,26744,54869,364,13,458
+1536,Beige,BMW,L7,Electric,Standard,22914,106701,421,14,125
+1537,Blue,BMW,8 Series,Diesel,Standard,46049,11820,,18,
+1538,Purple,Hyundai,Amica,Diesel,Standard,51926,136975,488,6,333
+1539,Purple,Volkswagen,T5 Transporter,W,Automatic,74834,126242,180,3,76
+1540,White,Toyota,Corona,Electric,Standard,21492,74715,,4,
+1541,Black,Fiat,Strada,Inine,Automatic,42680,4699,,14,
+1542,Orange,Peugeot,107,Petrol,Automatic,34914,28075,913,20,447
+1543,Black,Renault,18,Inine,Standard,63179,81223,,0,
+1544,Red,Ford,ZX2,Diesel,Automatic,18629,57317,687,0,151
+1545,Blue,Peugeot,309,V8,Automatic,28016,63170,941,28,350
+1546,Pearl,Ferrari,F40,Diesel,Standard,7584,49246,907,19,54
+1547,Dark Grey,Kia,Sephia II,Diesel,Automatic,11681,50406,461,20,74
+1548,Dark Grey,Volkswagen,Vanagon,V8,Standard,5435,18098,,7,
+1549,Yellow,Jaguar,MK,Inine,Standard,37104,120637,359,20,156
+1550,Dark Green,Porsche,Carrera 911S,V6,Standard,41258,3997,,15,
+1551,Grey,Peugeot,806,Electric,Standard,37846,48902,360,9,297
+1552,Black,Ferrari,335,Petrol,Automatic,33205,56368,532,17,271
+1553,Orange,Subaru,Outback,Inine,Automatic,65311,25344,,21,
+1554,Beige,Subaru,Loyale,W,Standard,45440,79974,817,24,247
+1555,Light Grey,Honda,Jazz,V6,Standard,26227,4314,,24,
+1556,Dark Blue,Pontiac,G5,V8,Automatic,46774,104042,410,5,204
+1557,White,Fiat,Palio,Electric,Automatic,19200,53005,317,23,144
+1558,Purple,Renault,Kangoo,V8,Standard,33756,50149,21,4,110
+1559,Black,GMC,Typhoon,V6,Automatic,32614,25569,530,1,232
+1560,Black,Kia,Sephia II,Electric,Standard,49232,71882,22,29,294
+1561,Purple,GMC,Yukon XL,Electric,Standard,63444,31932,925,13,228
+1562,Black,Mazda,626 Avant,Diesel,Standard,17630,65841,681,21,433
+1563,Red,Audi,5000,Petrol,Standard,67338,144610,498,22,313
+1564,Blue,Nissan,Micra,V6,Automatic,30687,83556,911,2,342
+1565,Dark Blue,Ford,Granada,Diesel,Automatic,30810,96744,,12,
+1566,Light Grey,Toyota,Corolla,V8,Standard,72994,145147,331,22,44
+1567,Dark Grey,Jaguar,XKR,Petrol,Automatic,2813,9152,221,12,125
+1568,Red,Nissan,L35,Petrol,Standard,23673,127218,524,3,300
+1569,Orange,Jaguar,X-Type,Petrol,Standard,17057,41608,442,7,363
+1570,White,GMC,Savana,V6,Automatic,27391,124709,,17,
+1571,Yellow,Fiat,Marea,Electric,Standard,64750,118165,836,10,466
+1572,Light Grey,Kia,Spectra SX,V6,Standard,8645,80484,127,26,280
+1573,Yellow,Peugeot,J5,Petrol,Standard,7348,96205,,7,
+1574,Pearl,Volkswagen,Taro,Electric,Automatic,63028,83848,296,6,278
+1575,Beige,Jaguar,XJ,V8,Automatic,48377,100962,584,1,135
+1576,Dark Blue,Ford,Club Wagon,V8,Standard,37509,90824,505,1,324
+1577,Red,Mercedes Benz,CL500,W,Standard,5151,30591,924,26,405
+1578,Beige,Subaru,B9 Tribeca,W,Automatic,3920,54040,,10,
+1579,Beige,Peugeot,Partner,Petrol,Automatic,49777,60299,,26,
+1580,Yellow,Alfa Romeo,164,V6,Standard,16734,146745,761,19,332
+1581,Dark Blue,Chevrolet,Corvette,V6,Automatic,26800,148401,64,20,253
+1582,Dark Grey,Nissan,Versa,Diesel,Standard,9957,88894,863,1,204
+1583,Dark Grey,Chevrolet,Z34,Petrol,Automatic,641,60903,392,16,343
+1584,Dark Green,Peugeot,605,V8,Automatic,57930,133770,765,9,271
+1585,Blue,Kia,Rio 5,Electric,Automatic,25229,131710,814,6,162
+1586,Grey,Porsche,901,Inine,Standard,19654,149566,645,8,93
+1587,Pearl,Chevrolet,Venture,V6,Automatic,28366,99839,261,10,169
+1588,White,Suzuki,SJ410,Diesel,Standard,71286,141487,,6,
+1589,Beige,GMC,Blazer Fullsize,V6,Automatic,44126,22072,192,10,187
+1590,Pearl,Mercedes Benz,SK-Serie (Truck),V6,Standard,7983,19853,,0,
+1591,Dark Grey,Audi,RS 6,Diesel,Automatic,4654,28159,573,5,37
+1592,Green,Maserati,Biturbo,V8,Automatic,31991,149245,358,7,445
+1593,Yellow,Honda,CRX,Diesel,Standard,22439,38036,459,18,267
+1594,Dark Grey,Ferrari,612,Diesel,Standard,45434,95535,644,19,145
+1595,Beige,Toyota,Starlet,V8,Standard,25923,109982,323,0,290
+1596,Purple,Mazda,B-series,V8,Standard,51354,128551,960,9,164
+1597,Red,Volkswagen,Caddy,Petrol,Standard,39241,70387,446,11,454
+1598,Green,Fiat,Multipla,W,Automatic,48026,55210,325,16,387
+1599,Orange,GMC,Van,Diesel,Standard,41432,17389,380,3,167
+1600,Grey,Honda,Concerto,V6,Standard,64047,129707,,8,
+1601,Purple,Maserati,Khamsin,Electric,Automatic,10820,10262,159,22,261
+1602,Dark Green,Lexus,ES 330,V8,Automatic,6204,67738,,4,
+1603,Orange,Honda,Odyssey,Electric,Automatic,31079,113115,463,2,347
+1604,Green,Maserati,GranSport,Inine,Automatic,58440,80624,350,3,354
+1605,Beige,Maserati,430,V6,Automatic,68292,83748,,6,
+1606,Dark Green,Peugeot,605,Petrol,Standard,36687,112010,896,16,224
+1607,Yellow,Peugeot,607,Petrol,Automatic,64876,75412,,19,
+1608,Blue,Ferrari,340,Petrol,Automatic,41667,134174,888,21,113
+1609,White,Pontiac,Sunbird,Electric,Automatic,74769,89687,634,16,468
+1610,Yellow,Nissan,Diesel MK/LK (Truck),V8,Standard,33833,64595,415,27,371
+1611,Blue,Jaguar,XJ-SC,W,Automatic,54375,49181,298,4,372
+1612,Beige,Mercedes Benz,280,Inine,Standard,69300,129683,259,7,242
+1613,Orange,Audi,Fox,W,Standard,2778,133811,215,6,135
+1614,Red,Suzuki,Sidekick,Petrol,Standard,58204,102314,618,1,258
+1615,Dark Green,Renault,19,W,Automatic,65187,76424,871,20,483
+1616,Pearl,Subaru,DL,W,Standard,39859,79612,101,8,270
+1617,Dark Blue,Peugeot,106,Electric,Standard,24244,145399,72,1,110
+1618,Grey,Pontiac,Tempest,Petrol,Standard,20586,86189,551,10,276
+1619,Grey,Volkswagen,Caddy Van,V6,Automatic,72001,111252,409,9,75
+1620,Purple,Peugeot,605,Petrol,Standard,56744,146365,160,16,160
+1621,Purple,Alfa Romeo,156,Inine,Automatic,24259,72621,,26,
+1622,Light Grey,Honda,HR-V,V8,Standard,65457,59399,,11,
+1623,Pearl,Honda,Logo,Inine,Automatic,60632,63315,251,4,202
+1624,Grey,Nissan,Pathfinder Armada,V8,Automatic,50726,119753,,10,
+1625,Red,Jaguar,XJ12,Electric,Standard,58617,74785,716,13,105
+1626,Orange,Lexus,Harrier 4x4,Petrol,Standard,47013,39359,897,7,65
+1627,Dark Grey,Suzuki,Verona,Inine,Automatic,47675,72765,,16,
+1628,Purple,Lexus,LS 430,V6,Automatic,24057,123669,830,3,498
+1629,Grey,Lexus,GS 350,W,Standard,5552,106277,489,6,153
+1630,Green,Peugeot,505,Electric,Automatic,32127,16869,443,4,256
+1631,Blue,Jaguar,Sovereign,Inine,Automatic,38046,47475,637,14,158
+1632,Dark Blue,Renault,Espace,Diesel,Standard,38285,36697,845,12,302
+1633,Pearl,Porsche,996,Inine,Standard,51261,119643,290,12,58
+1634,Pearl,Fiat,125,Diesel,Automatic,28346,46151,352,3,30
+1635,Dark Grey,Chevrolet,Corvette,V8,Automatic,28500,60712,787,20,478
+1636,Beige,Lexus,IS 220,Electric,Standard,52712,109987,906,3,168
+1637,Dark Blue,Maserati,430,Electric,Standard,69712,80654,523,11,194
+1638,Dark Grey,Audi,Coupé 20V,W,Automatic,63699,127152,580,3,28
+1639,Purple,Maserati,Ghibli,W,Standard,51233,49815,529,19,180
+1640,Blue,Peugeot,106,V6,Automatic,16165,81206,40,0,92
+1641,Pearl,Jaguar,XJ6 Serie 3,Diesel,Standard,48670,57504,291,19,384
+1642,Grey,Suzuki,Samurai,Inine,Automatic,41107,9455,,29,
+1643,Orange,Chevrolet,Caprice,Electric,Automatic,30147,144296,364,13,458
+1644,White,Ford,Model T,Diesel,Standard,45517,106556,685,26,35
+1645,White,Peugeot,205,Petrol,Automatic,7001,17798,150,21,197
+1646,White,Jaguar,XJR,Electric,Automatic,53532,46887,775,17,81
+1647,Dark Grey,BMW,735,Diesel,Automatic,56385,146815,,4,
+1648,Dark Grey,Chevrolet,Tracker,Diesel,Standard,48545,85173,,9,
+1649,Yellow,Jaguar,E-type,V6,Standard,27089,29621,640,27,339
+1650,Dark Green,Volkswagen,Caddy Van,W,Standard,73400,36263,144,23,490
+1651,Blue,Audi,RS 6,Petrol,Standard,16487,124729,175,23,21
+1652,Grey,Toyota,Kluger,Petrol,Automatic,24484,29196,519,22,63
+1653,Grey,Pontiac,Astre,W,Standard,26807,8615,338,8,442
+1654,Orange,GMC,Van,Inine,Automatic,33334,145346,128,27,149
+1655,Dark Blue,Maserati,Spyder,Electric,Automatic,21051,88040,237,12,384
+1656,Green,Volkswagen,Eurovan,W,Automatic,41531,38451,,19,
+1657,Purple,Audi,RS 4,Inine,Automatic,8844,132672,764,8,476
+1658,Dark Blue,Kia,Clarus,V8,Automatic,12417,132400,187,7,15
+1659,Dark Green,GMC,Safari,W,Automatic,48857,92534,688,16,174
+1660,Orange,Porsche,996,V6,Automatic,55516,71304,,1,
+1661,Red,Ferrari,GTO,V8,Automatic,32148,25834,756,15,205
+1662,Purple,Mercedes Benz,SLK230,V8,Standard,28003,46460,181,20,95
+1663,Red,Honda,Accord Coupé,V6,Standard,59476,19745,464,11,202
+1664,Dark Green,Porsche,901,V6,Standard,74173,59132,968,21,127
+1665,Dark Grey,Suzuki,X-90,Diesel,Automatic,36560,79553,742,19,295
+1666,Blue,Ford,Mustang,Inine,Automatic,54859,52605,307,13,377
+1667,Yellow,Jaguar,XJ-SC,Petrol,Automatic,35057,132409,916,1,102
+1668,Orange,Ford,Sierra,Petrol,Standard,51711,104705,588,3,441
+1669,White,Jaguar,XR8,V8,Standard,9975,9955,,4,
+1670,Grey,Maserati,430,Diesel,Standard,21576,139540,978,5,78
+1671,Dark Blue,Mazda,Bravo 2600,V6,Standard,30961,1028,94,25,431
+1672,Dark Grey,Jaguar,XJ8,Diesel,Standard,42585,147601,,29,
+1673,Black,Chevrolet,G2500,Diesel,Automatic,11433,38450,593,22,414
+1674,Purple,Suzuki,Reno,V6,Standard,54539,77965,48,16,33
+1675,Beige,Hyundai,Sonata,Diesel,Automatic,58712,28649,340,25,5
+1676,Dark Grey,Ferrari,430,Electric,Automatic,41825,137978,112,7,461
+1677,White,Audi,5000,Diesel,Standard,40837,124300,616,16,317
+1678,Pearl,Alfa Romeo,164,V8,Automatic,34223,118715,,7,
+1679,White,Renault,Safrane,W,Automatic,26485,80383,713,22,493
+1680,Dark Grey,Chevrolet,C2500,V6,Automatic,46247,68499,,12,
+1681,Green,Chevrolet,Corsica,Electric,Standard,14186,140221,840,17,494
+1682,Beige,Audi,Cabriolet,W,Automatic,60240,67970,396,2,399
+1683,Yellow,Jaguar,XJ40,V8,Automatic,44126,44883,382,23,243
+1684,Purple,Jaguar,Sovereign,V6,Standard,27347,5219,646,15,215
+1685,Light Grey,Alfa Romeo,147,Diesel,Standard,56582,63460,177,6,194
+1686,Purple,Mazda,626,Diesel,Standard,69640,115480,734,20,306
+1687,Dark Green,Kia,Optima,Diesel,Standard,22185,143006,611,5,319
+1688,Purple,Volkswagen,T5 Pickup,W,Automatic,44196,18823,628,16,138
+1689,White,Kia,Rio 5,Electric,Automatic,60619,10846,949,26,381
+1690,Dark Green,Mercedes Benz,123,V8,Standard,56404,108347,482,4,275
+1691,Black,Ford,Sierra,V8,Standard,44749,37177,,11,
+1692,Purple,Jaguar,XK Series,V8,Standard,12260,129523,,10,
+1693,Light Grey,Mercedes Benz,C32,Inine,Standard,58014,83109,,4,
+1694,White,Peugeot,107,Diesel,Automatic,47827,24414,940,5,105
+1695,Black,Pontiac,Fiero,Electric,Automatic,33254,139152,,8,
+1696,Dark Green,BMW,535,V8,Automatic,46669,80135,511,17,427
+1697,Pearl,Toyota,FJ Cruiser,Diesel,Standard,66091,107633,123,7,446
+1698,Dark Green,Ford,Galaxie,V8,Standard,37452,102282,,7,
+1699,Light Grey,Volkswagen,Bus,Petrol,Automatic,6919,135731,,25,
+1700,Dark Green,Honda,Element,Diesel,Standard,40987,63792,505,1,324
+1701,Dark Grey,Volkswagen,Thing,Electric,Standard,56103,18080,290,12,58
+1702,Beige,Audi,Cabriolet,V6,Standard,12791,41185,560,18,82
+1703,Purple,Honda,Civic DelSol,V8,Automatic,48946,12235,451,24,376
+1704,Dark Blue,Renault,Espace,V8,Standard,62465,42380,400,2,243
+1705,Green,Porsche,550,W,Automatic,42858,129501,146,24,210
+1706,Green,Ferrari,Daytona,Diesel,Automatic,44859,9255,,22,
+1707,Red,Alfa Romeo,Alfetta,Electric,Standard,21630,74285,748,20,431
+1708,Beige,Pontiac,Scooter,W,Standard,14930,74652,806,4,34
+1709,Light Grey,Subaru,Super Station,Diesel,Automatic,11696,140913,985,1,25
+1710,Dark Green,GMC,Suburban,Electric,Standard,3935,143005,367,4,150
+1711,Purple,Ford,E-250,W,Automatic,62884,39949,,10,
+1712,Yellow,Subaru,WRX STi,V6,Automatic,52449,92683,,17,
+1713,Beige,Subaru,SVX,Diesel,Automatic,30619,148324,660,11,147
+1714,Red,Maserati,3200 GT,Electric,Automatic,46534,93033,744,20,154
+1715,White,Nissan,Terrano II,V8,Automatic,67268,5455,626,15,50
+1716,Blue,Peugeot,307 SW,Inine,Standard,37458,140391,523,11,194
+1717,Beige,Honda,MDX,Diesel,Automatic,32614,13904,710,23,144
+1718,Blue,Hyundai,Accent,V6,Automatic,43929,115459,249,25,258
+1719,Dark Grey,Toyota,LandCruiser,W,Automatic,67863,120249,,18,
+1720,Yellow,Mazda,2,V8,Automatic,17743,116297,98,18,209
+1721,Red,Nissan,Altima,Petrol,Automatic,36915,62691,,12,
+1722,Dark Green,Audi,90,V6,Automatic,2536,12027,709,14,177
+1723,Blue,Fiat,Idea,Electric,Standard,47884,13250,612,5,151
+1724,Blue,Peugeot,307,W,Automatic,19501,69621,,14,
+1725,Grey,Hyundai,Tiburon,Inine,Automatic,7717,65157,627,6,304
+1726,Light Grey,Ferrari,735,Petrol,Automatic,26567,24497,520,25,368
+1727,Green,Toyota,Corolla,V6,Standard,50904,98431,13,13,422
+1728,Beige,Ford,Aspire,V8,Automatic,55704,108913,,21,
+1729,Purple,Maserati,Ghibli,V6,Automatic,8482,95610,,21,
+1730,Purple,Jaguar,XJ6,V6,Standard,29980,48459,412,13,425
+1731,Red,Ferrari,GTS,V6,Standard,19358,11759,985,1,25
+1732,Pearl,Porsche,Carrera 911S,Electric,Standard,47277,138568,540,29,133
+1733,Dark Green,Kia,Sephia,W,Standard,52271,32526,692,3,236
+1734,Red,Chevrolet,Citation,Petrol,Automatic,53373,83795,52,8,398
+1735,Dark Green,Nissan,Cefiro 2000/3000,W,Standard,69706,44854,,23,
+1736,Dark Blue,Kia,Credos,Petrol,Standard,22097,119702,73,2,123
+1737,Grey,Hyundai,XG,Electric,Standard,46419,41688,546,24,452
+1738,Light Grey,Honda,S600,Inine,Standard,44517,32476,447,20,288
+1739,Dark Blue,Mercedes Benz,Unimog,Electric,Automatic,27326,76583,207,5,103
+1740,Dark Grey,Mercedes Benz,420,Inine,Standard,61410,13152,186,2,333
+1741,Yellow,GMC,Vandura,Petrol,Automatic,69032,91545,30,28,107
+1742,Grey,Renault,Modus,Petrol,Standard,44749,37775,,2,
+1743,Green,Alfa Romeo,155,Electric,Automatic,67510,54273,,10,
+1744,Dark Blue,Alfa Romeo,GT,W,Automatic,10335,4936,845,12,302
+1745,White,Peugeot,Expert,Petrol,Automatic,12597,47270,144,23,490
+1746,Dark Green,Fiat,Panda,Petrol,Automatic,37560,31055,382,23,243
+1747,Pearl,Mazda,6 Sport,W,Automatic,42602,106016,419,20,67
+1748,Dark Blue,Pontiac,Grand Am,Inine,Automatic,65127,73564,81,10,333
+1749,Purple,Renault,5,Inine,Automatic,65332,126778,68,13,225
+1750,Green,Pontiac,Grand LeMans,Petrol,Standard,22468,42850,556,25,43
+1751,Orange,Jaguar,XJ8,Electric,Automatic,13900,139601,873,3,186
+1752,Black,Subaru,Legacy,V6,Standard,25756,34283,132,27,375
+1753,Black,Jaguar,XJ40,Inine,Automatic,30754,38289,856,1,437
+1754,Light Grey,Jaguar,XK,Electric,Standard,44692,38022,585,11,147
+1755,Green,GMC,Acadia,V8,Standard,28177,17206,522,0,385
+1756,Dark Grey,Fiat,Siena,V6,Standard,3162,22141,664,12,448
+1757,Beige,Mazda,929,V8,Automatic,39970,144631,414,20,42
+1758,Dark Blue,Maserati,Khamsin,V6,Automatic,58303,40424,,20,
+1759,Dark Grey,Alfa Romeo,Milano,V8,Automatic,1843,98640,169,0,379
+1760,Yellow,Ferrari,125,Electric,Standard,58975,77026,589,1,216
+1761,Orange,Fiat,131,W,Standard,13838,28584,584,1,135
+1762,Red,Chevrolet,Tracker,Electric,Automatic,12897,32643,,19,
+1763,Dark Green,Chevrolet,Tahoe,V8,Automatic,12376,126867,215,6,135
+1764,Dark Grey,Hyundai,Coupé,Diesel,Automatic,38344,67088,,21,
+1765,Grey,Mazda,929,Electric,Standard,31721,72047,136,29,424
+1766,Orange,Ferrari,400,Inine,Standard,3743,17247,18,10,409
+1767,Yellow,Honda,Pilot,V8,Automatic,54865,49141,792,21,284
+1768,Blue,Chevrolet,Cobalt,V8,Standard,56104,136002,423,18,256
+1769,Green,Volkswagen,Caddy Pickup,Petrol,Standard,53475,99858,75,28,307
+1770,Dark Blue,Volkswagen,Golf,V8,Automatic,19540,136633,931,20,428
+1771,Light Grey,Mazda,616,Electric,Automatic,64309,107587,829,5,340
+1772,Dark Blue,Ford,Fairmont,V8,Standard,54411,126908,135,19,91
+1773,Beige,Toyota,Avensis,Inine,Standard,73521,79768,619,27,296
+1774,Yellow,Mercedes Benz,560,Inine,Standard,67106,24690,320,20,257
+1775,Grey,Suzuki,Aerio,Inine,Automatic,74107,131015,,6,
+1776,Dark Green,Mazda,Bravo 2600,Petrol,Standard,74738,109935,287,22,361
+1777,Black,Ferrari,F550,V6,Automatic,20548,60654,322,9,474
+1778,Black,Subaru,4x4 Turbo,V6,Automatic,71150,88652,355,13,47
+1779,Dark Grey,Fiat,Stilo,V8,Standard,23539,108727,43,10,219
+1780,Blue,Pontiac,Grand Prix,Diesel,Standard,45189,26672,929,22,439
+1781,Light Grey,Nissan,Sunny Sedan,Petrol,Standard,1438,21698,180,3,76
+1782,Yellow,Mazda,121,Diesel,Standard,70603,35173,876,12,48
+1783,Orange,Lexus,GS 450h,Electric,Automatic,69128,138784,824,6,441
+1784,Dark Blue,BMW,540,Diesel,Automatic,14599,74436,,5,
+1785,Beige,Mazda,Tribute,W,Standard,37611,118561,176,10,258
+1786,Red,Suzuki,Liana,V8,Automatic,25682,21822,113,21,373
+1787,Orange,Jaguar,X-Type,V6,Automatic,56725,67119,157,29,327
+1788,Dark Green,Alfa Romeo,GT,Inine,Automatic,31414,12514,196,16,426
+1789,Light Grey,GMC,Yukon,Inine,Automatic,73722,93735,192,10,187
+1790,Orange,Kia,Pride,Electric,Standard,73225,52567,561,22,302
+1791,Green,Mazda,MX 3,Diesel,Standard,27591,48017,475,24,373
+1792,Dark Blue,Hyundai,H 100,V8,Standard,36031,12762,619,27,296
+1793,Yellow,Chevrolet,C/K 3500,Electric,Automatic,58959,15326,,26,
+1794,Dark Green,Chevrolet,Impala SS,V8,Automatic,70604,12033,315,9,70
+1795,White,Alfa Romeo,146,V6,Automatic,66516,120393,,1,
+1796,Beige,Lexus,ES 250,Inine,Standard,39548,148650,990,13,83
+1797,Dark Grey,Audi,Coupé,Diesel,Standard,40144,6081,279,29,311
+1798,Grey,Porsche,Carrera GT,Diesel,Automatic,44804,72203,191,17,280
+1799,Green,Audi,100,V6,Automatic,52466,106583,809,21,77
+1800,White,Nissan,Pickup,Electric,Automatic,47871,46590,,16,
+1801,Orange,Maserati,Bora,V6,Standard,45162,35339,707,12,178
+1802,Pearl,BMW,6 Series,Petrol,Standard,39559,45472,755,17,409
+1803,Pearl,Fiat,Barchetta,V8,Standard,55838,98306,212,8,450
+1804,Green,Toyota,LandCruiser 100,W,Standard,53152,37928,177,6,194
+1805,Grey,Renault,Master,V8,Standard,60386,63801,854,29,50
+1806,Blue,Kia,Opirus,Electric,Standard,62717,91188,539,0,241
+1807,Yellow,Audi,200,V8,Standard,57348,86128,416,23,165
+1808,Green,GMC,Yukon XL,V6,Automatic,62723,37350,157,29,327
+1809,Pearl,Jaguar,Super V8,V6,Standard,29393,13870,970,6,310
+1810,Pearl,Volkswagen,Vento,Electric,Standard,74401,2009,575,28,75
+1811,Dark Green,Toyota,Camry Solara,Diesel,Automatic,61680,42859,904,10,380
+1812,Orange,Volkswagen,Sharan,Electric,Standard,7822,8612,450,20,122
+1813,Green,Nissan,Diesel MK/LK (Truck),Electric,Automatic,54616,81515,877,15,321
+1814,Black,Suzuki,Jimny,V8,Automatic,33190,26773,621,17,200
+1815,Yellow,Maserati,Merak,Electric,Standard,12875,56752,,28,
+1816,Pearl,Lexus,ES 300,Petrol,Standard,35343,107819,436,4,334
+1817,Orange,Maserati,GranSport,Electric,Automatic,29866,39729,202,5,128
+1818,Dark Blue,Kia,Optima,Diesel,Standard,59861,145100,852,4,330
+1819,Black,Maserati,3200 GT,V6,Standard,66400,104150,912,16,230
+1820,Black,Honda,Civic Sedan,Diesel,Standard,43598,133724,952,4,366
+1821,Purple,GMC,Canyon,V6,Standard,55996,56819,,29,
+1822,Light Grey,Fiat,Marea,W,Standard,59960,37687,48,16,33
+1823,White,Honda,HR-V,V8,Standard,51098,62278,669,10,383
+1824,Dark Blue,Honda,N600,Inine,Standard,12347,144989,939,7,250
+1825,Purple,Mercedes Benz,Actros,Inine,Automatic,47406,69009,2,17,282
+1826,Orange,Fiat,131,V8,Standard,30649,23074,11,13,131
+1827,Dark Grey,Hyundai,H 100,V6,Automatic,73050,25136,,28,
+1828,Yellow,Fiat,Strada,Petrol,Standard,18047,9737,,13,
+1829,Yellow,Ford,Futura XR,V6,Standard,68854,19994,189,5,496
+1830,Grey,Hyundai,Getz,W,Automatic,30680,76551,206,22,381
+1831,Dark Green,Peugeot,504,W,Automatic,57923,148510,36,19,377
+1832,Orange,GMC,Sprint,V6,Standard,50380,46027,250,22,422
+1833,Grey,GMC,Caballero,Petrol,Automatic,18974,91330,42,10,185
+1834,Pearl,Porsche,996,Inine,Standard,43127,60996,435,1,128
+1835,Grey,Kia,Spectra SX,V6,Automatic,46800,138405,,14,
+1836,Blue,Mazda,B2600,V8,Standard,9167,118550,471,10,196
+1837,Black,Toyota,Corolla,Diesel,Automatic,822,8686,613,9,421
+1838,Green,Pontiac,Acadian,Diesel,Automatic,59381,56319,501,2,214
+1839,Purple,Renault,Kangoo,Petrol,Standard,61548,2662,669,10,383
+1840,Red,Kia,Carstar,V8,Automatic,19145,124376,407,7,117
+1841,Red,Jaguar,XJ12,V8,Standard,48664,77688,400,2,243
+1842,Red,Subaru,Legacy,Petrol,Automatic,17879,48088,281,7,238
+1843,Black,Mazda,616,Electric,Automatic,34263,87724,892,1,209
+1844,Purple,Renault,Safrane,W,Automatic,35777,139480,792,21,284
+1845,Dark Grey,Peugeot,309,Petrol,Standard,52758,27733,92,1,405
+1846,White,Ferrari,212,V6,Automatic,33466,37570,886,1,404
+1847,Light Grey,Volkswagen,Beetle,Petrol,Automatic,39243,67079,873,3,186
+1848,Light Grey,Hyundai,XG,Diesel,Standard,36774,11548,973,14,263
+1849,Beige,Mazda,626 Break,W,Automatic,63009,57926,806,4,34
+1850,White,Toyota,Prius,V6,Automatic,68929,133926,861,12,423
+1851,Light Grey,Pontiac,Solstice,V6,Standard,65861,146626,7,9,100
+1852,Yellow,Jaguar,Sovereign,V8,Automatic,48077,16597,857,4,23
+1853,Beige,Lexus,IS 350,V8,Standard,70311,64060,344,14,374
+1854,Purple,Renault,Modus,V6,Automatic,67514,37316,408,20,19
+1855,Dark Green,GMC,Pickup,Inine,Standard,60399,26595,,20,
+1856,Beige,Subaru,Outback,W,Standard,40446,47926,922,15,7
+1857,Red,Pontiac,Parisienne,V8,Automatic,59929,81724,934,7,21
+1858,Blue,Mercedes Benz,C32,Diesel,Standard,7569,12819,514,12,329
+1859,Green,Volkswagen,Corrado,W,Standard,65509,70679,576,14,223
+1860,Green,Lexus,LX 470,Inine,Standard,7592,7601,588,3,441
+1861,Beige,Fiat,125,Petrol,Automatic,40269,98444,755,17,409
+1862,Purple,Porsche,911 Turbo,V6,Standard,7920,27662,882,17,217
+1863,Light Grey,Renault,Mascot,Electric,Automatic,71854,85396,734,20,306
+1864,Orange,BMW,630,W,Standard,63349,31564,70,1,265
+1865,Dark Green,Hyundai,Getz,Inine,Standard,8562,22165,865,23,161
+1866,Dark Blue,Pontiac,Formula,Inine,Standard,49109,15792,119,10,2
+1867,Grey,Renault,Safrane,Electric,Standard,26204,50358,,10,
+1868,Beige,Ferrari,196,V6,Automatic,43801,146234,974,25,89
+1869,Green,Pontiac,Grand Am,Petrol,Standard,46683,144218,,7,
+1870,Beige,Kia,Sephia II,V8,Automatic,25033,80383,,5,
+1871,White,Mazda,Bravo 2600,Petrol,Standard,7797,122067,737,0,134
+1872,Dark Blue,Subaru,G3X Justy,V8,Automatic,27119,94117,,13,
+1873,Dark Blue,Hyundai,Matrix,Electric,Standard,13897,37713,69,22,187
+1874,Green,Ferrari,400,Diesel,Automatic,35034,6286,278,7,362
+1875,Beige,Mercedes Benz,V-Class,Diesel,Standard,61061,91207,485,24,216
+1876,Orange,Ferrari,225,Inine,Automatic,27421,77511,826,26,173
+1877,Dark Green,Audi,A4 Cabriolet,Electric,Automatic,68484,58225,979,1,420
+1878,Red,Porsche,Carrera 911S,Diesel,Automatic,34935,43407,623,3,281
+1879,Pearl,GMC,Sprint,Petrol,Standard,66467,102413,288,5,249
+1880,Light Grey,BMW,740,V8,Automatic,69804,113645,73,2,123
+1881,Dark Blue,Subaru,Outback Sport,V8,Standard,52268,111200,616,16,317
+1882,Dark Blue,Ford,Granada,Petrol,Automatic,13502,90697,185,11,278
+1883,Yellow,Peugeot,406,Inine,Standard,16061,127109,,13,
+1884,Orange,Alfa Romeo,33,Diesel,Automatic,36844,147964,703,25,159
+1885,Light Grey,BMW,318,Electric,Standard,54619,116617,59,24,417
+1886,Light Grey,Volkswagen,Type III,Petrol,Standard,52773,111571,,3,
+1887,Blue,Renault,Modus,Inine,Automatic,35675,100868,187,7,15
+1888,Dark Blue,Kia,Besta,W,Automatic,10418,42971,891,5,476
+1889,Light Grey,Ferrari,GTO,W,Standard,7464,82329,433,17,415
+1890,Black,Hyundai,Atos,Petrol,Automatic,62413,40048,431,10,246
+1891,Dark Green,Porsche,959,Diesel,Automatic,48863,95132,413,13,35
+1892,Dark Blue,Porsche,Cayman,Electric,Automatic,71979,119341,238,10,397
+1893,Pearl,Porsche,Carrera 911S,Petrol,Automatic,40540,48033,710,23,144
+1894,Grey,GMC,Yukon,Electric,Standard,65359,142143,,26,
+1895,Purple,Audi,Compact,V8,Automatic,64689,24841,237,12,384
+1896,Green,Porsche,996,Electric,Automatic,56460,95672,968,21,127
+1897,Beige,Alfa Romeo,159,W,Standard,42804,149900,213,24,65
+1898,Grey,Hyundai,Pony,Inine,Automatic,43948,41028,,21,
+1899,Pearl,Peugeot,307 SW,Inine,Standard,63371,40648,,3,
+1900,Red,Jaguar,XKE,Diesel,Standard,44762,27030,800,2,265
+1901,Black,Porsche,Cayman,Diesel,Automatic,42319,53643,472,29,352
+1902,Dark Green,Ford,Galaxie,Petrol,Automatic,33293,86695,153,2,50
+1903,Light Grey,Toyota,Station Wagon,Inine,Standard,52204,131118,287,22,361
+1904,Black,Ferrari,250,Petrol,Automatic,29278,135538,114,27,85
+1905,Dark Green,Volkswagen,Type II,W,Standard,70232,21242,98,18,209
+1906,Grey,Mercedes Benz,450,Diesel,Automatic,10408,148642,789,5,145
+1907,Beige,Volkswagen,Rabbit,V6,Standard,33212,80014,926,18,205
+1908,Beige,Ferrari,F550,W,Standard,717,1563,364,13,458
+1909,Dark Grey,Lexus,ES 250,Electric,Automatic,12106,112694,182,12,357
+1910,Grey,Ford,Expedition,W,Standard,36151,10636,527,23,233
+1911,White,Volkswagen,Jetta,V8,Automatic,41155,59920,506,23,125
+1912,Dark Green,Porsche,356,V8,Automatic,12879,130977,814,6,162
+1913,Dark Blue,Toyota,Tacoma,Petrol,Automatic,11039,4016,,6,
+1914,Yellow,Kia,Spectra SX,W,Standard,50555,8132,27,18,198
+1915,Light Grey,Volkswagen,Phaeton,Electric,Standard,53410,10909,248,7,205
+1916,Yellow,Kia,Carens,Diesel,Automatic,42990,80403,439,2,204
+1917,Green,Audi,S8,Inine,Standard,9960,16255,,6,
+1918,White,GMC,Rally,V8,Automatic,65549,109042,,4,
+1919,Green,Kia,Carens II,Petrol,Automatic,62359,126566,439,2,204
+1920,Blue,Jaguar,MK,V8,Automatic,25940,93540,827,25,114
+1921,Pearl,Toyota,HiLux Tundra,Electric,Automatic,15485,106715,,8,
+1922,Dark Blue,Renault,25,Electric,Standard,2085,39748,,15,
+1923,Orange,Suzuki,Alto,V6,Standard,68744,139082,522,0,385
+1924,Red,Subaru,WRX,Inine,Standard,46559,106245,705,22,95
+1925,Dark Green,Fiat,Idea,Petrol,Standard,3896,64683,563,20,418
+1926,Purple,Mazda,B3000,Electric,Standard,1067,119944,461,20,74
+1927,Red,Mazda,2,Inine,Standard,43109,32532,371,9,368
+1928,Red,Fiat,Ducato,V8,Automatic,73669,74299,557,23,64
+1929,Dark Blue,Alfa Romeo,GTV,V6,Automatic,7366,48772,794,10,165
+1930,Purple,Renault,RX4,V8,Standard,24308,43323,620,12,476
+1931,Purple,Alfa Romeo,145,Diesel,Standard,29191,102867,801,15,9
+1932,Light Grey,Alfa Romeo,GTV-6,W,Automatic,43841,25680,134,19,475
+1933,Orange,Maserati,GranSport Spyder,V8,Automatic,43496,26898,734,20,306
+1934,Light Grey,Peugeot,306,V6,Automatic,47811,125004,527,23,233
+1935,Green,Renault,Medaillon,V8,Automatic,73236,50236,563,20,418
+1936,Light Grey,Suzuki,Sidekick,Diesel,Automatic,40259,15918,,0,
+1937,Dark Grey,Hyundai,Terracan,V6,Automatic,47040,134580,675,2,486
+1938,Blue,Ferrari,290,Diesel,Automatic,37527,3439,381,28,281
+1939,Beige,Ford,Cutaway,Petrol,Standard,34810,145931,270,19,154
+1940,Light Grey,Lexus,GS 400,Diesel,Standard,58640,110007,125,18,360
+1941,Black,Pontiac,Grand Prix,V6,Standard,54664,122487,548,0,245
+1942,Green,Ford,Explorer,Electric,Automatic,4057,35483,13,13,422
+1943,Dark Grey,Mazda,B2500,V8,Standard,40579,23131,692,3,236
+1944,Dark Green,Nissan,Versa,Inine,Automatic,6391,5378,236,20,153
+1945,Pearl,Suzuki,SJ410,Petrol,Standard,61593,2081,863,1,204
+1946,Green,Toyota,Avensis,Diesel,Standard,24132,20417,850,25,44
+1947,Dark Blue,Volkswagen,Multivan,V8,Automatic,37167,86078,172,9,43
+1948,Beige,Subaru,Liberty,V8,Standard,34553,134209,476,3,208
+1949,Black,Lexus,SC 430,W,Standard,66532,1468,26,0,78
+1950,Light Grey,Ferrari,335,Electric,Standard,64955,21672,692,3,236
+1951,Pearl,Maserati,Merak,Petrol,Automatic,62602,54598,818,28,455
+1952,Dark Green,Renault,VelSatis,W,Automatic,67086,48240,301,25,196
+1953,Green,Honda,Civic DelSol,V8,Automatic,21019,15663,,23,
+1954,Dark Grey,Maserati,Merak,W,Automatic,67935,107155,,24,
+1955,Dark Green,Lexus,LS 400,Petrol,Standard,10564,68502,989,25,64
+1956,Yellow,Porsche,901,V6,Standard,7256,72004,,9,
+1957,Yellow,Honda,CRX,Electric,Standard,24733,59911,185,11,278
+1958,Blue,GMC,Savana,V6,Automatic,8333,31808,774,15,327
+1959,Yellow,Volkswagen,Colorado,W,Standard,55775,92064,916,1,102
+1960,Dark Grey,BMW,318,Diesel,Standard,17567,69918,888,21,113
+1961,Dark Blue,BMW,M Coupe,W,Standard,63010,107252,158,21,390
+1962,Yellow,Mercedes Benz,M-Class,Petrol,Standard,3637,63535,281,7,238
+1963,Yellow,Maserati,Quattroporte,Petrol,Automatic,72622,146557,391,25,76
+1964,Yellow,Porsche,550,Inine,Automatic,13320,123876,955,1,60
+1965,Purple,Lexus,ES 330,V8,Standard,32161,115075,516,20,373
+1966,Purple,Mazda,Premacy,W,Standard,32884,18972,895,8,140
+1967,Dark Blue,Jaguar,XK Series,Petrol,Standard,35491,39334,179,1,22
+1968,Grey,Ford,Custom,V8,Standard,27656,34317,247,26,402
+1969,Black,Peugeot,405,V8,Standard,26982,69384,920,10,51
+1970,Green,Mazda,B2200,V8,Standard,27665,144034,845,12,302
+1971,Dark Blue,Kia,Rio,Electric,Standard,1722,55273,112,7,461
+1972,Green,Porsche,Carrera GT,Electric,Automatic,55518,99683,844,27,393
+1973,Orange,Lexus,GS 400,Petrol,Automatic,11868,28597,119,10,2
+1974,Green,Fiat,Multipla,V8,Standard,58019,102511,212,8,450
+1975,Blue,Fiat,Tipo (Digital),Petrol,Standard,12021,3887,486,13,338
+1976,Orange,Jaguar,Vanden Plas,Diesel,Automatic,10657,110196,90,14,458
+1977,Purple,Honda,Logo,Petrol,Standard,62222,107534,712,18,213
+1978,Pearl,Mazda,B2300,Petrol,Automatic,15813,149786,269,10,298
+1979,Green,Volkswagen,Caddy Pickup,Petrol,Standard,21319,31988,603,25,95
+1980,Purple,Ferrari,GTO,V8,Automatic,53327,30044,,22,
+1981,Beige,Audi,V8,Inine,Standard,15571,117123,285,12,412
+1982,Purple,Nissan,200SX,Inine,Standard,37915,1859,481,18,162
+1983,Yellow,Lexus,GS 350,Inine,Automatic,50570,83178,896,16,224
+1984,Pearl,Porsche,911 Turbo,Petrol,Standard,40988,28052,427,8,312
+1985,Pearl,Porsche,Cayenne,W,Standard,43339,124116,752,8,277
+1986,Black,Porsche,Carrera 911S,Diesel,Standard,16474,146287,,0,
+1987,Light Grey,Fiat,Doblò,Inine,Standard,7236,143063,857,4,23
+1988,Beige,Nissan,Hustler,V6,Automatic,61892,128973,660,11,147
+1989,Green,Maserati,3500 GT,Petrol,Automatic,3085,140532,390,11,274
+1990,Black,Porsche,550,Inine,Standard,25525,25871,,26,
+1991,Yellow,Nissan,Costaud,V6,Automatic,18037,94747,295,25,153
+1992,Blue,Fiat,Punto,Electric,Automatic,28835,31974,375,18,131
+1993,Orange,Ford,Five Hundred,Petrol,Automatic,24687,86842,282,26,415
+1994,Grey,Subaru,Pic-Up,Inine,Standard,70648,83577,,22,
+1995,Dark Grey,Audi,200,Electric,Standard,39084,95315,,25,
+1996,Beige,Maserati,Ghibli,Petrol,Automatic,32982,109799,652,25,51
+1997,Dark Blue,Peugeot,307,V8,Standard,50713,8772,,16,
+1998,Grey,Ford,F-450,V6,Standard,2686,49632,548,0,245
+1999,Purple,Toyota,Mark II,W,Standard,56515,91830,85,24,333
+2000,Light Grey,Hyundai,Elantra,W,Standard,41702,59745,691,7,26
+2001,Orange,Peugeot,205,W,Standard,47711,58756,828,27,454
+2002,Blue,Porsche,Cayenne,Petrol,Standard,41563,102129,549,2,204
+2003,Yellow,Peugeot,504,Petrol,Standard,67406,12930,578,5,248
+2004,Purple,Hyundai,Trajet,Inine,Standard,59125,7254,675,2,486
+2005,Black,Kia,Opirus,V8,Standard,65663,66996,990,13,83
+2006,Beige,Peugeot,406,Electric,Automatic,26160,94883,452,18,380
+2007,Grey,Ford,Thunderbird,V6,Standard,42840,82538,312,13,310
+2008,Dark Blue,Pontiac,Parisienne,W,Automatic,30299,54035,578,5,248
+2009,Blue,Alfa Romeo,147,V6,Automatic,48958,118239,828,27,454
+2010,Green,Ford,Ute,Electric,Standard,40906,71416,,26,
+2011,Dark Grey,Volkswagen,Caddy,V6,Automatic,54720,15944,,20,
+2012,Black,Volkswagen,T4 Transporter,V6,Automatic,65697,81970,566,11,369
+2013,Pearl,Audi,A6,V6,Standard,7801,109628,,0,
+2014,Dark Blue,Chevrolet,Citation,Diesel,Automatic,27656,126176,16,26,107
+2015,Green,Peugeot,407,Diesel,Standard,30981,45181,805,26,218
+2016,Blue,Peugeot,307 SW,V8,Automatic,45386,54962,718,14,258
+2017,Beige,BMW,2800,Petrol,Standard,44488,30404,,8,
+2018,Pearl,Ford,T-Bucket,V8,Automatic,20796,64883,226,14,281
+2019,Dark Green,Maserati,5000 GT,Petrol,Standard,52106,44502,863,1,204
+2020,White,Porsche,959,Inine,Automatic,54264,68595,,19,
+2021,Beige,Mazda,RX-3,Petrol,Automatic,5122,147845,13,13,422
+2022,Grey,Alfa Romeo,146,Electric,Standard,1594,121450,579,5,206
+2023,Yellow,BMW,740,Petrol,Standard,17909,92121,570,22,34
+2024,Yellow,Maserati,Shamal,Inine,Automatic,19989,14366,338,8,442
+2025,Beige,Jaguar,X300,Petrol,Standard,43406,22610,607,10,8
+2026,Beige,Toyota,Camry Solara,Petrol,Automatic,44824,22090,358,7,445
+2027,White,Mazda,323,Diesel,Standard,61544,53530,682,13,479
+2028,Light Grey,Chevrolet,Envoy,Electric,Automatic,24876,71044,167,8,400
+2029,Light Grey,Renault,Mascot,V6,Standard,8101,106499,285,12,412
+2030,Black,Renault,Sportwagon,V6,Standard,36048,138417,481,18,162
+2031,Black,Hyundai,Trajet,Diesel,Standard,30371,83269,5,13,459
+2032,Beige,Maserati,GranSport,V6,Automatic,11787,78538,864,13,149
+2033,Grey,Mazda,Xedos 9,Inine,Automatic,44774,70885,160,16,160
+2034,Light Grey,Hyundai,Pony,Electric,Standard,61052,60922,335,8,210
+2035,Purple,Alfa Romeo,166,Petrol,Standard,52409,97872,610,24,494
+2036,White,Fiat,Tipo,Inine,Automatic,50114,88004,273,18,128
+2037,Pearl,BMW,L7,Electric,Automatic,13356,91101,953,29,478
+2038,Yellow,Porsche,996,V8,Automatic,20008,35864,509,17,0
+2039,Blue,BMW,323,Electric,Standard,13765,94549,718,14,258
+2040,Dark Blue,Suzuki,X-90,Diesel,Automatic,5815,5619,65,17,443
+2041,Dark Grey,BMW,533,Diesel,Automatic,21040,60613,784,22,482
+2042,Orange,Jaguar,XJ,Inine,Automatic,54801,78212,797,8,220
+2043,Light Grey,Honda,Accord,W,Standard,6993,124590,374,7,277
+2044,Black,Pontiac,G6,Diesel,Standard,1472,125028,263,5,123
+2045,Blue,Lexus,LS 460,Inine,Standard,8689,53056,632,5,276
+2046,Dark Green,Suzuki,Vitara,V8,Standard,62998,137764,121,16,31
+2047,Green,Fiat,Idea,W,Automatic,53489,2675,,0,
+2048,Dark Green,Jaguar,S-Type,Electric,Standard,74952,141464,222,23,194
+2049,Dark Grey,GMC,Envoy XUV,V8,Automatic,65356,46132,986,24,143
+2050,Dark Grey,Subaru,Super Station,V8,Automatic,59524,8325,271,9,175
+2051,Grey,Maserati,3500 GT,Diesel,Standard,68879,139727,486,13,338
+2052,Black,Honda,S800,Diesel,Automatic,17275,85718,614,14,26
+2053,Pearl,Lexus,GS 300,V6,Standard,9338,72514,609,12,64
+2054,Dark Grey,Fiat,Ducato,W,Automatic,50468,93882,771,9,355
+2055,Grey,Ferrari,Daytona,V6,Automatic,5055,23159,430,29,251
+2056,Grey,Alfa Romeo,145,Inine,Automatic,24978,20567,189,5,496
+2057,Red,Volkswagen,GTI,Inine,Automatic,27259,141752,222,23,194
+2058,Purple,Alfa Romeo,75,V6,Automatic,65423,82318,848,8,115
+2059,Blue,Alfa Romeo,Guiletta,V8,Automatic,15945,118430,281,7,238
+2060,Red,BMW,3.0,W,Automatic,48492,89616,610,24,494
+2061,Pearl,Lexus,GS 450h,V8,Standard,3284,40845,373,27,176
+2062,Grey,Subaru,4x4 Turbo,V8,Automatic,55287,17044,672,8,14
+2063,Light Grey,BMW,745,Diesel,Standard,31138,91119,72,1,110
+2064,Dark Grey,Kia,Amanti,Petrol,Standard,27976,32963,,1,
+2065,Grey,Volkswagen,Rabbit,Electric,Standard,921,117100,937,20,271
+2066,Pearl,Mazda,CX-9,Inine,Standard,23497,120189,3,13,215
+2067,Black,Jaguar,XJ6 Serie 2,W,Automatic,22917,92554,389,15,312
+2068,Dark Green,Honda,HR-V,V6,Automatic,12716,114919,989,25,64
+2069,Purple,Hyundai,Terracan,W,Standard,42739,124672,835,9,56
+2070,Orange,Mazda,626 Avant,Diesel,Automatic,33059,57826,788,15,245
+2071,Pearl,Mercedes Benz,C-Class,V6,Standard,64320,6122,981,24,281
+2072,Beige,Hyundai,Excel,V6,Standard,30466,75577,172,9,43
+2073,Dark Grey,Alfa Romeo,Guiletta,Electric,Standard,4139,148383,647,29,62
+2074,Beige,Kia,Rio RX-V,Diesel,Automatic,5845,89865,927,21,476
+2075,Pearl,GMC,Jimmy,V8,Standard,56169,44843,617,2,461
+2076,Green,Chevrolet,G1500,Petrol,Automatic,9742,79990,,9,
+2077,Black,Mercedes Benz,SL500,Diesel,Standard,17012,15764,113,21,373
+2078,Dark Blue,Porsche,356,Electric,Standard,62158,89368,504,15,126
+2079,Beige,Mazda,121,V8,Automatic,45269,144104,952,4,366
+2080,Light Grey,Subaru,Leone,V8,Automatic,10366,51818,598,25,208
+2081,Grey,Pontiac,Tempest,Electric,Automatic,74099,146049,345,16,83
+2082,Black,Ford,Ute,Electric,Automatic,20747,93022,689,25,5
+2083,Orange,Kia,Carens,V8,Standard,72125,141064,,12,
+2084,Purple,Kia,Visto,Electric,Standard,9019,40312,,26,
+2085,Light Grey,Ford,Expedition,V8,Automatic,42070,129872,723,10,136
+2086,Grey,Suzuki,Reno,Petrol,Standard,40003,78436,941,28,350
+2087,Light Grey,Volkswagen,Touareg,V8,Automatic,32577,15932,,27,
+2088,White,Fiat,Palio,Inine,Automatic,32717,29729,46,15,336
+2089,Green,Subaru,Outback,Diesel,Standard,46623,61358,490,21,444
+2090,Light Grey,Volkswagen,Type III,Petrol,Standard,2389,138265,66,4,351
+2091,Light Grey,Nissan,Stanza,Electric,Standard,33388,101547,,7,
+2092,Green,Kia,Besta,Diesel,Standard,47438,88375,871,20,483
+2093,Dark Green,Fiat,Idea,W,Automatic,63528,115377,469,5,298
+2094,Black,Maserati,3500 GT,Electric,Automatic,56780,14775,85,24,333
+2095,Light Grey,Mercedes Benz,CLS-Class,Electric,Automatic,68517,121447,914,7,461
+2096,Dark Grey,Maserati,Spyder,Inine,Standard,72753,65346,,17,
+2097,Blue,Ferrari,F355,Petrol,Automatic,1135,62115,,27,
+2098,Orange,Kia,Opirus,Electric,Standard,62472,32987,406,16,278
+2099,Black,Chevrolet,Beauville,V8,Standard,40395,123846,2,17,282
+2100,Blue,Renault,Sportwagon,V6,Automatic,1698,58648,58,15,175
+2101,Orange,Volkswagen,Jetta Wagon,V6,Automatic,74496,52704,355,13,47
+2102,Dark Green,Peugeot,607,V6,Standard,63090,55877,716,13,105
+2103,Blue,BMW,318,V6,Standard,9913,62308,744,20,154
+2104,Yellow,Mercedes Benz,Viano,V8,Automatic,46625,25428,365,1,280
+2105,Purple,Audi,A4 Cabriolet,V8,Standard,71123,111310,413,13,35
+2106,Grey,Kia,Carens II,V8,Standard,122,22660,17,0,398
+2107,Dark Grey,Suzuki,XL7,W,Standard,20949,38630,246,26,78
+2108,Orange,Volkswagen,Bora,Petrol,Automatic,36785,114984,389,15,312
+2109,Dark Blue,Porsche,Spyder,W,Automatic,58252,54993,,17,
+2110,Purple,Volkswagen,T5 Pickup,V6,Standard,53530,86182,379,17,55
+2111,Purple,Lexus,RX 400h,V6,Automatic,50384,97599,422,0,289
+2112,Green,Audi,A6,Petrol,Automatic,22774,137168,326,25,40
+2113,Dark Blue,Subaru,DL,Inine,Automatic,48610,104673,752,8,277
+2114,Beige,Subaru,Brat,V6,Automatic,3361,70888,,23,
+2115,Dark Blue,Ford,Cutaway,Diesel,Standard,44976,137359,,2,
+2116,Purple,GMC,Sierra,Petrol,Automatic,54991,57797,449,4,72
+2117,Red,Hyundai,Tiburon,W,Standard,65810,30516,977,5,34
+2118,Blue,Peugeot,205,V8,Standard,10375,148903,563,20,418
+2119,Dark Grey,Jaguar,E-type,V6,Automatic,65211,57299,,21,
+2120,Light Grey,Suzuki,Grand Vitara,Electric,Automatic,26691,40608,969,22,450
+2121,Grey,Mazda,RX-7,Petrol,Standard,40087,46140,29,21,480
+2122,Pearl,Ferrari,Superamerica,W,Automatic,8540,19014,487,4,143
+2123,Green,Toyota,Celica,Electric,Automatic,2287,138923,387,9,386
+2124,Dark Blue,BMW,323,Electric,Standard,45157,40691,389,15,312
+2125,Orange,Alfa Romeo,146,Petrol,Standard,22189,125043,152,27,351
+2126,Yellow,Ferrari,GTB,Petrol,Standard,57639,98417,95,2,48
+2127,Dark Grey,Chevrolet,Celebrity,V6,Standard,64333,63558,210,3,463
+2128,Green,BMW,M6,Inine,Standard,32160,11439,66,4,351
+2129,Yellow,Lexus,Harrier 4x4,Inine,Standard,47581,141462,80,12,292
+2130,Beige,Peugeot,504,V8,Automatic,42589,110965,230,13,56
+2131,Grey,Pontiac,Solstice,V8,Automatic,8248,92806,131,4,333
+2132,White,Lexus,RX 300,V8,Automatic,33328,135299,694,29,267
+2133,Dark Green,Suzuki,Baleno,Inine,Automatic,31947,148743,545,3,408
+2134,Purple,Toyota,T100,Diesel,Standard,52916,84387,124,1,481
+2135,Beige,Kia,Optima,Diesel,Standard,14727,92273,37,21,435
+2136,Dark Grey,Peugeot,1007,V6,Standard,48769,43519,121,16,31
+2137,Grey,Hyundai,Getz,V8,Standard,9522,3680,552,0,24
+2138,White,Ford,Focus,V6,Standard,27111,12046,77,5,204
+2139,Beige,Renault,30,V6,Automatic,55965,20291,,4,
+2140,Green,Jaguar,XR8,V8,Standard,58789,147260,963,12,269
+2141,Dark Green,Ford,Festiva,W,Automatic,69037,64132,918,17,247
+2142,Beige,BMW,323,Inine,Automatic,3661,23000,,28,
+2143,Red,Chevrolet,Metro,Petrol,Standard,12723,99288,928,19,445
+2144,Yellow,Ferrari,F50,Inine,Automatic,43417,30562,394,10,148
+2145,Light Grey,Porsche,Speedster,Diesel,Automatic,1785,46426,,5,
+2146,Dark Blue,Ford,Orion,Electric,Automatic,28733,122221,,29,
+2147,Blue,Lexus,ES 330,V6,Standard,5413,36968,,0,
+2148,Purple,Toyota,Sienna,W,Standard,19293,134994,710,23,144
+2149,Pearl,Lexus,GS 400,Petrol,Standard,69572,144256,416,23,165
+2150,Beige,Ford,Galaxie,W,Automatic,45029,16004,423,18,256
+2151,Black,Chevrolet,Prizm,Inine,Automatic,43369,137076,744,20,154
+2152,Black,Kia,Clarus,W,Standard,16374,104618,862,21,164
+2153,White,Pontiac,Phoenix,W,Automatic,60273,135931,,25,
+2154,Purple,Mazda,Metro,V8,Automatic,29063,46331,970,6,310
+2155,White,Peugeot,307 SW,Electric,Standard,8624,23365,623,3,281
+2156,Red,Jaguar,Super V8,Electric,Standard,26104,106131,61,17,366
+2157,Yellow,Chevrolet,Nomad,W,Standard,8545,117210,507,5,331
+2158,Orange,Suzuki,XL7,Diesel,Automatic,67992,43396,214,12,400
+2159,Red,Ford,Super Duty,Electric,Automatic,7524,72793,207,5,103
+2160,Yellow,Ford,Escape,Inine,Automatic,18615,95258,,14,
+2161,Beige,Kia,Spectra,Petrol,Standard,25246,18797,192,10,187
+2162,Black,Peugeot,307,W,Automatic,54269,41937,,14,
+2163,White,Maserati,Coupé,Diesel,Automatic,2896,49024,303,6,422
+2164,Dark Blue,Peugeot,107,Electric,Standard,67626,128546,602,29,447
+2165,Blue,GMC,Cyclone,V6,Automatic,59805,72185,183,7,62
+2166,Green,Audi,S6,W,Standard,39053,114962,,6,
+2167,Red,Nissan,Bluebird Sedan,Petrol,Standard,4411,28237,576,14,223
+2168,Beige,Ferrari,F50,W,Standard,9616,137985,691,7,26
+2169,Purple,Subaru,WRX,V6,Standard,72551,72780,672,8,14
+2170,Red,Nissan,Sunny Van,V6,Automatic,18123,14773,363,14,87
+2171,Dark Green,Pontiac,Wave,Inine,Standard,58739,91709,,20,
+2172,Light Grey,Volkswagen,City Golf,Electric,Standard,64013,26958,,10,
+2173,Orange,Porsche,Carrera GT,Petrol,Standard,11463,33252,,19,
+2174,Black,Kia,Spectra SX,Petrol,Standard,781,149261,290,12,58
+2175,Green,Subaru,G3X Justy,Petrol,Standard,36651,139764,711,11,459
+2176,Black,BMW,320,Diesel,Automatic,54975,73327,147,7,1
+2177,Grey,Honda,Jazz,Petrol,Standard,49120,66895,98,18,209
+2178,Dark Grey,Pontiac,Wave,Petrol,Automatic,59981,20505,,18,
+2179,Black,Ferrari,340,Inine,Automatic,41125,141901,,11,
+2180,Red,Jaguar,XKE,Inine,Automatic,28832,79244,336,26,56
+2181,Blue,Volkswagen,Golf IV Variant,V8,Standard,42368,132867,947,22,373
+2182,Purple,Porsche,Carrera,Electric,Automatic,19241,115867,668,9,418
+2183,Dark Grey,Mazda,Cosmo,V6,Standard,23217,126265,928,19,445
+2184,Green,Toyota,Prerunner,Inine,Standard,74984,86495,135,19,91
+2185,Beige,Maserati,Merak,Petrol,Standard,36759,97799,,7,
+2186,Dark Blue,Chevrolet,Silverado,V6,Standard,195,84032,214,12,400
+2187,Dark Blue,Fiat,131,V8,Automatic,15647,49705,479,18,205
+2188,Dark Grey,Chevrolet,Pick-up,V8,Standard,33825,42234,196,16,426
+2189,Orange,Audi,Allroad,Diesel,Standard,2878,40149,510,20,292
+2190,Grey,Hyundai,Terracan,Electric,Standard,66045,47526,545,3,408
+2191,Light Grey,Mercedes Benz,M-Class,Electric,Standard,26528,111712,763,25,219
+2192,White,Chevrolet,C2500,Diesel,Standard,9155,22340,266,7,303
+2193,Green,Hyundai,XG300,Electric,Automatic,21544,107035,346,7,208
+2194,Dark Blue,Alfa Romeo,Guiletta,W,Automatic,57791,114644,592,19,174
+2195,White,Suzuki,Jimny,Inine,Automatic,64739,102972,918,17,247
+2196,Red,Audi,5000,Diesel,Standard,14031,7897,802,10,364
+2197,Yellow,Suzuki,Aerio,Inine,Standard,20125,103192,803,0,237
+2198,Purple,Ford,Ka,Electric,Automatic,10136,75745,518,0,74
+2199,Purple,Ferrari,550,V8,Automatic,20262,127514,981,24,281
+2200,Dark Green,Toyota,HiAce,Inine,Automatic,17830,141287,175,23,21
+2201,Grey,Fiat,Marea,Electric,Standard,54057,104047,245,15,264
+2202,Yellow,Pontiac,Torrent,V6,Automatic,66941,93299,508,9,368
+2203,Pearl,Chevrolet,Suburban,W,Standard,64680,103402,492,8,374
+2204,Black,Maserati,430,Petrol,Automatic,57956,130495,960,9,164
+2205,Dark Grey,Maserati,Ghibli,Inine,Standard,49546,53748,585,11,147
+2206,Pearl,Ferrari,F355,Petrol,Automatic,34941,126067,804,22,29
+2207,Light Grey,Ferrari,735,Diesel,Automatic,8206,135000,422,0,289
+2208,Dark Green,Chevrolet,Tacuma,V8,Standard,36215,34354,432,18,137
+2209,Grey,Toyota,Celica,Inine,Automatic,54593,50428,113,21,373
+2210,Green,Renault,Espace,Electric,Standard,45209,40131,286,29,208
+2211,Grey,Jaguar,XJ6,Inine,Automatic,1807,67719,170,2,234
+2212,Orange,BMW,528,Diesel,Automatic,60011,112296,788,15,245
+2213,Orange,Mercedes Benz,R350,Diesel,Automatic,39116,27529,44,11,91
+2214,Green,Suzuki,Wagon,Inine,Standard,59044,43219,336,26,56
+2215,Dark Blue,Maserati,Coupé,Inine,Standard,8002,138739,547,5,31
+2216,Dark Blue,GMC,Acadia,Electric,Automatic,8581,95868,71,13,31
+2217,Grey,Porsche,Boxster,Inine,Automatic,30598,141459,25,27,277
+2218,Dark Blue,Fiat,Spider,W,Automatic,21127,112244,227,24,473
+2219,Dark Green,Maserati,Spyder,W,Automatic,55264,89660,314,24,401
+2220,Blue,GMC,Acadia,Diesel,Standard,14260,59566,374,7,277
+2221,Dark Grey,Maserati,Bora,V8,Standard,12700,52688,351,8,340
+2222,White,Suzuki,Swift,Diesel,Standard,27378,76901,129,5,157
+2223,Dark Grey,Jaguar,Vanden Plas,V8,Automatic,66117,15450,210,3,463
+2224,White,Audi,TT,V6,Standard,61469,100849,746,26,378
+2225,White,Hyundai,Entourage,Petrol,Standard,67730,39104,,14,
+2226,Pearl,Nissan,Camionnette,W,Standard,31906,51836,749,19,74
+2227,Grey,Nissan,King Cab,Inine,Standard,10977,71178,202,5,128
+2228,Dark Grey,Chevrolet,Pick-up,Inine,Automatic,32156,82733,351,8,340
+2229,Blue,Volkswagen,Golf III Cabrio,Diesel,Automatic,51152,114280,47,14,446
+2230,Orange,Toyota,Avensis,W,Automatic,42815,4837,956,10,201
+2231,Dark Green,Toyota,AYGO,V6,Automatic,18903,88592,819,7,364
+2232,Dark Blue,Mazda,MX 3,Petrol,Automatic,10580,91343,54,12,227
+2233,Grey,Nissan,Pathfinder,W,Standard,20702,87806,111,29,329
+2234,Orange,BMW,750,V8,Automatic,8071,89049,491,20,450
+2235,Blue,Ferrari,410,W,Standard,58030,30644,,12,
+2236,Dark Grey,Mazda,3 Sport,V8,Standard,45996,1666,542,12,369
+2237,Black,Volkswagen,Type III,W,Automatic,33955,21189,738,0,73
+2238,Dark Grey,Honda,S800,Electric,Standard,18727,65772,663,13,7
+2239,Orange,Pontiac,Tempest,V8,Automatic,23834,60478,516,20,373
+2240,Orange,Pontiac,Grand LeMans,V6,Automatic,72131,28531,957,3,442
+2241,Pearl,Porsche,968,Inine,Standard,32727,92389,559,27,237
+2242,Yellow,Mazda,RX-4,Electric,Standard,51398,138716,446,11,454
+2243,Light Grey,GMC,Cyclone,V8,Automatic,7847,24983,703,25,159
+2244,Grey,Subaru,WRX,V6,Automatic,56223,131220,753,25,317
+2245,Dark Green,BMW,X5,W,Automatic,13428,147362,934,7,21
+2246,Beige,Alfa Romeo,155,Electric,Standard,56881,85338,825,11,353
+2247,Light Grey,GMC,Jimmy,W,Automatic,67272,40939,754,5,458
+2248,Orange,Peugeot,807,Diesel,Automatic,12629,39237,,20,
+2249,Purple,Nissan,L50,V6,Automatic,50770,43695,875,0,489
+2250,Dark Grey,Ferrari,F430,Diesel,Standard,54756,143520,841,12,197
+2251,Light Grey,Alfa Romeo,Guiletta,Inine,Standard,44781,93367,783,1,60
+2252,Beige,Porsche,Boxster,W,Standard,60400,99609,492,8,374
+2253,Orange,Fiat,500,Inine,Automatic,52704,139318,828,27,454
+2254,Red,Nissan,350Z,W,Standard,22323,69938,780,9,415
+2255,Black,Renault,Premium,Electric,Automatic,23799,106285,821,26,37
+2256,Purple,Hyundai,H1,Inine,Standard,12519,108168,281,7,238
+2257,Light Grey,Maserati,3200 GT,Diesel,Standard,65235,2774,311,3,312
+2258,Red,Hyundai,Terracan,V8,Standard,46670,120697,474,21,68
+2259,Black,Ferrari,599,Inine,Standard,51090,83872,,5,
+2260,Grey,Maserati,Spyder,Inine,Automatic,74994,99275,310,14,126
+2261,Pearl,Jaguar,Super V8,Inine,Automatic,4750,59230,695,18,447
+2262,Dark Green,Kia,Besta,V6,Automatic,20418,42473,567,18,329
+2263,Yellow,Maserati,3200 GT,Inine,Standard,44583,127997,655,23,33
+2264,Yellow,GMC,Topkick,V8,Automatic,30680,4241,951,1,65
+2265,Green,Volkswagen,T4 Transporter,Petrol,Standard,39484,123536,149,24,66
+2266,Pearl,Ford,Focus,Inine,Automatic,49072,103888,825,11,353
+2267,White,Ford,Focus,Inine,Standard,9507,100346,468,21,470
+2268,Dark Grey,Fiat,Cinquecento,Petrol,Automatic,20396,141459,725,1,205
+2269,White,Jaguar,XJ Series,Electric,Standard,65360,20425,847,21,383
+2270,Purple,Porsche,Boxster,W,Automatic,65025,121371,499,2,355
+2271,White,Volkswagen,Polo Classic,W,Standard,74306,115466,354,29,174
+2272,Yellow,BMW,M3,W,Standard,5217,73283,102,10,416
+2273,Beige,Chevrolet,Corsica,Inine,Standard,5993,18947,71,13,31
+2274,Dark Blue,Ferrari,512,W,Standard,24608,38978,,20,
+2275,Purple,Mazda,B2200,Electric,Standard,34926,128452,4,0,100
+2276,Beige,Nissan,260Z,Electric,Standard,10296,11021,464,11,202
+2277,Dark Blue,Fiat,Panda,W,Standard,55449,120721,264,13,179
+2278,Grey,Renault,30,V6,Standard,634,3181,835,9,56
+2279,Purple,Audi,RS 4,Diesel,Standard,51867,34194,380,3,167
+2280,Dark Blue,Honda,Concerto,W,Standard,2228,81913,223,16,310
+2281,Blue,Fiat,X1/9,Inine,Standard,59893,46781,807,5,294
+2282,Yellow,Ferrari,196,V8,Automatic,404,99070,647,29,62
+2283,Beige,Mazda,MPV,Diesel,Standard,54929,145416,229,12,372
+2284,White,Chevrolet,G2500,Electric,Standard,68424,123806,,10,
+2285,Light Grey,Mercedes Benz,Vaneo,Petrol,Automatic,44608,22106,735,29,153
+2286,Dark Blue,Subaru,XT,Inine,Standard,57665,148816,277,4,458
+2287,Dark Grey,Mercedes Benz,V-Class,V6,Standard,30574,93651,625,16,103
+2288,White,Suzuki,Ignis,Electric,Standard,14446,132682,527,23,233
+2289,Dark Blue,BMW,545,V6,Automatic,47060,29584,794,10,165
+2290,Purple,BMW,328,V8,Automatic,62049,25248,573,5,37
+2291,Pearl,Chevrolet,Biscayne,Diesel,Standard,74536,44757,,23,
+2292,Grey,Kia,Rio,Diesel,Standard,8118,33112,610,24,494
+2293,Red,Honda,Prelude,Petrol,Automatic,24545,55811,,28,
+2294,Pearl,Maserati,3500 GT,Inine,Automatic,62752,71071,590,16,143
+2295,Grey,Maserati,Merak,Inine,Standard,73016,143234,,18,
+2296,Blue,Pontiac,Grand LeMans,Diesel,Standard,56688,14667,829,5,340
+2297,Pearl,Fiat,130,Electric,Standard,68584,46865,,15,
+2298,Blue,Chevrolet,Colorado,W,Standard,55744,123558,925,13,228
+2299,White,BMW,645,V6,Standard,72690,93089,654,1,203
+2300,Red,Ferrari,308,V6,Automatic,37200,135518,813,17,23
+2301,Grey,Audi,S4,Electric,Standard,63914,85056,,2,
+2302,Dark Green,Renault,Medaillon,Diesel,Automatic,50571,127400,790,17,191
+2303,Light Grey,Ferrari,335,W,Standard,41523,30230,3,13,215
+2304,Light Grey,Nissan,Skyline,V6,Automatic,63221,123375,,12,
+2305,Pearl,Renault,Fuego,Inine,Standard,31537,131980,218,4,187
+2306,Dark Green,Suzuki,Alto,Inine,Standard,17803,93464,17,0,398
+2307,Dark Grey,Honda,S2000,Diesel,Automatic,55554,86706,581,5,202
+2308,Grey,Volkswagen,Multivan,V8,Automatic,2497,13354,920,10,51
+2309,Dark Grey,Renault,Avantime,Petrol,Automatic,37751,6130,770,10,30
+2310,Light Grey,Fiat,Strada,Petrol,Automatic,18882,8295,760,5,385
+2311,Dark Green,BMW,535,Petrol,Automatic,51912,78197,,29,
+2312,Light Grey,Audi,Coupé 20V,W,Standard,11989,138439,468,21,470
+2313,Beige,Porsche,911,Diesel,Automatic,11969,71881,33,19,173
+2314,White,Renault,12,W,Standard,69307,31277,44,11,91
+2315,White,Honda,Fit,W,Standard,20152,123709,417,26,277
+2316,Dark Green,GMC,Typhoon,W,Automatic,47762,85641,276,26,22
+2317,Blue,Fiat,Punto Grande,V8,Standard,61963,94873,160,16,160
+2318,Purple,Mercedes Benz,C320,Petrol,Standard,16971,2836,811,25,362
+2319,Pearl,GMC,Canyon,Diesel,Automatic,29354,12092,,4,
+2320,Dark Blue,Lexus,IS 250,Petrol,Automatic,30905,85409,521,2,406
+2321,Grey,Mercedes Benz,123,W,Standard,57394,104606,,13,
+2322,Pearl,Chevrolet,Uplander,Electric,Standard,72996,117009,37,21,435
+2323,Yellow,Lexus,LX 470,Diesel,Standard,11079,148683,266,7,303
+2324,Grey,Fiat,Panda,Electric,Standard,41068,147299,595,10,397
+2325,Purple,Audi,TT,Petrol,Automatic,36655,142573,68,13,225
+2326,Purple,Fiat,Marea,Petrol,Automatic,3524,133841,289,2,206
+2327,Yellow,Mazda,6 Sport Wagon,Electric,Automatic,64969,54068,874,28,110
+2328,Yellow,Suzuki,Liana,Electric,Standard,5175,146597,699,14,272
+2329,Grey,Kia,Joice,V6,Standard,55484,52597,373,27,176
+2330,Orange,Chevrolet,Lumina APV,V8,Automatic,14745,26266,,4,
+2331,Red,Alfa Romeo,Alfetta,V8,Automatic,61271,123770,236,20,153
+2332,Yellow,BMW,Z8,Diesel,Standard,44765,13790,817,24,247
+2333,White,Volkswagen,Rabbit,W,Automatic,25149,24353,546,24,452
+2334,Dark Grey,Ford,F-750,Electric,Standard,8935,143478,343,18,490
+2335,Dark Grey,Kia,Amanti,W,Automatic,18496,120792,803,0,237
+2336,Dark Blue,Chevrolet,Vega,V6,Standard,33154,82556,258,2,103
+2337,Grey,Suzuki,Reno,V8,Automatic,21019,46506,876,12,48
+2338,Dark Green,Porsche,901,Electric,Standard,35348,149605,279,29,311
+2339,Green,Peugeot,504,V6,Standard,3937,106516,859,20,240
+2340,Beige,Jaguar,Super V8,Diesel,Automatic,63749,94971,161,23,130
+2341,Pearl,Hyundai,Santa Fe,Diesel,Automatic,24624,73423,882,17,217
+2342,Light Grey,Nissan,Pulsar,Diesel,Standard,67982,106529,835,9,56
+2343,Dark Blue,Fiat,Doblò,W,Standard,63557,61113,672,8,14
+2344,Red,Hyundai,Stellar,Diesel,Standard,72268,42831,960,9,164
+2345,Purple,Pontiac,Bonneville,W,Automatic,17949,137477,546,24,452
+2346,Green,Mazda,Xedos 9,V6,Automatic,36079,83006,366,25,102
+2347,Dark Blue,Chevrolet,Malibu Maxx,Diesel,Automatic,30038,64845,845,12,302
+2348,Black,Alfa Romeo,Guiletta,W,Standard,44890,102087,286,29,208
+2349,Dark Blue,Audi,80 Cabriolet,Diesel,Standard,31499,75877,106,19,21
+2350,Purple,Nissan,NX,V6,Standard,44570,124998,682,13,479
+2351,Dark Blue,Maserati,430,V6,Automatic,21020,87493,615,21,213
+2352,Blue,Honda,Element,W,Automatic,19746,114337,334,4,126
+2353,Purple,Suzuki,Grand Vitara,V8,Automatic,44018,57302,521,2,406
+2354,Light Grey,Mazda,626 Cronos,V8,Automatic,30287,121939,274,5,301
+2355,Beige,Hyundai,Scoupe,V8,Automatic,73736,23915,,18,
+2356,Purple,Nissan,Almera Tino,Inine,Standard,40983,136885,525,8,311
+2357,Dark Grey,Lexus,RX 300,V6,Standard,46274,75643,763,25,219
+2358,White,GMC,Sierra,Inine,Automatic,17323,107593,226,14,281
+2359,Blue,Porsche,Spyder,Electric,Standard,55292,78023,917,29,133
+2360,Dark Blue,Subaru,DL,V8,Automatic,48056,104736,,8,
+2361,Dark Green,Volkswagen,Dasher,W,Automatic,26071,16489,735,29,153
+2362,Orange,Volkswagen,Caddy Pickup,Diesel,Standard,55119,15244,873,3,186
+2363,Dark Grey,Jaguar,Super V8,Petrol,Standard,26809,44182,60,7,452
+2364,Black,Alfa Romeo,147,Inine,Standard,38243,106178,,28,
+2365,Beige,Mazda,Truck (B-series),Diesel,Standard,32330,52119,201,1,331
+2366,Yellow,Hyundai,Entourage,Inine,Automatic,57472,101507,800,2,265
+2367,Light Grey,Renault,12,Diesel,Automatic,3960,4839,849,24,306
+2368,Dark Blue,Alfa Romeo,75,Electric,Standard,15250,62835,367,4,150
+2369,Pearl,Kia,Amanti,W,Automatic,64692,97260,792,21,284
+2370,Dark Grey,Mazda,Navajo,Electric,Automatic,42925,120122,655,23,33
+2371,Dark Green,Volkswagen,Touareg,Electric,Standard,4187,14261,,23,
+2372,Yellow,Audi,TT,Inine,Automatic,17429,109085,,22,
+2373,Beige,Kia,Shuma,V6,Automatic,61375,69460,293,26,35
+2374,Dark Grey,Honda,MDX,Inine,Automatic,27098,7335,118,1,304
+2375,Orange,Renault,25,Diesel,Automatic,53508,138498,881,2,173
+2376,Dark Green,Ferrari,735,Diesel,Automatic,71460,144895,766,16,420
+2377,Pearl,Chevrolet,HHR,V6,Standard,16142,44394,757,3,47
+2378,Purple,Maserati,Ghibli,V6,Standard,38612,57153,101,8,270
+2379,Beige,Subaru,G3X Justy,Petrol,Standard,15595,7185,975,16,25
+2380,Pearl,Nissan,Skyline,V6,Automatic,49536,49908,409,9,75
+2381,Dark Blue,Pontiac,Grand Prix,Petrol,Standard,38860,75167,125,18,360
+2382,Beige,Kia,Shuma II,Inine,Standard,38564,31842,821,26,37
+2383,Beige,Porsche,914,W,Standard,21596,89133,761,19,332
+2384,Purple,Ford,Sierra,Diesel,Standard,13268,132451,569,23,96
+2385,White,Kia,Mentor,Petrol,Standard,6467,149435,,18,
+2386,Green,Honda,Logo,W,Automatic,1850,40359,696,28,85
+2387,Pearl,Ferrari,735,V8,Standard,15081,17523,429,21,463
+2388,Purple,Audi,4000,Diesel,Automatic,7205,24354,,3,
+2389,Grey,Suzuki,Wagon,Electric,Standard,2146,102093,153,2,50
+2390,Yellow,Maserati,Bora,V6,Standard,62669,40355,856,1,437
+2391,Dark Green,Porsche,Spyder,Inine,Standard,257,8896,132,27,375
+2392,Dark Blue,Kia,Carnival,Inine,Standard,2012,88040,519,22,63
+2393,Dark Blue,Chevrolet,Z24,Diesel,Automatic,73954,1003,922,15,7
+2394,Black,Kia,Clarus,W,Standard,64269,88733,43,10,219
+2395,Purple,Nissan,Sunny Combi,Diesel,Standard,12558,63419,411,15,33
+2396,Dark Blue,Suzuki,Samurai,V8,Automatic,12207,107248,378,19,288
+2397,White,Mercedes Benz,R500,V6,Standard,21713,148204,15,21,174
+2398,Dark Grey,Suzuki,Grand Vitara,V8,Automatic,20885,120435,0,25,478
+2399,Orange,Peugeot,604,W,Standard,50889,48105,589,1,216
+2400,Purple,Renault,Magnum,Diesel,Automatic,52760,134640,990,13,83
+2401,Red,Jaguar,Sovereign,V8,Automatic,44747,80979,543,7,374
+2402,Dark Grey,Alfa Romeo,146,Inine,Standard,60228,147448,573,5,37
+2403,Orange,Toyota,LandCruiser,V8,Automatic,55612,18898,699,14,272
+2404,Dark Blue,Honda,HR-V,Inine,Standard,61097,143659,922,15,7
+2405,Dark Green,Renault,Alliance,Petrol,Standard,8593,88198,,24,
+2406,Pearl,Volkswagen,Bora,Petrol,Automatic,22894,128333,62,24,326
+2407,Yellow,Chevrolet,Envoy,V6,Standard,64180,81728,143,16,91
+2408,Black,GMC,Yukon XL,V6,Automatic,8165,25862,384,9,459
+2409,Green,Ford,F-350,Inine,Standard,1119,10082,304,5,128
+2410,Beige,Fiat,Multipla,Petrol,Automatic,25002,97485,429,21,463
+2411,White,Subaru,Forester,Inine,Automatic,37599,102976,173,21,10
+2412,Dark Blue,Pontiac,Aztek,Petrol,Standard,27567,97262,,0,
+2413,Dark Blue,Fiat,Punto Grande,Diesel,Automatic,32163,39513,564,1,217
+2414,Blue,Porsche,Cayenne,Electric,Automatic,13699,20272,853,19,342
+2415,Orange,Volkswagen,Golf III Cabrio,Petrol,Standard,28999,41441,666,21,48
+2416,Beige,Toyota,Corolla Verso,V6,Standard,69553,30450,500,14,198
+2417,Pearl,Hyundai,Getz,W,Automatic,71898,29469,642,20,36
+2418,Red,Peugeot,Expert,Electric,Automatic,46648,1913,278,7,362
+2419,Red,Suzuki,X-90,V6,Automatic,30259,70333,26,0,78
+2420,Grey,Pontiac,Astre,Inine,Automatic,39972,118659,576,14,223
+2421,Beige,Maserati,Khamsin,V6,Automatic,11100,113490,771,9,355
+2422,Beige,Suzuki,Forsa,Petrol,Automatic,11699,42534,997,20,208
+2423,Dark Grey,Chevrolet,Cavalier,V8,Automatic,31781,82857,769,2,7
+2424,Beige,Hyundai,Matrix,V6,Standard,23358,73050,644,19,145
+2425,Pearl,Hyundai,H1,Electric,Automatic,35172,146422,,27,
+2426,Purple,Pontiac,Parisienne,W,Standard,11648,37431,528,23,36
+2427,Yellow,Toyota,LandCruiser 70,Electric,Automatic,49939,87950,350,3,354
+2428,Dark Blue,Alfa Romeo,33,V8,Standard,72256,34290,823,29,167
+2429,Dark Green,Renault,5,Inine,Automatic,37997,53382,170,2,234
+2430,White,Fiat,130,Inine,Standard,64300,131564,765,9,271
+2431,Blue,Toyota,AYGO,V6,Automatic,12874,104030,310,14,126
+2432,Dark Green,Suzuki,Swift+,Inine,Automatic,74537,90489,487,4,143
+2433,Dark Blue,Kia,Sephia Sedan,Diesel,Standard,40116,43463,533,1,301
+2434,Dark Blue,Porsche,928,Electric,Standard,8899,2664,437,4,479
+2435,Pearl,Porsche,Carrera,W,Standard,43850,46986,992,20,88
+2436,Green,Chevrolet,C/K 3500,Petrol,Standard,67909,45389,651,24,70
+2437,Dark Blue,Lexus,RX 350,Petrol,Standard,64261,40676,633,14,188
+2438,Light Grey,Jaguar,Vanden Plas,Electric,Automatic,52717,103486,,2,
+2439,Dark Green,Pontiac,Fiero,Inine,Standard,15629,132238,764,8,476
+2440,Dark Blue,Chevrolet,Lumina,W,Automatic,53283,112429,,9,
+2441,White,Hyundai,Trajet,W,Standard,1744,63285,493,26,499
+2442,Yellow,Suzuki,Grand Vitara,V8,Automatic,38177,132173,38,7,114
+2443,Yellow,Ferrari,F50,Petrol,Automatic,36375,133633,872,22,25
+2444,Dark Grey,Chevrolet,Beauville,Inine,Standard,16088,127720,,23,
+2445,Red,Suzuki,Forsa,Petrol,Standard,3540,38009,812,27,66
+2446,Grey,Alfa Romeo,156,W,Automatic,60405,38412,48,16,33
+2447,Dark Blue,Suzuki,Alto,Electric,Automatic,24910,83362,367,4,150
+2448,White,Kia,Credos,V8,Automatic,30003,46015,,19,
+2449,Dark Blue,Kia,Rio,Diesel,Automatic,18643,52785,819,7,364
+2450,White,Volkswagen,Golf III Cabrio,Diesel,Automatic,19357,95419,967,24,36
+2451,Green,Audi,S4 Cabriolet,V8,Standard,60969,143766,,2,
+2452,Dark Green,Nissan,King Cab,Inine,Automatic,27603,134073,,13,
+2453,Black,Subaru,Loyale,Diesel,Automatic,30154,100438,736,3,123
+2454,Purple,Subaru,G3X Justy,W,Automatic,50217,118411,571,23,460
+2455,White,Mazda,Millenia,V8,Standard,37322,62620,,14,
+2456,Green,BMW,M Coupe,Inine,Standard,66567,8727,,16,
+2457,Orange,Porsche,Spyder,V6,Automatic,4807,110671,959,26,172
+2458,Dark Grey,Jaguar,XJ-S,V8,Automatic,53529,39809,132,27,375
+2459,Dark Green,Toyota,Matrix,Petrol,Standard,29534,54378,147,7,1
+2460,Dark Blue,Toyota,LandCruiser,Inine,Automatic,17450,147905,758,9,354
+2461,Red,Chevrolet,HHR,Diesel,Standard,15710,61917,446,11,454
+2462,Green,Hyundai,Tiburon,Diesel,Automatic,24469,68005,186,2,333
+2463,Red,Nissan,350Z,W,Automatic,1899,30464,375,18,131
+2464,Green,Porsche,Carrera,W,Automatic,9189,81964,704,16,75
+2465,Purple,Mazda,B2300,Petrol,Automatic,66674,91825,636,25,151
+2466,Grey,Renault,Master,W,Automatic,16745,71105,,19,
+2467,Dark Blue,Toyota,Traveler,Diesel,Automatic,39895,16323,,20,
+2468,Light Grey,Alfa Romeo,Spider,Diesel,Automatic,53840,62755,330,1,198
+2469,Beige,Ferrari,315,W,Automatic,71004,68025,772,24,422
+2470,Grey,Chevrolet,Stylemaster,V6,Automatic,17582,6034,426,8,36
+2471,Dark Grey,Ferrari,Superamerica,V8,Standard,32388,61358,216,24,456
+2472,White,Renault,Encore,W,Standard,32558,89032,,20,
+2473,Pearl,Audi,Quattro,Petrol,Standard,15593,85073,663,13,7
+2474,Light Grey,Renault,21,V8,Automatic,29767,83569,123,7,446
+2475,Purple,Subaru,Leone,Petrol,Standard,29334,32135,401,18,409
+2476,Green,Ferrari,330,Electric,Standard,46148,110211,212,8,450
+2477,Dark Grey,Chevrolet,Avalanche,Inine,Automatic,33780,23959,,23,
+2478,Blue,Mazda,E-series,Electric,Automatic,14750,42195,889,12,43
+2479,Red,Renault,Mégane,V6,Standard,37401,39142,,12,
+2480,Orange,Hyundai,Coupé,V8,Standard,72640,98068,897,7,65
+2481,Grey,Pontiac,G6,V6,Automatic,65833,139888,636,25,151
+2482,Green,Subaru,Outback,V8,Standard,21772,1029,488,6,333
+2483,Red,Fiat,Dino,Inine,Standard,26175,26264,871,20,483
+2484,Dark Grey,Mercedes Benz,SLK350,Petrol,Standard,60396,126635,870,12,271
+2485,Black,Nissan,260Z,W,Automatic,24998,120055,414,20,42
+2486,White,Porsche,550,V6,Automatic,65063,13718,514,12,329
+2487,Orange,Toyota,Paseo,Inine,Automatic,7595,111656,697,18,171
+2488,Green,Volkswagen,Polo,V8,Standard,49502,107802,,13,
+2489,Dark Blue,Subaru,Loyale,W,Automatic,47484,106215,506,23,125
+2490,Yellow,Hyundai,XG350,Petrol,Standard,55565,15794,850,25,44
+2491,Light Grey,Peugeot,Expert,V6,Standard,34908,20766,220,14,386
+2492,Dark Green,Maserati,Coupé,Petrol,Standard,17774,87914,,10,
+2493,Green,GMC,Acadia,Electric,Automatic,51872,6711,748,20,431
+2494,Beige,Fiat,Ulysse II,W,Automatic,60946,43224,,7,
+2495,Light Grey,Subaru,Impreza,Petrol,Standard,25054,4197,915,26,392
+2496,Red,Pontiac,GTO,Petrol,Standard,44779,121431,25,27,277
+2497,Black,Nissan,350Z,Petrol,Standard,26417,77834,512,24,441
+2498,Black,Ferrari,365,W,Standard,49041,43072,208,22,368
+2499,Dark Green,Suzuki,SJ410,Electric,Automatic,1602,8333,224,3,482
+2500,White,Jaguar,XR8,V6,Automatic,42772,81132,933,17,233
+2501,Grey,GMC,Blazer Fullsize,Electric,Standard,36185,11271,554,6,417
+2502,Purple,Porsche,944,Diesel,Automatic,74451,144767,90,14,458
+2503,Light Grey,Kia,Amanti,V6,Automatic,44441,92673,,27,
+2504,Grey,GMC,Sprint,W,Automatic,41640,141674,664,12,448
+2505,Orange,Volkswagen,Golf III Cabrio,Electric,Standard,42977,24664,288,5,249
+2506,Green,Jaguar,XJ-SC,Petrol,Standard,68866,66440,28,2,172
+2507,White,Ford,Aspire,V8,Standard,43948,112069,2,17,282
+2508,Green,Porsche,Cayman,V6,Standard,57653,117013,369,6,18
+2509,Dark Blue,Mercedes Benz,Sprinter,V8,Automatic,4090,95513,427,8,312
+2510,Orange,Mazda,323 F,Petrol,Automatic,52331,96278,427,8,312
+2511,Grey,GMC,Envoy,Diesel,Standard,3081,125139,432,18,137
+2512,Dark Grey,Audi,100,V8,Automatic,69199,72802,479,18,205
+2513,White,Alfa Romeo,147,V8,Standard,4457,80542,10,10,172
+2514,Light Grey,Honda,Pilot,Inine,Automatic,56931,65879,,10,
+2515,Pearl,Fiat,Tipo,Electric,Automatic,19667,107693,7,9,100
+2516,Green,Lexus,LS 430,V6,Automatic,53357,2755,336,26,56
+2517,Purple,Volkswagen,Jetta,V6,Automatic,67854,53932,408,20,19
+2518,Dark Grey,Subaru,Legacy,V8,Standard,35070,32977,915,26,392
+2519,Beige,Jaguar,XKE,Electric,Standard,73196,125256,920,10,51
+2520,Pearl,Chevrolet,Z28,Petrol,Standard,55663,73160,127,26,280
+2521,Black,Ford,Taurus,V6,Automatic,38506,43099,649,13,129
+2522,Pearl,Maserati,Spyder,Petrol,Automatic,44905,41882,557,23,64
+2523,Purple,Porsche,Speedster,Inine,Standard,32604,134038,207,5,103
+2524,Orange,Subaru,SVX,Electric,Standard,38545,119367,401,18,409
+2525,Grey,Honda,Civic,Electric,Standard,10903,76079,488,6,333
+2526,Yellow,Mazda,Van,Electric,Automatic,32736,137181,444,17,308
+2527,Purple,Nissan,Terrano,Electric,Standard,48549,109967,182,12,357
+2528,White,Porsche,944,Diesel,Standard,4777,4410,821,26,37
+2529,Yellow,Nissan,Sunny,Diesel,Standard,17133,127293,192,10,187
+2530,Black,BMW,Isetta,Electric,Standard,12001,128012,18,10,409
+2531,Dark Blue,Mercedes Benz,126,Diesel,Automatic,48081,35489,631,19,401
+2532,Light Grey,Kia,Spectra SX,W,Standard,12107,34700,746,26,378
+2533,Pearl,Volkswagen,Colorado,V8,Automatic,8515,108592,638,16,69
+2534,Beige,GMC,Cyclone,V8,Automatic,35285,121998,945,16,473
+2535,Pearl,Pontiac,G6,Inine,Automatic,12459,40747,944,27,366
+2536,Dark Blue,Alfa Romeo,Milano,V6,Standard,10357,19972,252,21,25
+2537,Green,Fiat,Uno,W,Standard,44559,24148,797,8,220
+2538,Dark Green,Toyota,Yaris,W,Automatic,19414,36605,983,20,56
+2539,Pearl,Alfa Romeo,GT,Electric,Automatic,45790,1905,778,25,331
+2540,Dark Green,Ferrari,GTS,W,Standard,10778,128548,912,16,230
+2541,Red,Kia,Sephia,W,Automatic,40367,36612,601,9,328
+2542,Light Grey,Nissan,Versa,Electric,Standard,65750,84633,,1,
+2543,Beige,Suzuki,Aerio,Diesel,Automatic,24268,49394,941,28,350
+2544,Orange,Hyundai,Excel,Petrol,Standard,63849,55411,892,1,209
+2545,Purple,Toyota,Tarago,Inine,Automatic,24924,37824,123,7,446
+2546,Beige,BMW,M Roadster,W,Standard,73275,26038,125,18,360
+2547,White,Volkswagen,Golf II,V6,Standard,23946,10953,,8,
+2548,Beige,Jaguar,XJ40,W,Automatic,6121,142142,657,16,155
+2549,Orange,Fiat,Cinquecento,Inine,Automatic,30955,2856,,22,
+2550,Beige,BMW,7 Series,Electric,Automatic,18577,57101,65,17,443
+2551,Dark Green,Subaru,Leone,Electric,Standard,10282,67565,,11,
+2552,Red,Honda,Concerto,Electric,Automatic,13313,135274,790,17,191
+2553,Pearl,Ferrari,F550,W,Standard,49328,36065,945,16,473
+2554,Red,Hyundai,Matrix,Diesel,Standard,33108,79379,676,3,194
+2555,Dark Green,Fiat,Coupé,Inine,Standard,22845,82989,87,29,107
+2556,Light Grey,Subaru,4x4 Turbo,Electric,Standard,59178,62327,926,18,205
+2557,Red,Kia,Sorento,Electric,Automatic,23517,30229,895,8,140
+2558,Grey,Lexus,GS 400,Electric,Standard,63409,99616,530,1,232
+2559,Dark Grey,Renault,RX4,Petrol,Standard,35466,6491,671,27,58
+2560,Dark Green,Audi,RS 6,W,Standard,56041,11981,908,22,67
+2561,Black,Mazda,B2500,V6,Automatic,39616,10430,910,18,148
+2562,Dark Grey,Lexus,LS 400,V6,Standard,50428,35682,782,17,180
+2563,Purple,Toyota,Yaris,V8,Standard,30578,95721,279,29,311
+2564,Blue,Jaguar,X300,V8,Automatic,19889,24675,,21,
+2565,White,Pontiac,Sunfire,V8,Standard,41522,45032,204,23,294
+2566,Grey,Suzuki,Liana,Electric,Automatic,7555,66080,582,17,411
+2567,Yellow,Ford,Club Wagon,Inine,Automatic,36831,59965,538,6,185
+2568,Red,Pontiac,1000,V6,Automatic,51936,83605,952,4,366
+2569,Dark Green,Suzuki,X-90,V6,Automatic,73274,137660,475,24,373
+2570,Green,Renault,30,Electric,Automatic,5279,89427,340,25,5
+2571,Dark Green,Nissan,NX,Petrol,Standard,68938,145765,257,0,60
+2572,Yellow,BMW,535,W,Standard,42819,32564,312,13,310
+2573,Dark Green,Mazda,121,Diesel,Standard,41019,46007,,28,
+2574,Dark Blue,Lexus,IS 220,Inine,Automatic,45140,139251,32,23,304
+2575,Beige,Kia,Rondo,Diesel,Standard,71205,146732,159,22,261
+2576,Dark Green,Jaguar,XJ6 Serie 3,Inine,Automatic,4390,141074,707,12,178
+2577,Dark Green,Hyundai,XG350,Petrol,Automatic,46614,62466,958,16,215
+2578,Light Grey,Ferrari,F355,Petrol,Automatic,1563,30854,280,7,80
+2579,Dark Grey,Pontiac,Formula,Diesel,Standard,73959,5478,736,3,123
+2580,Beige,Porsche,968,Inine,Standard,41127,47200,,20,
+2581,Pearl,Ferrari,328,V8,Automatic,69008,110512,453,1,50
+2582,Yellow,Mercedes Benz,C320,Inine,Automatic,50431,7349,704,16,75
+2583,Dark Green,Toyota,Matrix,Petrol,Standard,70120,79320,786,2,307
+2584,Blue,Subaru,SVX,W,Automatic,13071,16204,968,21,127
+2585,Orange,Hyundai,Excel,V8,Automatic,7791,12226,958,16,215
+2586,Orange,Maserati,Coupé,Electric,Standard,57341,144041,42,10,185
+2587,Purple,Porsche,928,V8,Standard,50304,38385,754,5,458
+2588,Yellow,BMW,2002,Inine,Automatic,70378,98135,174,28,363
+2589,Grey,Pontiac,LeMans,Electric,Standard,45261,142214,,12,
+2590,Blue,Nissan,Interstar,Diesel,Automatic,37208,147351,869,17,478
+2591,Purple,Maserati,Quattroporte,Electric,Automatic,35618,72049,,11,
+2592,Yellow,Fiat,Tipo (Digital),Electric,Standard,26160,139430,,2,
+2593,Beige,Volkswagen,Polo Variant,W,Automatic,23289,105605,323,0,290
+2594,Purple,Alfa Romeo,145,W,Standard,40782,114971,274,5,301
+2595,Black,Volkswagen,Sharan,V8,Automatic,69353,42185,648,2,348
+2596,Orange,Fiat,Cinquecento,V6,Automatic,35191,89264,824,6,441
+2597,Dark Green,Audi,TT Roadster,Electric,Automatic,16191,53835,32,23,304
+2598,Light Grey,GMC,Rally,Diesel,Automatic,21702,70048,843,20,425
+2599,Black,Suzuki,Samurai,W,Automatic,27296,10635,993,9,157
+2600,Purple,Maserati,Merak,W,Automatic,53462,62580,,2,
+2601,Black,Kia,Rondo,Electric,Standard,33001,130606,,18,
+2602,Dark Green,Toyota,LandCruiser Amazon,Diesel,Standard,23610,119784,531,1,378
+2603,Orange,Audi,Cabriolet,W,Standard,37328,149135,647,29,62
+2604,Black,Chevrolet,Metro,V6,Automatic,54070,18006,602,29,447
+2605,Dark Green,Volkswagen,Multivan,Diesel,Standard,17260,15784,679,11,281
+2606,Yellow,Fiat,Croma,Inine,Automatic,33395,58224,779,22,326
+2607,Pearl,Ford,Anglia,Electric,Standard,52428,1810,571,23,460
+2608,Yellow,BMW,3.0,W,Automatic,22517,148604,487,4,143
+2609,Light Grey,Ford,Freestar,V6,Standard,73229,93929,412,13,425
+2610,Beige,GMC,Caballero,Petrol,Automatic,72451,142224,470,10,301
+2611,Light Grey,Peugeot,Partner,Inine,Standard,2121,149955,417,26,277
+2612,Black,Renault,Alliance,Electric,Automatic,33238,9670,372,21,105
+2613,Pearl,Hyundai,Veracruz,Inine,Standard,10857,55832,,19,
+2614,Light Grey,Volkswagen,Taro,W,Automatic,68905,126538,244,21,203
+2615,Light Grey,Audi,100,V8,Standard,4986,91928,683,17,125
+2616,Dark Blue,Ferrari,575,Electric,Automatic,22606,69931,839,29,90
+2617,Purple,Peugeot,806,V6,Standard,67588,102712,294,0,305
+2618,Beige,Peugeot,307 SW,Electric,Standard,37129,149635,987,4,261
+2619,Dark Green,Fiat,Stilo,Diesel,Automatic,49790,73778,796,13,299
+2620,Dark Grey,Peugeot,605,V6,Standard,13701,43034,583,2,387
+2621,Yellow,Honda,Shuttle,Electric,Automatic,62414,14113,403,18,139
+2622,Yellow,Subaru,4x4 Turbo,Diesel,Standard,52830,29717,140,15,213
+2623,White,Toyota,SportsVan,V8,Automatic,64176,104916,,16,
+2624,Dark Green,Jaguar,XJ40,Petrol,Automatic,36662,22292,636,25,151
+2625,Orange,Subaru,G3X Justy,Inine,Standard,29395,33095,471,10,196
+2626,Red,Pontiac,Catalina,V8,Standard,15288,141240,,27,
+2627,Yellow,Mazda,626 Cronos,V8,Standard,40645,7702,,25,
+2628,Blue,Nissan,Sentra Classic,V6,Automatic,2577,49646,211,19,322
+2629,Purple,Nissan,Terrano,Electric,Standard,6862,134457,987,4,261
+2630,Purple,Alfa Romeo,145,Diesel,Automatic,65488,42695,558,7,366
+2631,Beige,Audi,A6,Electric,Standard,12928,51529,533,1,301
+2632,Dark Blue,Renault,VelSatis,Inine,Standard,70067,140073,557,23,64
+2633,Blue,Renault,Clio,V6,Automatic,73605,19050,809,21,77
+2634,Dark Green,Peugeot,605,V6,Standard,29200,110918,855,19,290
+2635,Green,Suzuki,Sidekick,Diesel,Standard,27551,44098,35,22,66
+2636,Dark Grey,Jaguar,XJ12,V6,Automatic,35018,148236,96,12,303
+2637,Pearl,Mercedes Benz,380,Petrol,Automatic,17384,134611,407,7,117
+2638,Yellow,Suzuki,Jimny,Diesel,Automatic,22137,60203,595,10,397
+2639,Orange,Nissan,Titan,Petrol,Automatic,35976,141331,,2,
+2640,Purple,Renault,Master,V8,Automatic,10093,72968,447,20,288
+2641,Grey,Renault,Modus,V8,Standard,21476,149527,341,2,236
+2642,Purple,Renault,VelSatis,Inine,Automatic,23551,88990,914,7,461
+2643,Dark Green,Ford,Country Squire,V8,Standard,13269,108140,,1,
+2644,Dark Green,BMW,740,W,Automatic,60834,31277,452,18,380
+2645,Dark Grey,Chevrolet,Optra Wagon,V8,Standard,49845,80765,203,6,81
+2646,Purple,Kia,Sephia,Diesel,Automatic,53882,74363,631,19,401
+2647,Green,Alfa Romeo,166,Electric,Standard,10269,108414,205,5,439
+2648,Black,Mazda,Miata,Diesel,Standard,20691,146177,284,8,26
+2649,Dark Blue,Ford,Escape Hybrid,V6,Standard,35044,36823,747,19,352
+2650,Dark Grey,Renault,Scénic,Petrol,Standard,55776,139532,815,7,203
+2651,Beige,BMW,745,Petrol,Automatic,15522,93642,83,27,382
+2652,Dark Blue,Fiat,Croma,Diesel,Automatic,747,141056,,29,
+2653,Dark Grey,Suzuki,Grand Vitara,W,Automatic,3228,140523,83,27,382
+2654,Green,Alfa Romeo,Spider,Diesel,Automatic,58637,115864,697,18,171
+2655,Blue,Ford,Grand Marquis,V8,Standard,61567,27343,,8,
+2656,Dark Blue,Hyundai,Terracan,Diesel,Automatic,16896,119290,512,24,441
+2657,Dark Grey,Subaru,Brat,Petrol,Automatic,74054,103005,775,17,81
+2658,Yellow,Audi,Coupé 20V,V6,Standard,60421,25323,820,7,94
+2659,Dark Green,Nissan,Multi,Petrol,Automatic,63473,126617,643,26,330
+2660,Orange,Hyundai,XG350,Petrol,Standard,41434,43013,8,19,426
+2661,Dark Green,Suzuki,Swift,Inine,Standard,35700,147996,507,5,331
+2662,Light Grey,Jaguar,S-Type,V8,Standard,52941,55450,89,14,405
+2663,Dark Blue,Honda,CR-V,Petrol,Automatic,20498,125262,23,10,205
+2664,Blue,Mercedes Benz,103,Petrol,Standard,39597,31569,650,23,467
+2665,Blue,Pontiac,Firefly,Electric,Standard,44498,75818,332,9,428
+2666,White,Jaguar,Super V8,W,Automatic,8334,18500,434,9,191
+2667,Dark Green,Subaru,Loyale,Inine,Automatic,39501,125776,104,20,340
+2668,Dark Green,Nissan,L50,V8,Automatic,20341,105168,204,23,294
+2669,Blue,Mercedes Benz,C350,V6,Automatic,68435,14358,373,27,176
+2670,Pearl,Subaru,GL,V8,Standard,33864,3831,867,0,178
+2671,Purple,Alfa Romeo,155,Inine,Automatic,64381,32107,384,9,459
+2672,Beige,Peugeot,604,Diesel,Standard,9664,1766,720,18,353
+2673,Grey,Nissan,L60,Petrol,Standard,69387,63565,816,25,15
+2674,Pearl,Renault,Alliance,Inine,Standard,37763,40805,293,26,35
+2675,Dark Blue,Peugeot,405,Petrol,Standard,54795,88298,341,2,236
+2676,Blue,Subaru,Liberty,V8,Standard,14274,113153,,15,
+2677,Red,Ford,E-250,Diesel,Automatic,19833,57143,618,1,258
+2678,Dark Blue,Ford,Fairlane,V8,Standard,56631,102790,575,28,75
+2679,Dark Grey,Audi,RS 4,Diesel,Standard,51172,106604,,18,
+2680,Pearl,Peugeot,406,W,Standard,64419,85489,294,0,305
+2681,Pearl,Renault,30,Diesel,Standard,28516,71461,169,0,379
+2682,Black,GMC,Suburban,Inine,Automatic,46534,33408,168,9,106
+2683,White,Toyota,Station Wagon,W,Standard,22028,72846,,20,
+2684,White,Nissan,200SX,Diesel,Automatic,63671,53652,,27,
+2685,White,Honda,Civic DelSol,Petrol,Standard,60026,3801,139,19,480
+2686,Dark Blue,Suzuki,Vitara,V8,Automatic,60732,117071,438,28,322
+2687,Dark Blue,Peugeot,807,Inine,Standard,29337,19433,,16,
+2688,Beige,Jaguar,XJ Series,Electric,Automatic,62352,140982,528,23,36
+2689,Blue,Peugeot,205,Petrol,Standard,65207,127920,37,21,435
+2690,Grey,Peugeot,806,V6,Automatic,17412,11183,,1,
+2691,Black,Volkswagen,Golf III Cabrio,V6,Standard,8709,110117,942,12,400
+2692,Dark Grey,Pontiac,Grand Am,W,Standard,13102,137044,975,16,25
+2693,Light Grey,Mazda,6 Sport,Inine,Automatic,26401,15066,7,9,100
+2694,Beige,Pontiac,Scooter,Diesel,Automatic,11090,77816,359,20,156
+2695,Light Grey,Nissan,Cargo,V8,Automatic,68471,27427,292,27,257
+2696,Beige,Suzuki,Jimny,V8,Standard,36764,138155,772,24,422
+2697,Pearl,Ford,Tudor,Diesel,Standard,4347,49515,370,27,393
+2698,Pearl,Kia,Shuma II,Inine,Automatic,70690,137606,,24,
+2699,Blue,Suzuki,SX4,Petrol,Automatic,7965,49377,448,17,198
+2700,Light Grey,Mercedes Benz,Vito,Electric,Standard,2887,1601,675,2,486
+2701,Yellow,Volkswagen,Dasher,Petrol,Standard,40074,51393,467,6,153
+2702,Pearl,Ferrari,F355,Diesel,Automatic,27017,45887,814,6,162
+2703,White,Hyundai,Santa Fe,V6,Standard,1729,110326,,1,
+2704,Grey,Audi,A6,V8,Automatic,33113,39180,714,7,304
+2705,Dark Grey,GMC,Sprint,Inine,Automatic,58714,142776,332,9,428
+2706,Beige,Mercedes Benz,450,W,Automatic,24870,35454,419,20,67
+2707,White,Porsche,Carrera GT,Inine,Standard,25329,97451,334,4,126
+2708,White,Fiat,Tipo (Digital),V8,Automatic,4020,6565,785,20,372
+2709,Dark Blue,Mercedes Benz,123,Petrol,Automatic,14679,62052,799,25,119
+2710,Grey,Audi,100 C4 Series,W,Automatic,14168,35301,728,9,109
+2711,Red,BMW,5 Series,Diesel,Automatic,61852,137503,651,24,70
+2712,Dark Green,Porsche,911,W,Standard,22308,120146,948,23,261
+2713,Orange,Jaguar,XK,V6,Standard,10826,118605,559,27,237
+2714,Purple,Nissan,Pulsar,Inine,Standard,32933,88224,810,7,376
+2715,Dark Green,Alfa Romeo,159,W,Automatic,26141,38506,757,3,47
+2716,Pearl,Honda,MDX,V6,Automatic,35991,48554,237,12,384
+2717,Pearl,Subaru,Justy,V8,Standard,45572,142264,,9,
+2718,Light Grey,Subaru,Outback,Inine,Automatic,56309,34721,640,27,339
+2719,Dark Grey,Kia,Sephia II,V6,Automatic,35112,113174,967,24,36
+2720,Purple,Pontiac,Grand Prix,V8,Standard,35938,98420,833,18,482
+2721,Blue,Mercedes Benz,S320,V8,Standard,45038,108281,424,28,390
+2722,Red,Suzuki,Baleno,Petrol,Standard,47113,101012,908,22,67
+2723,Grey,Renault,Scénic,Petrol,Standard,47644,89468,401,18,409
+2724,Orange,Nissan,240Z,Inine,Automatic,68080,3631,,6,
+2725,Green,Hyundai,Accent,Petrol,Automatic,9518,149113,756,15,205
+2726,Black,BMW,M3,Inine,Automatic,24271,80952,,11,
+2727,Purple,GMC,Safari,Inine,Automatic,62454,43025,526,26,466
+2728,White,Mazda,Millenia,V8,Standard,44087,68932,170,2,234
+2729,Red,Alfa Romeo,75,V6,Standard,21176,52364,,18,
+2730,Green,Ferrari,500,W,Automatic,74530,116770,63,23,216
+2731,Grey,Mercedes Benz,SLK-Class,W,Standard,10372,96359,910,18,148
+2732,Blue,Mazda,5,Petrol,Automatic,49040,45458,871,20,483
+2733,Purple,Renault,Clio,Diesel,Standard,50096,10398,316,1,407
+2734,Dark Green,Mazda,929,V8,Automatic,21222,73239,129,5,157
+2735,Red,Suzuki,Baleno,W,Standard,63078,92036,355,13,47
+2736,Dark Green,Subaru,Outback,Electric,Automatic,50621,87964,48,16,33
+2737,Beige,Kia,Picanto,V8,Automatic,59635,118902,,23,
+2738,Blue,Renault,21,Diesel,Automatic,30810,90284,505,1,324
+2739,Red,Kia,Rondo,Inine,Automatic,19283,48771,201,1,331
+2740,Light Grey,Alfa Romeo,33,V6,Automatic,20830,78601,424,28,390
+2741,Dark Blue,Ford,Thunderbird,Electric,Standard,31338,100765,370,27,393
+2742,Black,Alfa Romeo,GTV,Diesel,Automatic,42178,67515,,10,
+2743,Green,Toyota,MR2,V8,Standard,7774,19080,42,10,185
+2744,Red,Honda,Civic Si,Electric,Standard,73181,71485,155,25,127
+2745,Green,Mercedes Benz,C32,V8,Standard,17479,52758,182,12,357
+2746,Dark Grey,Nissan,Sentra Classic,W,Standard,24286,126725,,17,
+2747,Dark Green,Peugeot,806,Inine,Standard,15261,4781,301,25,196
+2748,Dark Blue,BMW,550,Electric,Standard,42518,136698,691,7,26
+2749,Green,Peugeot,307 SW,Diesel,Automatic,11951,106864,429,21,463
+2750,Red,Alfa Romeo,GT,V8,Automatic,31714,143265,,24,
+2751,Black,Ferrari,330,Diesel,Automatic,46262,131022,,29,
+2752,Purple,Audi,Coupé,Diesel,Automatic,24661,40648,910,18,148
+2753,Blue,Subaru,Forester,Electric,Automatic,38786,52185,45,13,403
+2754,Light Grey,Mercedes Benz,Actros,W,Automatic,11155,79910,341,2,236
+2755,Red,Alfa Romeo,33,V6,Standard,48652,102820,465,14,389
+2756,Black,Subaru,Loyale,W,Standard,40909,131458,,22,
+2757,White,Volkswagen,City Golf,Inine,Standard,42197,58537,120,25,153
+2758,Pearl,Mercedes Benz,SLK-Class,V6,Standard,14223,60445,,20,
+2759,Light Grey,Subaru,Forester,V6,Automatic,38962,50528,340,25,5
+2760,Beige,Toyota,Yaris Verso,Diesel,Automatic,6040,33928,266,7,303
+2761,Pearl,Pontiac,Wave,Diesel,Standard,46132,76316,,27,
+2762,Dark Green,Ford,EXP,V8,Automatic,3288,69914,388,8,432
+2763,White,BMW,650,Inine,Automatic,29659,3190,,15,
+2764,Blue,Hyundai,XG350,Diesel,Standard,8509,28334,724,23,484
+2765,Black,Suzuki,Verona,W,Standard,62863,39793,590,16,143
+2766,Dark Blue,BMW,530,Inine,Automatic,59645,51039,571,23,460
+2767,Yellow,Honda,CR-V,Electric,Automatic,54089,6063,305,5,114
+2768,Dark Grey,GMC,Yukon XL,Petrol,Standard,58499,139606,395,26,168
+2769,Dark Grey,Peugeot,107,Diesel,Automatic,43746,106908,991,16,250
+2770,Blue,Mercedes Benz,A-Class,Inine,Standard,44913,38610,,3,
+2771,Blue,Hyundai,Entourage,Inine,Standard,15837,64970,946,23,388
+2772,Orange,Subaru,Justy,Inine,Automatic,14839,128680,,22,
+2773,Light Grey,BMW,745,W,Automatic,37185,119641,242,2,471
+2774,Yellow,Suzuki,Jimny,Petrol,Automatic,17095,85501,969,22,450
+2775,Black,Pontiac,Grand Prix,W,Automatic,2235,52534,,1,
+2776,Grey,Mazda,6,Diesel,Automatic,15989,108379,671,27,58
+2777,Orange,Jaguar,XK Series,V8,Standard,11507,141266,625,16,103
+2778,Green,Jaguar,XJ-SC,V8,Standard,23281,101591,884,21,439
+2779,Red,Renault,Laguna,V8,Standard,48224,68899,676,3,194
+2780,Red,Honda,Civic,Inine,Automatic,57151,48550,,9,
+2781,White,Subaru,Legacy,V6,Automatic,66586,144654,425,21,302
+2782,Dark Grey,Volkswagen,Type III,Petrol,Standard,56562,145062,,25,
+2783,Dark Green,Kia,Opirus,Diesel,Automatic,61739,110433,745,26,403
+2784,Red,Alfa Romeo,GTV-6,W,Automatic,65308,109896,145,29,118
+2785,Black,Suzuki,Samurai,W,Standard,23455,79843,768,12,234
+2786,Green,Lexus,ES 350,W,Automatic,54145,113071,808,20,284
+2787,Light Grey,Fiat,Punto Grande,Petrol,Standard,36773,129313,362,15,11
+2788,Orange,Ferrari,348,Diesel,Standard,24990,117298,357,28,72
+2789,Light Grey,Pontiac,Trans Am,V8,Standard,13348,75973,353,19,206
+2790,Dark Blue,Honda,Civic Si,W,Standard,47488,25575,677,11,56
+2791,Green,Volkswagen,Golf III Cabrio,Petrol,Standard,12905,107368,,15,
+2792,Dark Green,Alfa Romeo,159,V6,Automatic,41726,46031,40,0,92
+2793,Dark Green,Toyota,LandCruiser 70,Inine,Standard,3029,129893,148,7,146
+2794,Black,Ford,F-650,V6,Standard,59926,141107,713,22,493
+2795,Light Grey,Mazda,6,W,Automatic,24081,146861,,14,
+2796,Dark Grey,Audi,Quattro,W,Automatic,17808,2976,149,24,66
+2797,Orange,Nissan,Versa,V8,Standard,53019,46380,750,5,481
+2798,Light Grey,Nissan,Primastar,Petrol,Standard,74337,41982,539,0,241
+2799,Grey,Subaru,GL,V8,Standard,7267,22900,638,16,69
+2800,Purple,Nissan,King Cab,Diesel,Standard,22748,91421,458,5,498
+2801,Beige,Toyota,Solara,Inine,Standard,34571,26796,802,10,364
+2802,Blue,Porsche,Spyder,Petrol,Automatic,23249,8957,114,27,85
+2803,Red,Pontiac,Grand Prix,Petrol,Automatic,14689,32835,253,10,310
+2804,Light Grey,Hyundai,Accent,Diesel,Automatic,5498,97683,,2,
+2805,Purple,Subaru,Legacy,Inine,Standard,2139,5678,244,21,203
+2806,Dark Blue,Chevrolet,Chevelle,V8,Standard,41142,133816,944,27,366
+2807,Dark Green,Volkswagen,Phaeton,Inine,Standard,37288,50971,119,10,2
+2808,Grey,Pontiac,Montana SV6,Inine,Automatic,24953,59864,467,6,153
+2809,Yellow,Ford,Zephyr,Electric,Automatic,26573,10738,622,4,320
+2810,Dark Blue,Ferrari,612,Petrol,Automatic,72062,124101,596,24,281
+2811,Grey,Renault,18,Electric,Standard,66391,70958,547,5,31
+2812,Blue,Hyundai,Sonata,Electric,Automatic,45108,119573,,21,
+2813,Dark Blue,Porsche,Carrera,V8,Standard,45518,97989,434,9,191
+2814,Yellow,Lexus,ES 300,Inine,Automatic,36353,14073,850,25,44
+2815,Green,Alfa Romeo,156,V8,Automatic,59492,119233,,18,
+2816,Red,Alfa Romeo,146,Electric,Automatic,36826,9663,,23,
+2817,Purple,Nissan,NX,Electric,Automatic,32624,18137,477,22,79
+2818,Dark Blue,Honda,Fit,V6,Automatic,68847,122828,465,14,389
+2819,Light Grey,Subaru,SVX,W,Automatic,54865,77499,843,20,425
+2820,Pearl,Mazda,Protegé5,Diesel,Standard,3433,14618,,28,
+2821,Black,Jaguar,XJ,Inine,Automatic,29656,80311,69,22,187
+2822,Blue,Maserati,Shamal,V6,Standard,71576,65292,270,19,154
+2823,Dark Grey,Kia,Visto,W,Automatic,39076,98157,,28,
+2824,Red,Alfa Romeo,146,Diesel,Automatic,61912,77792,188,27,333
+2825,Dark Green,GMC,Blazer Fullsize,W,Standard,60550,55285,,4,
+2826,Purple,Pontiac,Safari,Petrol,Automatic,14296,31265,839,29,90
+2827,Dark Blue,Renault,LeCar,V6,Standard,10935,63261,203,6,81
+2828,Red,Chevrolet,Nova,W,Automatic,6460,143663,175,23,21
+2829,Green,Audi,A6,Diesel,Standard,26513,123488,754,5,458
+2830,Purple,Volkswagen,Polo,Petrol,Standard,1113,77381,219,24,190
+2831,Dark Blue,Alfa Romeo,Alfetta,V8,Automatic,18005,18636,159,22,261
+2832,Beige,Porsche,944,Electric,Automatic,45105,88541,476,3,208
+2833,Black,Volkswagen,New Beetle Cabrio,Inine,Standard,19587,82661,670,16,381
+2834,Purple,Hyundai,Azera,Diesel,Standard,18294,22859,21,4,110
+2835,Green,Nissan,Note,V6,Standard,3268,31117,140,15,213
+2836,Pearl,BMW,M Coupe,W,Standard,65718,125959,548,0,245
+2837,Pearl,Chevrolet,Chevelle,V8,Automatic,48841,19743,,12,
+2838,Grey,Mazda,GLC,V8,Automatic,30314,136095,495,15,379
+2839,Black,Hyundai,Coupé,Inine,Standard,27068,60532,252,21,25
+2840,Red,Ferrari,550,Electric,Automatic,6712,35427,786,2,307
+2841,Dark Green,Fiat,Punto,Petrol,Standard,50504,135829,188,27,333
+2842,Red,Fiat,Dino,Electric,Automatic,42420,60418,,27,
+2843,Pearl,GMC,Cyclone,V6,Standard,17922,32279,,7,
+2844,Purple,Peugeot,Expert,Inine,Automatic,63694,7935,390,11,274
+2845,Pearl,BMW,530,W,Automatic,16166,119817,593,22,414
+2846,Dark Green,Mazda,6 Sport Wagon,V8,Standard,23709,66474,320,20,257
+2847,Red,Renault,LeCar,Electric,Standard,62093,28370,345,16,83
+2848,Pearl,Volkswagen,Taro,Diesel,Standard,50512,50709,,2,
+2849,White,Subaru,SVX,Petrol,Standard,42612,69255,937,20,271
+2850,Pearl,Renault,Clio,Petrol,Automatic,39627,31289,918,17,247
+2851,Green,Mercedes Benz,500,Petrol,Standard,45020,109343,111,29,329
+2852,Pearl,Renault,19,Diesel,Automatic,30963,43366,135,19,91
+2853,Dark Blue,Fiat,Spider,V8,Automatic,26518,103494,802,10,364
+2854,Pearl,Honda,Legend,Diesel,Standard,33732,36121,374,7,277
+2855,White,Mercedes Benz,C350,V6,Standard,54070,94136,348,22,57
+2856,Black,Chevrolet,Avalanche,V8,Automatic,10058,132523,648,2,348
+2857,Grey,Hyundai,Atos,V6,Automatic,47435,53423,98,18,209
+2858,Dark Blue,Ford,LTD,V8,Automatic,29829,103445,791,17,72
+2859,Grey,Maserati,430,Inine,Standard,68016,71173,452,18,380
+2860,Pearl,Lexus,Harrier 4x4,Inine,Automatic,64147,61830,951,1,65
+2861,Dark Blue,Volkswagen,City Golf,Inine,Automatic,58405,3295,464,11,202
+2862,White,Alfa Romeo,145,V8,Automatic,67637,50792,160,16,160
+2863,Grey,Peugeot,107,Inine,Standard,47986,119247,74,8,375
+2864,White,Jaguar,XKR,Petrol,Automatic,732,98620,286,29,208
+2865,Yellow,Lexus,GX 470,V6,Standard,24810,40230,246,26,78
+2866,White,GMC,Envoy XL,W,Automatic,22353,15123,,27,
+2867,Dark Blue,Volkswagen,Combi,Diesel,Standard,37337,84571,536,27,140
+2868,Light Grey,Ferrari,288,Petrol,Automatic,28496,20363,149,24,66
+2869,Dark Blue,Mazda,B3000,Diesel,Automatic,8292,93326,482,4,275
+2870,Dark Blue,Toyota,Van,Diesel,Standard,31961,20145,85,24,333
+2871,Purple,Jaguar,Sovereign,Diesel,Standard,61117,40554,273,18,128
+2872,Light Grey,Kia,Rio,V6,Standard,28405,58129,992,20,88
+2873,Purple,Hyundai,Stellar,Inine,Standard,17140,119374,112,7,461
+2874,Red,Ford,Model T,Electric,Standard,65640,28781,600,10,493
+2875,Light Grey,BMW,3.0,V6,Standard,47558,44867,678,24,427
+2876,Blue,Fiat,Doblò,Inine,Automatic,32765,37502,12,13,67
+2877,White,Fiat,X1/9,Diesel,Automatic,35550,135970,53,5,272
+2878,Light Grey,BMW,750,V8,Automatic,46243,107191,669,10,383
+2879,Red,BMW,733,Electric,Standard,69654,38962,188,27,333
+2880,Yellow,Fiat,Barchetta,Diesel,Automatic,34476,33452,457,21,250
+2881,Pearl,Suzuki,Swift+,Petrol,Automatic,52898,37507,433,17,415
+2882,Dark Green,Audi,RS 6,Inine,Standard,68778,133579,620,12,476
+2883,Light Grey,Suzuki,Jimny,Petrol,Standard,26358,136127,159,22,261
+2884,Blue,Nissan,Interstar,Electric,Standard,17564,47326,,15,
+2885,Dark Grey,Toyota,Tacoma,W,Standard,13333,106129,867,0,178
+2886,Blue,Ferrari,328,W,Standard,58056,86960,161,23,130
+2887,Beige,Ford,Ranchero,W,Standard,63788,142656,686,1,316
+2888,Orange,Pontiac,Formula,Inine,Standard,38510,56705,524,3,300
+2889,Dark Grey,Toyota,AYGO,V8,Automatic,14416,102109,573,5,37
+2890,Beige,Suzuki,Wagon,V6,Standard,33807,50520,934,7,21
+2891,Black,Volkswagen,Golf Cabriolet,Electric,Standard,53203,66278,727,4,383
+2892,Orange,Fiat,Doblò,Petrol,Automatic,10287,126900,621,17,200
+2893,Beige,BMW,630,W,Standard,40709,105690,,14,
+2894,Purple,Suzuki,Liana,Diesel,Standard,23763,74684,,17,
+2895,White,Mazda,GLC,V8,Automatic,66472,66896,883,16,35
+2896,Dark Green,Ferrari,Spider,V8,Standard,10154,148469,555,28,341
+2897,Beige,Toyota,Tundra,Petrol,Automatic,71559,25759,946,23,388
+2898,Grey,Toyota,Celica,Petrol,Standard,22550,42128,,6,
+2899,Light Grey,Alfa Romeo,GT,W,Automatic,47211,51104,782,17,180
+2900,Green,Fiat,Ulysse,Diesel,Standard,8790,109883,837,15,463
+2901,Orange,Toyota,LandCruiser 90,Diesel,Automatic,39853,55219,408,20,19
+2902,Dark Green,Maserati,420,W,Automatic,18456,126029,237,12,384
+2903,Blue,Ferrari,340,Diesel,Automatic,69168,32830,123,7,446
+2904,Pearl,Lexus,SC 400,Diesel,Automatic,38491,77667,,3,
+2905,Pearl,Alfa Romeo,147,W,Automatic,20139,107511,397,13,317
+2906,Yellow,Suzuki,X-90,W,Automatic,2327,24426,,14,
+2907,Blue,Mazda,Tribute,W,Automatic,73310,62953,506,23,125
+2908,Orange,Subaru,Justy,V6,Standard,46911,74852,255,0,128
+2909,Grey,Ford,Granada,Inine,Automatic,28768,5546,,1,
+2910,Purple,Nissan,Versa,Inine,Standard,55792,2915,78,17,142
+2911,Green,Mazda,E-series,Electric,Standard,68410,102866,276,26,22
+2912,Beige,Jaguar,Vanden Plas,Electric,Standard,30118,52147,105,3,453
+2913,Purple,Alfa Romeo,145,Inine,Automatic,59020,61560,,6,
+2914,Red,BMW,1 Series,Diesel,Standard,17282,84946,,24,
+2915,Dark Green,Fiat,Palio,W,Standard,21272,50258,,25,
+2916,Grey,Honda,Stream,W,Automatic,38410,134751,834,16,467
+2917,Orange,BMW,335,V6,Automatic,37732,18450,,10,
+2918,White,Pontiac,GTO,Electric,Automatic,52920,27041,709,14,177
+2919,Green,Audi,A4,V8,Automatic,32489,96678,276,26,22
+2920,Pearl,Renault,Master,Inine,Standard,57679,103103,328,5,433
+2921,White,Fiat,Ulysse II,Electric,Standard,32706,144715,751,4,409
+2922,Blue,Audi,200,Inine,Automatic,54414,148005,958,16,215
+2923,White,Subaru,4x4 Turbo,V6,Automatic,42946,143614,420,14,240
+2924,Pearl,Suzuki,Forsa,W,Standard,64868,37437,356,7,47
+2925,White,Kia,Optima,V6,Standard,14083,14330,,19,
+2926,Dark Grey,Honda,Prelude,Petrol,Automatic,39937,58945,562,2,396
+2927,Pearl,Renault,Clio,V6,Standard,40156,139034,703,25,159
+2928,Dark Blue,BMW,323,W,Standard,27099,69160,400,2,243
+2929,Blue,Renault,17,V6,Standard,57366,55237,121,16,31
+2930,Yellow,Alfa Romeo,33,Petrol,Standard,34462,9457,479,18,205
+2931,Black,Suzuki,XL7,Petrol,Standard,70409,94861,,29,
+2932,Dark Green,Jaguar,XJ6 Serie 2,V8,Standard,50523,29401,122,22,255
+2933,Red,Lexus,ES 350,Inine,Automatic,25049,140963,,22,
+2934,Red,Suzuki,Wagon,V6,Automatic,62640,41157,142,3,161
+2935,Blue,Maserati,420,Inine,Standard,33093,106535,322,9,474
+2936,Dark Blue,Mercedes Benz,500,W,Standard,74232,8685,89,14,405
+2937,Green,Volkswagen,Caddy,Electric,Automatic,38746,116009,,11,
+2938,Pearl,Hyundai,Sonata,Petrol,Automatic,12175,65225,206,22,381
+2939,Black,BMW,M Coupe,V6,Automatic,54332,45288,532,17,271
+2940,Dark Grey,Lexus,LS 400,Diesel,Standard,54514,77203,536,27,140
+2941,Blue,Peugeot,607,Electric,Standard,46045,85530,,28,
+2942,Yellow,Volkswagen,New Beetle,Inine,Standard,31810,21587,743,7,350
+2943,Light Grey,Ford,Ranchero,Electric,Automatic,44336,146858,528,23,36
+2944,Yellow,Volkswagen,T4 Pickup,Inine,Standard,38929,97921,1,22,285
+2945,Grey,GMC,Sprint,W,Automatic,44312,122860,920,10,51
+2946,Green,Volkswagen,Combi,Petrol,Standard,27654,87270,592,19,174
+2947,Blue,Volkswagen,New Beetle Cabrio,Inine,Standard,62823,84528,855,19,290
+2948,White,Volkswagen,Golf,V6,Standard,73924,16361,541,19,333
+2949,Purple,Pontiac,Safari,V8,Standard,15890,133407,604,22,54
+2950,Pearl,Hyundai,Stellar,W,Standard,45429,57449,774,15,327
+2951,Red,Suzuki,Samurai,Petrol,Standard,33377,117122,34,16,144
+2952,Orange,Chevrolet,Beretta,W,Automatic,55687,135425,902,4,6
+2953,Dark Green,Peugeot,807,Electric,Automatic,67511,145290,262,0,5
+2954,Beige,GMC,Sonoma,Petrol,Standard,20382,67269,,9,
+2955,Blue,Toyota,LandCruiser,Diesel,Automatic,2833,38319,71,13,31
+2956,Orange,Chevrolet,Caprice,V6,Automatic,4278,2045,728,9,109
+2957,Blue,Ferrari,328,V8,Automatic,66092,20704,,0,
+2958,Red,Ferrari,735,Diesel,Standard,67029,21087,155,25,127
+2959,Light Grey,Renault,Clio,Electric,Standard,14540,51826,34,16,144
+2960,Beige,Hyundai,Coupé,Inine,Automatic,55076,46682,579,5,206
+2961,Dark Blue,Pontiac,J2000,Inine,Automatic,53724,41856,971,15,80
+2962,Beige,Volkswagen,City Golf,Diesel,Automatic,8120,54282,283,28,430
+2963,Green,Kia,Spectra EX,Diesel,Automatic,66364,10384,71,13,31
+2964,Orange,Porsche,959,Electric,Automatic,38288,135197,681,21,433
+2965,Yellow,Mazda,Metro,Diesel,Automatic,21755,99409,46,15,336
+2966,White,Ferrari,355,Diesel,Standard,43069,69223,342,6,221
+2967,Dark Grey,Honda,Prelude,V8,Standard,25850,1453,52,8,398
+2968,Beige,Suzuki,XL7,Electric,Standard,10127,74132,,9,
+2969,Dark Green,Ferrari,355,W,Automatic,18015,43157,164,29,456
+2970,Pearl,Volkswagen,T5 Pickup,V6,Automatic,65156,62872,108,14,44
+2971,Dark Grey,Chevrolet,Corsica,Electric,Standard,33950,132200,718,14,258
+2972,Beige,Mercedes Benz,420,Electric,Standard,16934,66853,3,13,215
+2973,Purple,Fiat,Cinquecento,V8,Standard,33150,124775,302,15,164
+2974,Blue,Jaguar,XJ6,Electric,Standard,3246,139470,511,17,427
+2975,Blue,Audi,Cabriolet,Inine,Automatic,54774,67506,75,28,307
+2976,Green,Chevrolet,Celebrity,Inine,Standard,74220,14205,614,14,26
+2977,Pearl,Honda,N600,Electric,Automatic,25058,96645,141,21,431
+2978,Dark Grey,Chevrolet,Blazer,V6,Automatic,5103,44985,914,7,461
+2979,Red,Alfa Romeo,Milano,W,Automatic,6645,147824,,24,
+2980,Red,Chevrolet,Trailblazer,Petrol,Automatic,59819,125471,817,24,247
+2981,White,Peugeot,107,Petrol,Automatic,30853,102650,,27,
+2982,Green,Suzuki,Verona,V6,Standard,47530,61233,64,20,253
+2983,Grey,Subaru,Outback,Electric,Standard,57174,9476,191,17,280
+2984,Dark Blue,GMC,Caballero,W,Standard,30450,139375,894,21,301
+2985,Pearl,Pontiac,Aztek,W,Standard,17881,115977,300,8,204
+2986,Dark Blue,Ferrari,315,V8,Standard,48190,60308,585,11,147
+2987,Beige,Kia,Carnival,Petrol,Automatic,3609,123365,137,24,428
+2988,Green,Maserati,3500 GT,Diesel,Automatic,32716,41971,305,5,114
+2989,Red,Pontiac,Pursuit,W,Automatic,52170,57606,988,11,121
+2990,Orange,Nissan,Terrano,W,Standard,42926,34907,662,11,339
+2991,Green,Fiat,Seicento,Electric,Automatic,37055,93272,781,4,27
+2992,Blue,Pontiac,Solstice,Inine,Standard,41678,85532,,21,
+2993,Black,Fiat,Ducato,Diesel,Standard,72514,52403,,16,
+2994,Black,Peugeot,1007,Petrol,Standard,13533,5329,308,19,148
+2995,Yellow,GMC,Envoy XUV,W,Automatic,21257,141160,,11,
+2996,Beige,Porsche,911,W,Standard,4422,35939,450,20,122
+2997,Black,Mercedes Benz,SLK230,Diesel,Automatic,2450,50008,,25,
+2998,Grey,Toyota,MR2,Electric,Automatic,66501,75541,839,29,90
+2999,Black,Kia,Magentis,Inine,Standard,74471,107970,105,3,453
+3000,Dark Green,Jaguar,XJ6,W,Automatic,27997,139611,581,5,202
+3001,Dark Grey,Chevrolet,Monte Carlo,Inine,Standard,60015,79459,165,28,63
+3002,Purple,Lexus,IS 220,V6,Standard,38560,3006,846,9,463
+3003,Orange,BMW,530,Petrol,Standard,60969,21081,800,2,265
+3004,Dark Green,Peugeot,Boxer,V8,Standard,60644,22633,137,24,428
+3005,Grey,Porsche,944,Diesel,Standard,16800,8452,150,21,197
+3006,Blue,Suzuki,Grand Vitara,Inine,Automatic,31664,6563,978,5,78
+3007,Dark Green,BMW,M5,Inine,Standard,68188,43601,530,1,232
+3008,Blue,Kia,Rio,V6,Standard,17424,98563,519,22,63
+3009,Purple,Lexus,IS 250,V6,Automatic,5381,61124,732,17,116
+3010,Green,Hyundai,Entourage,V8,Standard,3298,145164,571,23,460
+3011,Dark Green,Ford,Puma,Diesel,Standard,13153,148307,698,5,255
+3012,Yellow,Ferrari,Spider,Petrol,Standard,33191,114291,693,11,366
+3013,Dark Blue,Lexus,SC 300,V6,Automatic,6485,71585,526,26,466
+3014,White,Kia,Carens,Petrol,Standard,18558,9273,819,7,364
+3015,Blue,BMW,X5,Electric,Automatic,28198,37218,,16,
+3016,Light Grey,Maserati,GranSport Spyder,Electric,Standard,62463,77971,143,16,91
+3017,Beige,Subaru,Baja,W,Standard,13716,14829,326,25,40
+3018,Dark Green,Nissan,Roadster,Diesel,Standard,62800,62550,668,9,418
+3019,White,Subaru,Justy,V6,Automatic,64656,19430,872,22,25
+3020,Black,Kia,Besta,V6,Automatic,43555,77133,272,4,3
+3021,Pearl,Volkswagen,Golf Plus,Electric,Automatic,53848,84086,825,11,353
+3022,Dark Blue,Mercedes Benz,107,Inine,Standard,63973,25760,93,0,57
+3023,Red,Fiat,Dino,V8,Standard,31705,31462,398,24,459
+3024,Pearl,Chevrolet,Monte Carlo,Petrol,Standard,70445,46306,915,26,392
+3025,Grey,Fiat,Seicento,V8,Standard,19751,74289,492,8,374
+3026,Light Grey,Porsche,968,Inine,Automatic,37797,46440,642,20,36
+3027,Red,Subaru,Leone,Inine,Automatic,42916,103778,,10,
+3028,Pearl,Hyundai,Tucson,Petrol,Automatic,45553,78429,226,14,281
+3029,Dark Green,Ferrari,340,Petrol,Standard,56335,76018,787,20,478
+3030,White,GMC,Blazer Fullsize,Petrol,Automatic,73966,14945,366,25,102
+3031,Dark Grey,Hyundai,Matrix,Petrol,Automatic,63389,64094,,17,
