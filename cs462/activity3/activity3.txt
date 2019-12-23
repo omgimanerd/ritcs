@@ -1,0 +1,29 @@
+# Activity 3
+Alvin Lin (axl1439)
+
+## Details
+Ciphertext: 1000011001110010101101011100
+Private key: 231280153
+Original Message (ASCII): DUCK
+Time to break: 25.483 seconds
+Method used: Brute force factoring, brute force modular inverse
+
+## Attached files
+rsa.py - python file used to brute force the prime factors and public key
+
+## Expected Program Output
+```
+$ time python rsa.py
+Ciphertext: 1000011001110010101101011100 base 2 = 140979036 base 10
+n: 276811163
+e: 73
+Factored n = p * q = 16529 * 16747
+phi(n) = (p - 1) * (q - 1) = 276777888
+private key = e^-1 mod phi = 231280153
+Decrypted ciphertext base 10: 144007627
+Decrypted ciphertext in ASCII: DUCK
+
+real	0m25.483s
+user	0m25.472s
+sys	0m0.008s
+```
