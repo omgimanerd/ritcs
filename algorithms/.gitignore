@@ -1,0 +1,15 @@
+*.class
+*.aux
+*.log
+*.iml
+.idea/*
+out/
+target/
+output-*
+data/*/*/output*
+data/hw2/problem5/input6
+data/hw2/problem5/huge*
+data/hw3/problem2/input????
+data/hw3/problem1/input6
+data/hw3/problem1/answer6
+tags
