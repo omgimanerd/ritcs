@@ -1,0 +1,29 @@
+/**
+ * Array Manipulation in Prolog
+ * Author: Alvin Lin (axl1439)
+ */
+
+array(0, _, []).
+array(L, V, [V|T]) :- L > 0, L2 is L - 1, array(L2, V, T).
+
+array_len([], 0).
+array_len([_|T], L) :- array_len(T, L2), L is L2 + 1.
+
+index(0, [V|_], V).
+index(I, [H|T], V) :- V \== H, index(I2, T, V), I is I2 + 1.
+
+set_index(0, [_|T], V, [V|T]).
+set_index(I, [H|T], V, [H|T2]) :- set_index(I2, T, V, T2), I is I2 + 1.
+
+map(_, [], []).
+map(P, [H1|T1], [H2|T2]) :- map(P, T1, T2), call(P, H1, H2).
+
+matrix(0, _, _, []).
+matrix(R, C, V, [H|T]) :- array(C, V, H), R > 0, R2 is R - 1, matrix(R2, C, V, T).
+
+num_rows(M, R) :- array_len(M, R).
+
+num_cols([H|_], C) :- array_len(H, C).
+
+index(0, C, [H|_], V) :- index(C, H, V).
+index(R, C, [_|T], V) :- index(R2, C, T, V), R is R2 + 1.

@@ -1,0 +1,2 @@
+|= tests to make sure that this is a binary expression, not unary =|
+x := -y z

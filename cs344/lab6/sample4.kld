@@ -1,0 +1,8 @@
+begin
+    i := 10
+    sum := 0
+    while i begin
+        sum := + sum i
+        i := - i 1
+    end
+end

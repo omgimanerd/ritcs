@@ -1,0 +1,122 @@
+<!--
+CSCI 344: Programming Language Concepts Lab 4
+Author: Alvin Lin (axl1439)
+-->
+<!doctype html>
+
+<html>
+  <head>
+    <style>
+      html, body {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        border: 0;
+      }
+
+      #container {
+        width: 100%;
+        padding: 50px 0;
+      }
+
+      table {
+        margin: auto;
+        border: 1px solid black;
+      }
+
+      input {
+        text-align: right;
+      }
+
+      button {
+        width: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id='container'></div>
+  </body>
+
+  <script src="arith-plugin.js"></script>
+  <script>
+  /**
+   * Code to generate the UI and set button event handlers.
+   */
+  window.onload = function() {
+    var calc = new Arith()
+
+    // Useful aliases
+    var getElement = document.getElementById.bind(document)
+    var createElement = document.createElement.bind(document)
+    var setElementText = function(element, text) {
+      element.innerHTML = text
+    }
+
+    var container = getElement('container')
+    var table = createElement('table')
+
+    // Build the UI element for the input display at the top
+    var tr = createElement('tr')
+    var td = createElement('td')
+    var input = createElement('input')
+    input.setAttribute('disabled', true)
+    td.setAttribute('colspan', 4)
+    td.appendChild(input)
+    tr.appendChild(td)
+    table.appendChild(tr)
+
+    // Event handler applied to each button
+    var buttonLayout = [
+      ['7', '8', '9', '+'],
+      ['4', '5', '6', '-'],
+      ['1', '2', '3', '*'],
+      ['C', '0', 'E', '/']
+    ]
+    var lastButton = null
+    var applyEventHandlers = function(button) {
+      var text = button.innerHTML
+      button.onclick = function() {
+        if (!isNaN(text)) {
+          if (Arith.opNames.indexOf(lastButton) !== -1) {
+            calc.enter()
+            calc.setStackTop(+text)
+          } else if (lastButton === 'E') {
+            calc.setStackTop(+text)
+          } else {
+            calc.appendNumber(+text)
+          }
+        } else if (text === 'C') {
+          calc.setStackTop(0)
+        } else if (text === 'E') {
+          calc.enter()
+        } else if (Arith.opNames.indexOf(text) !== -1) {
+          var method = Arith.opList[text]
+          method.call(calc)
+        } else {
+          throw new Error('Unknown operation encountered!')
+        }
+        input.value = calc.getStackTop()
+        lastButton = text
+      }
+    }
+
+    // Build the UI for each button
+    for (var i = 0; i < buttonLayout.length; ++i) {
+      var tr = createElement('tr')
+      for (var j = 0; j < buttonLayout[i].length; ++j) {
+        var td = createElement('td')
+        var button = createElement('button')
+        var text = buttonLayout[i][j]
+        setElementText(button, text)
+        applyEventHandlers(button, text, input)
+        td.appendChild(button)
+        tr.appendChild(td)
+      }
+      table.appendChild(tr)
+    }
+    container.appendChild(table)
+    input.value = calc.getStackTop()
+  }
+  </script>
+</html>

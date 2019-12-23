@@ -1,0 +1,4 @@
+|= Make sure counting newlines on lines with trailing whitespace works =|
+begin
+x := +               
+end

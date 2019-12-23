@@ -1,0 +1,2 @@
+|= Looks like unary subtraction, but really it it an invalid binary op =|
+x := - 42

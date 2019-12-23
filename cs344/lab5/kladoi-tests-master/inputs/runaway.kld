@@ -1,0 +1,6 @@
+begin
+    i := 5
+    while - i 5
+        j := * i i
+    |=
+end

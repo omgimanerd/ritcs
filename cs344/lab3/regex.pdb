@@ -1,0 +1,18 @@
+/*
+ * Regular Expressions in Prolog
+ * Author: Alvin Lin (axl1439)
+ */
+
+re_contains(empty, []).
+
+re_contains(A, [A]).
+
+re_contains(seq(A, B), X) :- append(L1, L2, X), re_contains(A, L1), re_contains(B, L2).
+
+re_contains(union(A, B), X) :- re_contains(A, X); re_contains(B, X).
+
+re_contains(kleene(_), []).
+re_contains(kleene(A), X) :- re_contains(A, X).
+re_contains(kleene(A), X) :-
+                       append(L1, L2, X), L1 \= [],
+                       re_contains(A, L1), re_contains(kleene(A), L2).

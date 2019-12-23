@@ -1,0 +1,3 @@
+|= Multi line comment,
+    error is on line 4. =|
+x :=
