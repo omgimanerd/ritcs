@@ -1,0 +1,3 @@
+*.kml
+__pycache__
+project2/*.csv
